@@ -1,0 +1,1796 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66ffd8bd4d587300122c232f",
+                "slug": "product-manager-intern-5",
+                "role": "Product Manager Intern",
+                "authorId": "668ce7b0653c1b001294c5d4",
+                "stats": {
+                    "viewCount": 427,
+                    "nonCuratedCount": 44
+                },
+                "employmentTypes": [
+                    "internship"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-04T11:59:57.996Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        4
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "646353e604e6450012c75b5c",
+                "categoryId": null,
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "transport",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "ASTRO",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-13T10:00:35.276Z",
+                    "id": "646353e604e6450012c75b5c",
+                    "sector": "Online Groceries",
+                    "slug": "astro",
+                    "logoUrl": "https://cdn.sejutacita.id/6347987c82722200133d4625/JobPortalCompanyLogo/902dfd98-c9f5-4cce-b748-c92c470241ac.jpg",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Khalishah Ayu Zihni",
+                    "id": "668ce7d2bbcac50012e7d290",
+                    "email": "khalishah.zihni@astronauts.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-04T11:59:58.004Z",
+                "updatedAt": "2024-10-04T11:59:58.332Z",
+                "updatedAtByEmployer": "2024-10-04T11:59:57.996Z",
+                "latestUpdatedAt": "2024-10-04T11:59:58.000Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T12:00:58.647Z"
+            },
+            {
+                "id": "66fcbe6c6fcad30012ed263a",
+                "slug": "lead-product-content-management",
+                "role": "Lead Product Content Management",
+                "authorId": "668ce7b0653c1b001294c5d4",
+                "stats": {
+                    "viewCount": 506,
+                    "nonCuratedCount": 39
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-02T03:30:52.557Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775a82"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "646353e604e6450012c75b5c",
+                "categoryId": "630cfecf51c6b2001373136d",
+                "categorySlug": "marketing-and-social-media",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "transport",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "ASTRO",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-13T10:00:35.276Z",
+                    "id": "646353e604e6450012c75b5c",
+                    "sector": "Online Groceries",
+                    "slug": "astro",
+                    "logoUrl": "https://cdn.sejutacita.id/6347987c82722200133d4625/JobPortalCompanyLogo/902dfd98-c9f5-4cce-b748-c92c470241ac.jpg",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Content Management",
+                        "id": "6226f6692d9a642279775a82"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Khalishah Ayu Zihni",
+                    "id": "668ce7d2bbcac50012e7d290",
+                    "email": "khalishah.zihni@astronauts.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-02T03:30:52.566Z",
+                "updatedAt": "2024-10-02T10:06:58.750Z",
+                "updatedAtByEmployer": "2024-10-02T03:30:52.557Z",
+                "latestUpdatedAt": "2024-10-02T03:30:52.560Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T12:00:58.647Z"
+            },
+            {
+                "id": "65f25b9d4d6643001276d5f8",
+                "slug": "assistant-to-product-manager",
+                "role": "Assistant Product Manager ( Air conditioner product specialist)",
+                "authorId": "655f32982470a300146fe73f",
+                "stats": {
+                    "viewCount": 25877,
+                    "nonCuratedCount": 1519
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-03-14T02:06:21.398Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "65f3f6a0bce20e0012d3c73e",
+                        "65f3f6a7bce20e0012d3c89a",
+                        "65f3f6c82a9a2800121e1481"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "62a85393115f840012905f9c",
+                "categoryId": "62c83233b9f25e001304846d",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "transport",
+                            "freeMeals",
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT Gree Electric Appliances Indonesia",
+                    "rank": "A",
+                    "trialStartedAt": "2023-11-23T17:00:00.000Z",
+                    "id": "62a85393115f840012905f9c",
+                    "sector": "Electronics",
+                    "logoUrl": "https://cdn.sejutacita.id/62a850f42ebf290013dd8454/Others/63cb8523-50e2-4a58-9be0-1cc4013f9140.png",
+                    "slug": "pt-gree-electric-appliances-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Air Conditioner Product",
+                        "id": "65f3f6a0bce20e0012d3c73e"
+                    },
+                    {
+                        "name": "HVAC Specialist",
+                        "id": "65f3f6a7bce20e0012d3c89a"
+                    },
+                    {
+                        "name": "Home Appliance Product Manager",
+                        "id": "65f3f6c82a9a2800121e1481"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rio Bong",
+                    "id": "655f32af3a5e550012c9867e",
+                    "email": "rio.bong@gree.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-03-14T02:06:21.408Z",
+                "updatedAt": "2024-09-10T10:24:56.473Z",
+                "updatedAtByEmployer": "2024-07-16T08:19:35.975Z",
+                "latestUpdatedAt": "2024-07-16T08:19:35.975Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:27:23.023Z"
+            },
+            {
+                "id": "66d04141b057750012b39733",
+                "slug": "product-manager-intern-4",
+                "role": "Product Manager Intern",
+                "authorId": "668ce7b0653c1b001294c5d4",
+                "stats": {
+                    "viewCount": 2629,
+                    "nonCuratedCount": 1016
+                },
+                "employmentTypes": [
+                    "internship"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-08-29T09:37:05.435Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "646353e604e6450012c75b5c",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "transport",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "ASTRO",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-13T10:00:35.276Z",
+                    "id": "646353e604e6450012c75b5c",
+                    "sector": "Online Groceries",
+                    "logoUrl": "https://cdn.sejutacita.id/6347987c82722200133d4625/JobPortalCompanyLogo/902dfd98-c9f5-4cce-b748-c92c470241ac.jpg",
+                    "slug": "astro",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Khalishah Ayu Zihni",
+                    "id": "668ce7d2bbcac50012e7d290",
+                    "email": "khalishah.zihni@astronauts.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-29T09:37:05.442Z",
+                "updatedAt": "2024-09-10T10:24:52.180Z",
+                "updatedAtByEmployer": "2024-08-30T18:03:09.966Z",
+                "latestUpdatedAt": "2024-08-29T09:37:05.438Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T12:00:58.647Z"
+            },
+            {
+                "id": "66e16c0cd1719d00124a085f",
+                "slug": "product-manager-75",
+                "role": "Product Manager",
+                "authorId": "6644590207cff600134b3e11",
+                "stats": {
+                    "viewCount": 2595,
+                    "nonCuratedCount": 475
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-11T10:08:12.360Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "663aed166419ac001249edbe",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "casualDressCode",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "HappyFresh",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-08T08:47:15.473Z",
+                    "id": "663aed166419ac001249edbe",
+                    "sector": "E-commerce and Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/663aebfe387f6c0013ac27d3/JobPortalCompanyLogo/6689079a-dfdb-4825-8042-ee0e085ed4a1.jfif",
+                    "slug": "happyfresh",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Miranda Apriyanti",
+                    "id": "664459262cb1d700129e311a",
+                    "email": "miranda.apriyanti@happyfresh.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-11T10:08:12.364Z",
+                "updatedAt": "2024-09-25T09:39:57.972Z",
+                "updatedAtByEmployer": "2024-09-25T09:39:50.680Z",
+                "latestUpdatedAt": "2024-09-11T10:08:12.362Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T11:51:11.279Z"
+            },
+            {
+                "id": "66446daed71e88001162f1ef",
+                "slug": "product-manager-57",
+                "role": "Product Manager",
+                "authorId": "66335bf1de17860014773d15",
+                "stats": {
+                    "viewCount": 7161,
+                    "nonCuratedCount": 1360
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-05-15T08:09:18.477Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "62c406d3c9c89e0013533ca4",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave",
+                            "Internet Allowance",
+                            "Workstation Subsidy"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": "seriesB",
+                        "fundingAmount": 0
+                    },
+                    "name": "Flip",
+                    "rank": "A",
+                    "trialStartedAt": "2022-07-05T09:39:31.263Z",
+                    "id": "62c406d3c9c89e0013533ca4",
+                    "sector": "Financial Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/62c405a1a871b90013659af9/Others/9b4b1955-bc84-4940-b03d-0bfc6dd30ea2.png",
+                    "slug": "flip",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Wulan Mayastika",
+                    "id": "66335c8f551b530013746639",
+                    "email": "wulan@flip.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-15T08:09:18.483Z",
+                "updatedAt": "2024-09-10T10:05:09.430Z",
+                "updatedAtByEmployer": "2024-05-15T08:09:18.477Z",
+                "latestUpdatedAt": "2024-05-15T08:09:18.480Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-03T10:42:38.225Z"
+            },
+            {
+                "id": "65bae5586d980200122999b2",
+                "slug": "product-manager-45",
+                "role": "Product Manager",
+                "authorId": "6464494d2275c500133ba12f",
+                "stats": {
+                    "viewCount": 11077,
+                    "nonCuratedCount": 3086
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "remote",
+                "publishedAt": "2024-02-01T00:27:04.440Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": null,
+                "city": null,
+                "companyId": "646353e604e6450012c75b5c",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "transport",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "ASTRO",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-13T10:00:35.276Z",
+                    "id": "646353e604e6450012c75b5c",
+                    "sector": "Online Groceries",
+                    "logoUrl": "https://cdn.sejutacita.id/6347987c82722200133d4625/JobPortalCompanyLogo/902dfd98-c9f5-4cce-b748-c92c470241ac.jpg",
+                    "slug": "astro",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Sandi Kurniadi",
+                    "id": "6464498f1d5ef80012be4cc3",
+                    "email": "sandi.kurniadi@astronauts.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-02-01T00:27:04.446Z",
+                "updatedAt": "2024-09-10T10:19:17.293Z",
+                "updatedAtByEmployer": "2024-02-13T07:15:24.363Z",
+                "latestUpdatedAt": "2024-02-01T00:27:04.443Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T12:00:58.647Z"
+            },
+            {
+                "id": "62bd677c7e07610012e6c110",
+                "slug": "product-manager-10",
+                "role": "Product Manager (B2B)",
+                "authorId": "62343edc130c09001307ca9d",
+                "stats": {
+                    "viewCount": 31451,
+                    "nonCuratedCount": 28
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2022-06-30T09:06:04.330Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "623480aec757f900121d3b8f",
+                "categoryId": "62c83233b9f25e001304846d",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "casualDressCode",
+                            "paidSickDays",
+                            "medicalLeave",
+                            "teamBuilding",
+                            "maternityLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "seed",
+                        "fundingAmount": null
+                    },
+                    "name": "Dealls (YC W22)",
+                    "rank": "A",
+                    "trialStartedAt": "2022-03-18T12:53:02.873Z",
+                    "id": "623480aec757f900121d3b8f",
+                    "sector": "Tech",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/3246d463-d005-4125-b2a1-7133452a5b30.png",
+                    "slug": "dealls-yc-w22",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Cheryl",
+                    "id": "6237fa29c757f900121d64cb",
+                    "email": "support@usedeall.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-06-30T09:06:04.410Z",
+                "updatedAt": "2024-09-17T13:34:26.548Z",
+                "updatedAtByEmployer": "2024-09-17T13:34:02.981Z",
+                "latestUpdatedAt": "2024-09-17T13:22:13.403Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-06T01:53:03.829Z"
+            },
+            {
+                "id": "66f66e279123180012440ba5",
+                "slug": "community-production-manager",
+                "role": "Community Production Manager",
+                "authorId": "66f6584ca9977f0013df9e94",
+                "stats": {
+                    "viewCount": 1233,
+                    "nonCuratedCount": 51
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-09-27T08:34:47.992Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 1000000,
+                    "end": 7000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Indonesia",
+                    "id": 49181
+                },
+                "companyId": "66f65faa5ac8480012c6c8be",
+                "categoryId": "630cfecf51c6b2001373136d",
+                "categorySlug": "marketing-and-social-media",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "transport"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "flexible",
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT KARYA BIRU INOVASI",
+                    "rank": "C",
+                    "trialStartedAt": "2024-09-26T17:00:00.000Z",
+                    "id": "66f65faa5ac8480012c6c8be",
+                    "sector": "Perikanan",
+                    "logoUrl": "https://cdn.sejutacita.id/66f6584ca9977f0013df9e94/JobPortalCompanyLogo/57f13689-59b6-46d3-b533-978a1cc535db.jpeg",
+                    "slug": "pt-karya-biru-inovasi",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT KARYA BIRU INOVASI",
+                    "id": "66f65faa5ac8480012c6c8c2",
+                    "email": "finance@birufinery.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-27T08:34:47.999Z",
+                "updatedAt": "2024-10-02T02:25:03.314Z",
+                "updatedAtByEmployer": "2024-09-27T08:34:47.991Z",
+                "latestUpdatedAt": "2024-09-27T08:34:47.996Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-09-27T10:11:37.262Z"
+            },
+            {
+                "id": "66a7364d57988d00123def12",
+                "slug": "assistant-product-manager-mandarin-speaker",
+                "role": "Assistant Product Manager (Mandarin Speaker)",
+                "authorId": "65f1611a9e50c300135c9dc4",
+                "stats": {
+                    "viewCount": 3322,
+                    "nonCuratedCount": 7
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-29T06:27:25.004Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62f5cc55e35eed00122d67ad",
+                        "6275e4379fbcad001261bf8a",
+                        "62989ad162a374001589c4d6"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "65a4cce8b41b9900139bcb08",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "internationalExposure",
+                            "bonusSystem",
+                            "freeMeals",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "professionalDevelopment",
+                            "wellnessProgram"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Indonesia Fintopia Technology (Easycash)",
+                    "rank": "C",
+                    "trialStartedAt": "2024-01-14T17:00:00.000Z",
+                    "id": "65a4cce8b41b9900139bcb08",
+                    "sector": "Tech Company, Fintech",
+                    "logoUrl": "https://cdn.sejutacita.id/65a4cc0a28a24e0013894391/JobPortalCompanyLogo/753908d0-a27b-473a-a313-7d980fd96331.jpg",
+                    "slug": "pt-indonesia-fintipia-technology-easycash",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Chinese Language (Conversational)",
+                        "id": "6275e4379fbcad001261bf8a"
+                    },
+                    {
+                        "name": "English Profieciency",
+                        "id": "62989ad162a374001589c4d6"
+                    },
+                    {
+                        "name": "Product Strategy",
+                        "id": "62f5cc55e35eed00122d67ad"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Michelle Christine",
+                    "id": "65f1614af686570012fc50a6",
+                    "email": "michelle.christine@fintopia.tech"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-29T06:27:25.022Z",
+                "updatedAt": "2024-09-10T02:47:36.969Z",
+                "updatedAtByEmployer": "2024-09-05T08:39:30.264Z",
+                "latestUpdatedAt": "2024-07-29T06:27:25.011Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T17:46:36.145Z"
+            },
+            {
+                "id": "66fce00b6fcad30012f2b083",
+                "slug": "product-manager-rewards-and-loyalty",
+                "role": "Product Manager \u2013 Rewards & Loyalty (Jakarta)",
+                "authorId": "66b04af2c4368e001369768d",
+                "stats": {
+                    "viewCount": 173,
+                    "nonCuratedCount": 39
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-02T05:54:19.654Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab0",
+                        "622b0e91be54556586724907",
+                        "622b0e91be54556586724903",
+                        "62e7de9ca9c72200129745a0"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        7,
+                        6,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "666286329a44b10012935894",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "companyOutings",
+                            "teamBuilding",
+                            "gymMembership",
+                            "paidSickDays",
+                            "vacationTime",
+                            "wellnessProgram",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Mondooli",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-07T04:02:07.160Z",
+                    "id": "666286329a44b10012935894",
+                    "sector": "Banking & Finance",
+                    "logoUrl": "https://cdn.sejutacita.id/666284ce6eca6a001350c185/JobPortalCompanyLogo/fd2033e5-8530-4660-9dd2-f351c5bdb4f6.png",
+                    "slug": "mondooli",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Negotiation",
+                        "id": "6226f6692d9a642279775ab0"
+                    },
+                    {
+                        "name": "Relationship Management",
+                        "id": "622b0e91be54556586724907"
+                    },
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "Creative Thinking",
+                        "id": "62e7de9ca9c72200129745a0"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "I Made Arta Kurniawan",
+                    "id": "66b04b4864a32e00138d4691",
+                    "email": "arta.kurniawan@mondooli.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-02T05:54:19.663Z",
+                "updatedAt": "2024-10-03T07:17:25.369Z",
+                "updatedAtByEmployer": "2024-10-03T07:17:25.008Z",
+                "latestUpdatedAt": "2024-10-02T05:54:19.660Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T16:12:06.921Z"
+            },
+            {
+                "id": "66fb7e90b50eb20012d1afa2",
+                "slug": "product-manager-insurance",
+                "role": "Product Manager - Insurance",
+                "authorId": "66b04af2c4368e001369768d",
+                "stats": {
+                    "viewCount": 207,
+                    "nonCuratedCount": 43
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-01T04:46:08.235Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab0",
+                        "6226f6692d9a642279775aab",
+                        "622b0e91be54556586724903",
+                        "622b0e91be54556586724907"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "666286329a44b10012935894",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "companyOutings",
+                            "teamBuilding",
+                            "gymMembership",
+                            "paidSickDays",
+                            "vacationTime",
+                            "wellnessProgram",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Mondooli",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-07T04:02:07.160Z",
+                    "id": "666286329a44b10012935894",
+                    "sector": "Banking & Finance",
+                    "logoUrl": "https://cdn.sejutacita.id/666284ce6eca6a001350c185/JobPortalCompanyLogo/fd2033e5-8530-4660-9dd2-f351c5bdb4f6.png",
+                    "slug": "mondooli",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Negotiation",
+                        "id": "6226f6692d9a642279775ab0"
+                    },
+                    {
+                        "name": "Leadership",
+                        "id": "6226f6692d9a642279775aab"
+                    },
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "Relationship Management",
+                        "id": "622b0e91be54556586724907"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "I Made Arta Kurniawan",
+                    "id": "66b04b4864a32e00138d4691",
+                    "email": "arta.kurniawan@mondooli.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T04:46:08.248Z",
+                "updatedAt": "2024-10-02T13:01:44.097Z",
+                "updatedAtByEmployer": "2024-10-02T13:01:43.799Z",
+                "latestUpdatedAt": "2024-10-01T04:46:08.241Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T16:12:06.921Z"
+            },
+            {
+                "id": "63104dff9c338f001285add7",
+                "slug": "product-manager-17",
+                "role": "Product Manager",
+                "authorId": "62b42daeeb313c0013d40e59",
+                "stats": {
+                    "viewCount": 7623,
+                    "nonCuratedCount": 580
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-09-01T06:15:27.472Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab6"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Yogyakarta",
+                    "id": 227
+                },
+                "companyId": "62b43059f9aaf2001215523c",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "gymMembership",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "professionalDevelopment",
+                            "wellnessProgram",
+                            "Privy Sport Plus: Fun sport exercise programs (badminton, futsal, tamiya, basket, etc.)",
+                            "Privy Mind: PrivyMind: Free psychological consultation to keep your mental health on track. "
+                        ],
+                        "workingPolicies": [
+                            "flexible",
+                            "hybrid",
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": null
+                    },
+                    "name": "Privy",
+                    "rank": "B",
+                    "trialStartedAt": "2022-06-23T09:20:25.394Z",
+                    "id": "62b43059f9aaf2001215523c",
+                    "sector": "SaaS",
+                    "logoUrl": "https://cdn.sejutacita.id/62b42daeeb313c0013d40e59/Others/b85e7953-5f98-4e0c-ae4a-fdd262cf8da9.jpeg",
+                    "slug": "privy",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Product Management",
+                        "id": "6226f6692d9a642279775ab6"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Goldy Imlenia",
+                    "id": "62b43059f9aaf2001215523f",
+                    "email": "hiring@privy.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-09-01T06:15:27.559Z",
+                "updatedAt": "2024-09-10T09:35:12.967Z",
+                "updatedAtByEmployer": "2024-06-11T04:48:52.362Z",
+                "latestUpdatedAt": "2024-06-11T04:48:11.556Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-09-30T04:28:52.763Z"
+            },
+            {
+                "id": "66b42ba0a292c60012b3eb53",
+                "slug": "it-product-management-lead-1",
+                "role": "IT Product Management Lead",
+                "authorId": "650bbc59e988fd001339a52d",
+                "stats": {
+                    "viewCount": 8386,
+                    "nonCuratedCount": 76
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-08T02:21:20.367Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rina Chairunnisa",
+                    "id": "650bbc9af4f49c00127a02f4",
+                    "email": "rina.chairunnisa@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-08T02:21:20.373Z",
+                "updatedAt": "2024-10-02T03:06:47.324Z",
+                "updatedAtByEmployer": "2024-10-02T03:06:47.323Z",
+                "latestUpdatedAt": "2024-08-08T02:21:20.370Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T13:13:15.430Z"
+            },
+            {
+                "id": "665973f2321261001141544f",
+                "slug": "product-manager-62",
+                "role": "Product Manager",
+                "authorId": "64408fe447397f0013ec68c0",
+                "stats": {
+                    "viewCount": 5338,
+                    "nonCuratedCount": 36
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-05-31T06:53:38.056Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 7000000,
+                    "end": 13000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab5",
+                        "62eaf97e9f86fe0012992e97",
+                        "646352f61d5ef80012b9553e",
+                        "6226f6692d9a642279775ab6",
+                        "629dbdde1bf516001239f8bc"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "62579aff111f9e001337c14a",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "teamBuilding",
+                            "companyOutings",
+                            "maternityLeave",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "Remote working opportunity"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": "Self-funded",
+                        "fundingAmount": null
+                    },
+                    "name": "Jakmall.com",
+                    "rank": "B",
+                    "trialStartedAt": "2023-04-19T07:01:30.632Z",
+                    "id": "62579aff111f9e001337c14a",
+                    "sector": "Information Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/6257995459bce60014f74cd0/Others/351341ac-17ca-4d19-88ae-27af96f6aaf4.png",
+                    "slug": "jakmallcom",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Product Development",
+                        "id": "6226f6692d9a642279775ab5"
+                    },
+                    {
+                        "name": "Product Management",
+                        "id": "6226f6692d9a642279775ab6"
+                    },
+                    {
+                        "name": "Product Research",
+                        "id": "629dbdde1bf516001239f8bc"
+                    },
+                    {
+                        "name": "Product Analytics",
+                        "id": "62eaf97e9f86fe0012992e97"
+                    },
+                    {
+                        "name": "End-To-End Product",
+                        "id": "646352f61d5ef80012b9553e"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Grace Stella",
+                    "id": "644090ee466ba8001279b053",
+                    "email": "grace.stella@jakmall.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-31T06:53:38.062Z",
+                "updatedAt": "2024-09-10T09:05:03.223Z",
+                "updatedAtByEmployer": "2024-09-03T03:29:13.537Z",
+                "latestUpdatedAt": "2024-05-31T06:53:38.059Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T07:57:29.722Z"
+            },
+            {
+                "id": "666bb7579b21b40012eff023",
+                "slug": "product-manager-mandarin-speaker",
+                "role": "Product Manager (Mandarin Speaker)",
+                "authorId": "6660188507cff6001352fa20",
+                "stats": {
+                    "viewCount": 8301,
+                    "nonCuratedCount": 1
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-06-14T03:21:59.625Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6284a5ae49476f0015ec3ca0",
+                        "627477ea9fbcad001261929a",
+                        "6358d9140a02eb0013d70fe9"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "User Research",
+                        "id": "627477ea9fbcad001261929a"
+                    },
+                    {
+                        "name": "Mandarin",
+                        "id": "6284a5ae49476f0015ec3ca0"
+                    },
+                    {
+                        "name": "User Acquisition",
+                        "id": "6358d9140a02eb0013d70fe9"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Katherina Mandey",
+                    "id": "666018d4edb7be0012af7809",
+                    "email": "katherina.mandey@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-06-14T03:21:59.635Z",
+                "updatedAt": "2024-09-10T09:05:27.336Z",
+                "updatedAtByEmployer": "2024-09-09T09:28:02.445Z",
+                "latestUpdatedAt": "2024-06-14T03:21:59.631Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T13:13:15.430Z"
+            },
+            {
+                "id": "66f37c7d4bfc81001191812f",
+                "slug": "product-manager-77",
+                "role": "Product Manager",
+                "authorId": "664325c6c547c500131f7054",
+                "stats": {
+                    "viewCount": 920,
+                    "nonCuratedCount": 68
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-25T02:59:09.570Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 9800000,
+                    "end": 10000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab6",
+                        "6226f6692d9a642279775ab5",
+                        "622b0e91be545565867248dc",
+                        "62c662bc38af2c0014ae3e62"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Yogyakarta",
+                    "id": 227
+                },
+                "companyId": "62dfaf972aa8890012bfb3bf",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "transport",
+                            "periodLeave",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "maternityLeave",
+                            "paidSickDays"
+                        ],
+                        "workingPolicies": [
+                            "flexible",
+                            "hybrid",
+                            "onSite"
+                        ],
+                        "fundingStage": "Pre-series A",
+                        "fundingAmount": null
+                    },
+                    "name": "JALA",
+                    "rank": "B",
+                    "trialStartedAt": "2024-05-12T17:00:00.000Z",
+                    "id": "62dfaf972aa8890012bfb3bf",
+                    "sector": "Technology, Information, Internet",
+                    "logoUrl": "https://cdn.sejutacita.id/62dfae32f000a80015cad4ba/Others/be7038ca-fa9b-4cb9-9eea-fb609f0f37a1.png",
+                    "slug": "jala",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Product Management",
+                        "id": "6226f6692d9a642279775ab6"
+                    },
+                    {
+                        "name": "Product Development",
+                        "id": "6226f6692d9a642279775ab5"
+                    },
+                    {
+                        "name": "Data Analysis",
+                        "id": "622b0e91be545565867248dc"
+                    },
+                    {
+                        "name": "Problem Solving Skill",
+                        "id": "62c662bc38af2c0014ae3e62"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Virandra Kirana Primadhani",
+                    "id": "664325ea1ccfa600124ec9f8",
+                    "email": "virandra@jala.tech"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-25T02:59:09.577Z",
+                "updatedAt": "2024-09-26T07:47:59.641Z",
+                "updatedAtByEmployer": "2024-09-26T07:47:59.640Z",
+                "latestUpdatedAt": "2024-09-25T02:59:09.574Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T11:03:32.034Z"
+            },
+            {
+                "id": "66ebaafae5dd94001235d441",
+                "slug": "associate-product-manager-intern",
+                "role": "Associate Product Manager Intern",
+                "authorId": "664325c6c547c500131f7054",
+                "stats": {
+                    "viewCount": 1178,
+                    "nonCuratedCount": 7
+                },
+                "employmentTypes": [
+                    "internship"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-19T04:39:22.149Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 1200000,
+                    "end": 1250000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab6",
+                        "6226f6692d9a642279775ac7",
+                        "62c662bc38af2c0014ae3e62",
+                        "63d7554d3d33ae0012090e23",
+                        "62da790158c12f00123e74c4"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        4
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Yogyakarta",
+                    "id": 227
+                },
+                "companyId": "62dfaf972aa8890012bfb3bf",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "transport",
+                            "periodLeave",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "maternityLeave",
+                            "paidSickDays"
+                        ],
+                        "workingPolicies": [
+                            "flexible",
+                            "hybrid",
+                            "onSite"
+                        ],
+                        "fundingStage": "Pre-series A",
+                        "fundingAmount": null
+                    },
+                    "name": "JALA",
+                    "rank": "B",
+                    "trialStartedAt": "2024-05-12T17:00:00.000Z",
+                    "id": "62dfaf972aa8890012bfb3bf",
+                    "sector": "Technology, Information, Internet",
+                    "logoUrl": "https://cdn.sejutacita.id/62dfae32f000a80015cad4ba/Others/be7038ca-fa9b-4cb9-9eea-fb609f0f37a1.png",
+                    "slug": "jala",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Product Management",
+                        "id": "6226f6692d9a642279775ab6"
+                    },
+                    {
+                        "name": "Software Development",
+                        "id": "6226f6692d9a642279775ac7"
+                    },
+                    {
+                        "name": "Problem Solving Skill",
+                        "id": "62c662bc38af2c0014ae3e62"
+                    },
+                    {
+                        "name": "Analytical Skills",
+                        "id": "63d7554d3d33ae0012090e23"
+                    },
+                    {
+                        "name": "Communication Skills",
+                        "id": "62da790158c12f00123e74c4"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Virandra Kirana Primadhani",
+                    "id": "664325ea1ccfa600124ec9f8",
+                    "email": "virandra@jala.tech"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-19T04:39:22.155Z",
+                "updatedAt": "2024-09-19T05:45:57.398Z",
+                "updatedAtByEmployer": "2024-09-19T04:39:22.148Z",
+                "latestUpdatedAt": "2024-09-19T04:39:22.152Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T11:03:32.034Z"
+            }
+        ],
+        "totalDocs": 26,
+        "totalPages": 2,
+        "page": 1
+    },
+    "code": 200
+}

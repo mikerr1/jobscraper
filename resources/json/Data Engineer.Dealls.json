@@ -1,0 +1,1607 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66349e6085c8720012fa09f9",
+                "slug": "data-engineer-26",
+                "role": "Data Engineer",
+                "authorId": "659b6ecf5c64780014fc70dc",
+                "stats": {
+                    "viewCount": 9707,
+                    "nonCuratedCount": 176
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-03T08:20:48.865Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62a7fff2115f840012902638",
+                        "62fca125723f40001294659d",
+                        "622b0e91be545565867248e1",
+                        "63984352402d930012c04b51",
+                        "628fbe24eae168001358c169"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "659b6fba5e0e29001241c783",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "medicalLeave",
+                            "transport",
+                            "maternityLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "Astra Financial",
+                    "rank": "A",
+                    "trialStartedAt": "2024-01-08T04:16:27.167Z",
+                    "id": "659b6fba5e0e29001241c783",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/659b6ecf5c64780014fc70dc/JobPortalCompanyLogo/070f67df-af52-4ee1-b252-d586e0eb6ba0.jpg",
+                    "slug": "astra-financial",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Data Mining",
+                        "id": "622b0e91be545565867248e1"
+                    },
+                    {
+                        "name": "Hadoop",
+                        "id": "628fbe24eae168001358c169"
+                    },
+                    {
+                        "name": "Big Data",
+                        "id": "62a7fff2115f840012902638"
+                    },
+                    {
+                        "name": "Data Engineering",
+                        "id": "62fca125723f40001294659d"
+                    },
+                    {
+                        "name": "ETL Tools",
+                        "id": "63984352402d930012c04b51"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Audrey Budiman",
+                    "id": "659b6fba5e0e29001241c787",
+                    "email": "audrey.budiman@astrafinancial.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-03T08:20:48.870Z",
+                "updatedAt": "2024-09-10T10:18:17.655Z",
+                "updatedAtByEmployer": "2024-08-28T04:27:17.009Z",
+                "latestUpdatedAt": "2024-05-03T08:20:48.868Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:41:29.591Z"
+            },
+            {
+                "id": "65c0580b292c820011fe70b9",
+                "slug": "it-data-engineer-1",
+                "role": "IT Data Engineer",
+                "authorId": "656e832cd4f8f00012e8d264",
+                "stats": {
+                    "viewCount": 8766,
+                    "nonCuratedCount": 1082
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-02-05T03:37:47.897Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ac8",
+                        "628fbe24eae168001358c169",
+                        "6374add695712d00122acd72",
+                        "628fbe21a39fae001238ebf2",
+                        "630c6fb00b898e0013aacd24"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "656e83c0e79a5b00127ee6c6",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "periodLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT TOYOTA ASTRA FINANCIAL SERVICES",
+                    "rank": "A",
+                    "trialStartedAt": "2023-12-05T02:47:20.355Z",
+                    "id": "656e83c0e79a5b00127ee6c6",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/656e832cd4f8f00012e8d264/JobPortalCompanyLogo/2ff7e5f4-e9cf-4d03-bd38-a227835b6614.jpg",
+                    "slug": "pt-toyota-astra-financial-services",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "Kafka",
+                        "id": "628fbe21a39fae001238ebf2"
+                    },
+                    {
+                        "name": "Hadoop",
+                        "id": "628fbe24eae168001358c169"
+                    },
+                    {
+                        "name": "Pentaho",
+                        "id": "630c6fb00b898e0013aacd24"
+                    },
+                    {
+                        "name": "Spark",
+                        "id": "6374add695712d00122acd72"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "annisa sabarina",
+                    "id": "656e83c0e79a5b00127ee6ca",
+                    "email": "annisa.sabarina@taf.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-02-05T03:37:47.908Z",
+                "updatedAt": "2024-09-10T09:53:27.978Z",
+                "updatedAtByEmployer": "2024-08-02T08:52:26.027Z",
+                "latestUpdatedAt": "2024-02-05T03:37:47.903Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T07:47:42.773Z"
+            },
+            {
+                "id": "66cef393126f0b00126974bf",
+                "slug": "data-engineer-36",
+                "role": "Data Engineer",
+                "authorId": "6593e617b672bc0013339629",
+                "stats": {
+                    "viewCount": 1601,
+                    "nonCuratedCount": 153
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-28T09:53:23.086Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang",
+                    "id": 272
+                },
+                "companyId": "634243da28c4ce001364b2e5",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "transport",
+                            "teamBuilding",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "companyOutings",
+                            "childCareAssistance",
+                            "employeeDiscounts",
+                            "gymMembership",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "professionalDevelopment",
+                            "recreationalArea",
+                            "vacationTime",
+                            "wellnessProgram"
+                        ],
+                        "workingPolicies": [
+                            "flexible",
+                            "hybrid",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesA",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Multipolar Technology",
+                    "rank": "A",
+                    "trialStartedAt": "2024-01-03T17:00:00.000Z",
+                    "id": "634243da28c4ce001364b2e5",
+                    "sector": "Information Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/63424166a818920013dc6af9/JobPortalCompanyLogo/a1b65e8a-ab96-4987-80ed-6067efc0f068.jpg",
+                    "slug": "pt-multipolar-technology",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Maria Ocktaviani",
+                    "id": "6593e80bd01d3b00123a98c7",
+                    "email": "maria.ocktaviani@multipolar.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-28T09:53:23.093Z",
+                "updatedAt": "2024-09-10T10:24:53.939Z",
+                "updatedAtByEmployer": "2024-08-28T09:53:23.085Z",
+                "latestUpdatedAt": "2024-08-28T09:53:23.090Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T13:53:09.991Z"
+            },
+            {
+                "id": "66b0704b38342400121820d0",
+                "slug": "data-engineer-intern-2",
+                "role": "Data Engineer Intern",
+                "authorId": "64b63edf1d22aa001389c821",
+                "stats": {
+                    "viewCount": 5003,
+                    "nonCuratedCount": 560
+                },
+                "employmentTypes": [
+                    "internship"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-05T06:25:15.883Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5,
+                        4
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "645065cb5a75be0012ab1447",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT.Enseval Putera Megatrading Tbk",
+                    "rank": "A",
+                    "trialStartedAt": "2023-05-02T01:24:35.881Z",
+                    "id": "645065cb5a75be0012ab1447",
+                    "sector": "Pharmaceutical Manufacturing",
+                    "logoUrl": "https://cdn.sejutacita.id/645062b3bcd1810013e71a67/JobPortalCompanyLogo/227545ca-91d6-4227-a35b-a2ef269d6534.jpg",
+                    "slug": "ptenseval-putera-megatrading-tbk",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Belinda Werdiningsih",
+                    "id": "64b63f310c96c200115879ba",
+                    "email": "belinda.werdiningsih@enseval.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-05T06:25:15.889Z",
+                "updatedAt": "2024-09-10T10:20:27.687Z",
+                "updatedAtByEmployer": "2024-08-29T06:38:20.904Z",
+                "latestUpdatedAt": "2024-08-05T06:25:15.886Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:06:26.954Z"
+            },
+            {
+                "id": "64d5c0f9fc9990001215bbef",
+                "slug": "data-engineer-16",
+                "role": "DATA ENGINEER",
+                "authorId": "64d4bc97f62e1600139e7e78",
+                "stats": {
+                    "viewCount": 6136,
+                    "nonCuratedCount": 647
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-08-11T05:02:49.043Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62ccfe25b9f25e0013061655",
+                        "62d7cc31a6d88a001226bf5b",
+                        "622b0e91be545565867248e6",
+                        "62a326e162a37400158df2fa",
+                        "628cba2c9f37b90012d16410"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 159,
+                    "name": "Jakarta Timur"
+                },
+                "companyId": "64d4bdb490d4fc00121e462c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/64d4bc97f62e1600139e7e78/JobPortalCompanyLogo/6b3fc771-53aa-4c10-8c17-c05f8f6a97af.jpg",
+                    "rank": "A",
+                    "name": "PT Fastrata Buana (Kapal Api Group)",
+                    "sector": "Food And Beverage Services",
+                    "slug": "pt-fastrata-buana-kapal-api-group",
+                    "id": "64d4bdb490d4fc00121e462c",
+                    "trialStartedAt": "2023-08-10T17:00:00.000Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Data Warehousing",
+                        "id": "622b0e91be545565867248e6"
+                    },
+                    {
+                        "name": "Linux System Administrator",
+                        "id": "628cba2c9f37b90012d16410"
+                    },
+                    {
+                        "name": "Amazon Web Services (AWS)",
+                        "id": "62a326e162a37400158df2fa"
+                    },
+                    {
+                        "name": "Oracle",
+                        "id": "62ccfe25b9f25e0013061655"
+                    },
+                    {
+                        "name": "SQL Server",
+                        "id": "62d7cc31a6d88a001226bf5b"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "recruitment@fastratabuana.co.id",
+                    "name": "Eka",
+                    "id": "64d4bdb490d4fc00121e4630"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-08-11T05:02:49.051Z",
+                "updatedAt": "2024-09-10T09:53:27.967Z",
+                "updatedAtByEmployer": "2023-11-22T06:18:02.516Z",
+                "latestUpdatedAt": "2023-11-22T06:18:02.516Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "65be0dce399f7100121b0f39",
+                "slug": "senior-data-engineer-1",
+                "role": "Senior Data Engineer",
+                "authorId": "62343edc130c09001307ca9d",
+                "stats": {
+                    "viewCount": 1719,
+                    "nonCuratedCount": 18
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "remote",
+                "publishedAt": "2024-02-03T09:56:30.823Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 10000000,
+                    "end": 18000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": null,
+                "city": null,
+                "companyId": "623480aec757f900121d3b8f",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "casualDressCode",
+                            "paidSickDays",
+                            "medicalLeave",
+                            "teamBuilding",
+                            "maternityLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "seed",
+                        "fundingAmount": null
+                    },
+                    "name": "Dealls (YC W22)",
+                    "rank": "A",
+                    "trialStartedAt": "2022-03-18T12:53:02.873Z",
+                    "id": "623480aec757f900121d3b8f",
+                    "sector": "Tech",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/3246d463-d005-4125-b2a1-7133452a5b30.png",
+                    "slug": "dealls-yc-w22",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Cheryl",
+                    "id": "6237fa29c757f900121d64cb",
+                    "email": "support@usedeall.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-02-03T09:56:30.834Z",
+                "updatedAt": "2024-10-02T03:24:42.743Z",
+                "updatedAtByEmployer": "2024-10-02T03:24:42.742Z",
+                "latestUpdatedAt": "2024-08-28T03:21:52.753Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 7,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-06T01:53:03.829Z"
+            },
+            {
+                "id": "66f683325797bb0012af6ec1",
+                "slug": "jr-to-sr-backend-engineer",
+                "role": "Jr. to Sr. Backend Engineer (6 months contract)",
+                "authorId": "65a628bb9952d70013f602e3",
+                "stats": {
+                    "viewCount": 1563,
+                    "nonCuratedCount": 7
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-09-27T10:04:34.444Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 15000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775abb",
+                        "6226f6692d9a642279775aa7",
+                        "62a99033ece94c00122224c8"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "6523635bea072200122c8058",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave",
+                            "employeeDiscounts",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "professionalDevelopment",
+                            "Earned Wage Access (EWA)"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "Akar Inti Data",
+                    "rank": "C",
+                    "trialStartedAt": "2023-12-27T17:00:00.000Z",
+                    "id": "6523635bea072200122c8058",
+                    "sector": "Information Technology & Services",
+                    "logoUrl": "https://cdn.sejutacita.id/652362d8a99aa00014da7cbc/JobPortalCompanyLogo/bc1ba87b-50fd-4e3b-a861-3dfb3b859811.jpg",
+                    "slug": "akar-inti-data",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "Django",
+                        "id": "62a99033ece94c00122224c8"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "HR",
+                    "id": "65a629437b97140012124da3",
+                    "email": "hr@akarintidata.ai"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-27T10:04:34.453Z",
+                "updatedAt": "2024-10-02T02:25:19.585Z",
+                "updatedAtByEmployer": "2024-10-01T09:50:52.428Z",
+                "latestUpdatedAt": "2024-09-27T10:04:34.450Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T13:59:28.192Z"
+            },
+            {
+                "id": "664302ddbb12b200122242a4",
+                "slug": "data-engineer-28",
+                "role": "Data Engineer",
+                "authorId": "65095467e988fd0013391eb2",
+                "stats": {
+                    "viewCount": 4903,
+                    "nonCuratedCount": 237
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-14T06:21:17.086Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "6509572df4f49c001259751a",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "professionalDevelopment",
+                            "dentalInsurance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Public Listed Company",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "rank": "B",
+                    "trialStartedAt": "2023-09-21T06:25:35.508Z",
+                    "id": "6509572df4f49c001259751a",
+                    "sector": "Information Tecnology",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/98f7f49a-ee12-4b2f-8984-b2134f33cc87.png",
+                    "slug": "pt-metrodata-electronics-tbk",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "id": "6509572df4f49c001259751e",
+                    "email": "adella.lay@mii.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-14T06:21:17.095Z",
+                "updatedAt": "2024-09-10T09:41:10.132Z",
+                "updatedAtByEmployer": "2024-08-05T07:12:00.410Z",
+                "latestUpdatedAt": "2024-05-14T06:21:17.090Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:44:04.275Z"
+            },
+            {
+                "id": "64f59bd65865030012d3551c",
+                "slug": "lead-data-engineer-1",
+                "role": "Lead Data Engineer",
+                "authorId": "64e7278ff62e160013a27de6",
+                "stats": {
+                    "viewCount": 4406,
+                    "nonCuratedCount": 92
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2023-09-04T08:56:54.606Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 157,
+                    "name": "Jakarta Pusat"
+                },
+                "companyId": "62bc0d86e8f1ff0012978c19",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/6360884d82722200133ec57b/JobPortalCompanyLogo/fecf8787-39f8-4264-9410-bfc23622fcf5.png",
+                    "name": "Cermati.com",
+                    "sector": "Insurance, Banking, Multifinance, Telco, Fintech",
+                    "slug": "cermaticom",
+                    "rank": "B",
+                    "id": "62bc0d86e8f1ff0012978c19",
+                    "trialStartedAt": "2022-06-29T08:29:58.848Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Anne Wahyu Fujiastuti",
+                    "email": "anne.fujiastuti@cermati.com",
+                    "id": "64e727e2fe650d0012a59e7e"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-09-04T08:56:54.612Z",
+                "updatedAt": "2024-09-10T05:27:37.696Z",
+                "updatedAtByEmployer": "2023-11-23T06:18:11.148Z",
+                "latestUpdatedAt": "2023-09-04T08:56:54.609Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "65962329bc60790012073c09",
+                "slug": "data-center-engineer-cisco-aci",
+                "role": "Data Center Engineer (Cisco ACI)",
+                "authorId": "652775f3a99aa00014db933c",
+                "stats": {
+                    "viewCount": 9150,
+                    "nonCuratedCount": 497
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-01-04T03:16:57.989Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "659622e0bc60790012072d27",
+                        "6226f6692d9a642279775abb",
+                        "62c4320c7e07610012e84931",
+                        "6596230ebc607900120734d3"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 49180,
+                    "name": "Jakarta"
+                },
+                "companyId": "65266625e865da001210421c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": "Others",
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/6526657bc4ff840013115c95/JobPortalCompanyLogo/7342ac75-b606-4493-bcfa-f2ab2224f0ec.jpeg",
+                    "rank": "B",
+                    "name": "PT Sisindokom Lintasbuana",
+                    "sector": "IT Services And IT Consulting",
+                    "slug": "pt-sisindokom-lintasbuana",
+                    "id": "65266625e865da001210421c",
+                    "trialStartedAt": "2023-10-21T17:00:00.000Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Ansible",
+                        "id": "62c4320c7e07610012e84931"
+                    },
+                    {
+                        "name": "Cisco ACI",
+                        "id": "659622e0bc60790012072d27"
+                    },
+                    {
+                        "name": "CCNP Data Center",
+                        "id": "6596230ebc607900120734d3"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Sisindokom Lintasbuana",
+                    "email": "recruitment@sisindokom.com",
+                    "id": "65277615e39dfe0012fd6934"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-04T03:16:58.002Z",
+                "updatedAt": "2024-09-10T08:52:26.626Z",
+                "updatedAtByEmployer": "2024-03-27T02:57:37.004Z",
+                "latestUpdatedAt": "2024-01-04T03:16:57.994Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "66f65646947d5b0012572382",
+                "slug": "jr-mid-frontend-engineer-6-1",
+                "role": "Jr / Mid. Frontend Engineer (6 Months Contract)",
+                "authorId": "65a628bb9952d70013f602e3",
+                "stats": {
+                    "viewCount": 565,
+                    "nonCuratedCount": 10
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-09-27T06:52:54.954Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 12000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6298b0a61bf516001238598d",
+                        "62753513c25e6c001489214d"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "6523635bea072200122c8058",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave",
+                            "employeeDiscounts",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "professionalDevelopment",
+                            "Earned Wage Access (EWA)"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "Akar Inti Data",
+                    "rank": "C",
+                    "trialStartedAt": "2023-12-27T17:00:00.000Z",
+                    "id": "6523635bea072200122c8058",
+                    "sector": "Information Technology & Services",
+                    "logoUrl": "https://cdn.sejutacita.id/652362d8a99aa00014da7cbc/JobPortalCompanyLogo/bc1ba87b-50fd-4e3b-a861-3dfb3b859811.jpg",
+                    "slug": "akar-inti-data",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "VueJs",
+                        "id": "6298b0a61bf516001238598d"
+                    },
+                    {
+                        "name": "ReactJS",
+                        "id": "62753513c25e6c001489214d"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "HR",
+                    "id": "65a629437b97140012124da3",
+                    "email": "hr@akarintidata.ai"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-27T06:52:54.967Z",
+                "updatedAt": "2024-09-27T10:18:36.570Z",
+                "updatedAtByEmployer": "2024-09-27T10:05:01.766Z",
+                "latestUpdatedAt": "2024-09-27T06:52:54.959Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T13:59:28.192Z"
+            },
+            {
+                "id": "6633641ea40ce70013ad5152",
+                "slug": "data-engineer-25",
+                "role": "Data Engineer",
+                "authorId": "660135b69e50c300135f6e34",
+                "stats": {
+                    "viewCount": 2961,
+                    "nonCuratedCount": 73
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-02T09:59:58.520Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang Selatan",
+                    "id": 273
+                },
+                "companyId": "660134a1f80300001294c348",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "selfDevelopmentAllowance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Sprout Digital Labs",
+                    "rank": "C",
+                    "trialStartedAt": "2024-03-24T17:00:00.000Z",
+                    "id": "660134a1f80300001294c348",
+                    "sector": "Digital Services and Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/6295d9e9b9ddc5001383db0f/JobPortalCompanyLogo/84aef6fd-06d7-4e88-af58-c9848b66de62.png",
+                    "slug": "pt-tunas-digital-labs",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Klarissa Ardisa",
+                    "id": "66013622f8030000129507ea",
+                    "email": "klarissa.ardisa@sprout.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-02T09:59:58.528Z",
+                "updatedAt": "2024-09-10T07:09:25.281Z",
+                "updatedAtByEmployer": "2024-08-29T09:20:42.210Z",
+                "latestUpdatedAt": "2024-05-02T09:59:58.523Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T10:51:26.714Z"
+            },
+            {
+                "id": "663b2f8761e1240012de4e59",
+                "slug": "data-engineer-27",
+                "role": "Data Engineer",
+                "authorId": "64ef01bce988fd001332c327",
+                "stats": {
+                    "viewCount": 3122,
+                    "nonCuratedCount": 395
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-08T07:53:43.324Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ac8",
+                        "626b62f18cca210012db695f",
+                        "627e37024c47b500126c6dd8"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Bandung",
+                    "id": 179
+                },
+                "companyId": "63578af40ed3d600120225ce",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "casualDressCode",
+                            "competitiveSalary",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Torch.id",
+                    "rank": "C",
+                    "trialStartedAt": "2023-07-22T06:36:29.459Z",
+                    "id": "63578af40ed3d600120225ce",
+                    "sector": "Fashion & Apparel",
+                    "logoUrl": "https://cdn.sejutacita.id/62fba7bb7cc7a000147ea67f/JobPortalCompanyLogo/456575d7-f354-4c0d-b7ce-6bba395df944.png",
+                    "slug": "torchid",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "Phyton",
+                        "id": "626b62f18cca210012db695f"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "id": "627e37024c47b500126c6dd8"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Wijanarko Dwi Utomo",
+                    "id": "64ef01e63d359800130dce24",
+                    "email": "hr@torch.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-08T07:53:43.339Z",
+                "updatedAt": "2024-09-10T08:31:45.521Z",
+                "updatedAtByEmployer": "2024-08-12T03:36:36.771Z",
+                "latestUpdatedAt": "2024-05-08T07:53:43.329Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T01:11:58.298Z"
+            },
+            {
+                "id": "66fb9905d27eef0012e1fa00",
+                "slug": "data-engineer-38",
+                "role": "Data Engineer",
+                "authorId": "6285a5bd3256d9001338c004",
+                "stats": {
+                    "viewCount": 514,
+                    "nonCuratedCount": 50
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-01T06:39:01.657Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 6000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775abb",
+                        "62f85b82723f40001290f7a1",
+                        "628c88cfa39fae0012381fd1",
+                        "6226f6692d9a642279775ac8",
+                        "622b0e91be545565867248df"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "629da0001bf516001239e732",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ],
+                        "fundingStage": "Unknown",
+                        "fundingAmount": null
+                    },
+                    "name": "Mitramas Infosys Global",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-12T17:00:00.000Z",
+                    "id": "629da0001bf516001239e732",
+                    "sector": "Information Technology / IT",
+                    "logoUrl": "https://cdn.sejutacita.id/6285a5bd3256d9001338c004/Others/a5394f93-190e-4de5-8528-a092541e2d20.png",
+                    "slug": "mitramas-infosys-global",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Database",
+                        "id": "62f85b82723f40001290f7a1"
+                    },
+                    {
+                        "name": "ETL",
+                        "id": "628c88cfa39fae0012381fd1"
+                    },
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "Data Management",
+                        "id": "622b0e91be545565867248df"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Mitramas Infosys Global",
+                    "id": "629da0001bf516001239e735",
+                    "email": "recruitment@mitrasolusi.group"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T06:39:01.662Z",
+                "updatedAt": "2024-10-01T07:27:19.411Z",
+                "updatedAtByEmployer": "2024-10-01T06:39:01.656Z",
+                "latestUpdatedAt": "2024-10-01T06:39:01.660Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T23:01:18.705Z"
+            },
+            {
+                "id": "66973142c1d14c0011463d19",
+                "slug": "data-warehouse-engineer",
+                "role": "Data Warehouse Engineer",
+                "authorId": "65f1611a9e50c300135c9dc4",
+                "stats": {
+                    "viewCount": 3678,
+                    "nonCuratedCount": 34
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-17T02:49:38.457Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775aa7",
+                        "6226f6692d9a642279775abb",
+                        "622b0e91be545565867248e6",
+                        "628fbe36a39fae001238ec1a",
+                        "6374add695712d00122acd72"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "65a4cce8b41b9900139bcb08",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "internationalExposure",
+                            "bonusSystem",
+                            "freeMeals",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "professionalDevelopment",
+                            "wellnessProgram"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Indonesia Fintopia Technology (Easycash)",
+                    "rank": "C",
+                    "trialStartedAt": "2024-01-14T17:00:00.000Z",
+                    "id": "65a4cce8b41b9900139bcb08",
+                    "sector": "Tech Company, Fintech",
+                    "logoUrl": "https://cdn.sejutacita.id/65a4cc0a28a24e0013894391/JobPortalCompanyLogo/753908d0-a27b-473a-a313-7d980fd96331.jpg",
+                    "slug": "pt-indonesia-fintipia-technology-easycash",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Data Warehousing",
+                        "id": "622b0e91be545565867248e6"
+                    },
+                    {
+                        "name": "HIVE",
+                        "id": "628fbe36a39fae001238ec1a"
+                    },
+                    {
+                        "name": "Spark",
+                        "id": "6374add695712d00122acd72"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Michelle Christine",
+                    "id": "65f1614af686570012fc50a6",
+                    "email": "michelle.christine@fintopia.tech"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-17T02:49:38.472Z",
+                "updatedAt": "2024-09-10T07:40:47.011Z",
+                "updatedAtByEmployer": "2024-09-03T03:31:58.922Z",
+                "latestUpdatedAt": "2024-07-17T02:49:38.465Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T17:46:36.145Z"
+            },
+            {
+                "id": "65a4acaf16dd370012116fd8",
+                "slug": "data-engineer-21",
+                "role": "Data Engineer",
+                "authorId": "6565a2a52470a3001471de6e",
+                "stats": {
+                    "viewCount": 2866,
+                    "nonCuratedCount": 165
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-01-15T03:55:27.249Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "628c88cfa39fae0012381fd1",
+                        "6374c54ed826a700129a68f6",
+                        "622b0e91be545565867248df",
+                        "63ce89bd50819d0014485545",
+                        "627f9fe685ee4e0016231544"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64f8696c5537520012d1f3c8",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Bringin Inti Teknologi",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-14T17:00:00.000Z",
+                    "id": "64f8696c5537520012d1f3c8",
+                    "sector": "Technology and Software Solutions",
+                    "logoUrl": "https://cdn.sejutacita.id/64f7ee28f62e160013a61493/JobPortalCompanyLogo/dc1d6841-59ad-4a97-8f09-5264a2476bc4.png",
+                    "slug": "bringin-inti-teknologi",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Data Management",
+                        "id": "622b0e91be545565867248df"
+                    },
+                    {
+                        "name": "Google Data Studio",
+                        "id": "627f9fe685ee4e0016231544"
+                    },
+                    {
+                        "name": "ETL",
+                        "id": "628c88cfa39fae0012381fd1"
+                    },
+                    {
+                        "name": "Data Quality",
+                        "id": "6374c54ed826a700129a68f6"
+                    },
+                    {
+                        "name": "Tableau",
+                        "id": "63ce89bd50819d0014485545"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Lulu Anissa",
+                    "id": "6565a329dcf9a90012c17c48",
+                    "email": "lulu_anissa@bitcorp.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-15T03:55:27.255Z",
+                "updatedAt": "2024-09-10T01:19:45.801Z",
+                "updatedAtByEmployer": "2024-08-02T08:24:04.798Z",
+                "latestUpdatedAt": "2024-07-30T04:44:40.654Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-03T08:53:03.308Z"
+            }
+        ],
+        "totalDocs": 16,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

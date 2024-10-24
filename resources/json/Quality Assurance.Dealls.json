@@ -1,0 +1,1827 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66ff7bc8ef169700128163bc",
+                "slug": "quality-assurance-assistant-communicator",
+                "role": "Quality Assurance Assistant / Communicator",
+                "authorId": "6563f7d52470a300147155c8",
+                "stats": {
+                    "viewCount": 53,
+                    "nonCuratedCount": 3
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-04T05:23:20.552Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 3000000,
+                    "end": 3000001
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62989c5e1bf5160012384f51",
+                        "633bfce6d87c1100129ca293",
+                        "63e4c87ca40e670013b99f51",
+                        "627b3be80aad8e00136c889c"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        4,
+                        0,
+                        5,
+                        3
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Surabaya",
+                    "id": 265
+                },
+                "companyId": "6563f909e7adcf0012d840bd",
+                "categoryId": null,
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "ORDO Apps",
+                    "rank": "C",
+                    "trialStartedAt": "2023-12-04T17:00:00.000Z",
+                    "id": "6563f909e7adcf0012d840bd",
+                    "sector": "Software Development",
+                    "slug": "ordoapps",
+                    "logoUrl": "https://cdn.sejutacita.id/6563f7d52470a300147155c8/JobPortalCompanyLogo/75bbf7e5-4bb6-4ed7-9843-3abad66c0e60.png",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Software Testing",
+                        "id": "62989c5e1bf5160012384f51"
+                    },
+                    {
+                        "name": "Software Quality Assurance",
+                        "id": "633bfce6d87c1100129ca293"
+                    },
+                    {
+                        "name": "Good Communication",
+                        "id": "63e4c87ca40e670013b99f51"
+                    },
+                    {
+                        "name": "Reporting",
+                        "id": "627b3be80aad8e00136c889c"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Edwin Zamzami",
+                    "id": "6563f909e7adcf0012d840c9",
+                    "email": "operation@ordoapps.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-04T05:23:20.574Z",
+                "updatedAt": "2024-10-04T05:23:20.950Z",
+                "updatedAtByEmployer": "2024-10-04T05:23:20.552Z",
+                "latestUpdatedAt": "2024-10-04T05:23:20.560Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T05:24:28.594Z"
+            },
+            {
+                "id": "66de6ff224a4650012b8c139",
+                "slug": "quality-assurance-qa-officer",
+                "role": "Quality Assurance (QA) Officer (Penempatan Makassar)",
+                "authorId": "66c7f3d93100640013d8159f",
+                "stats": {
+                    "viewCount": 363,
+                    "nonCuratedCount": 45
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-09T03:48:02.031Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "64bf779b626093001245e774",
+                        "627e719585ee4e001622d95b",
+                        "6340554628c4ce001363a2a8"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Makassar",
+                    "id": 420
+                },
+                "companyId": "665eba8d8a3b91001284d12a",
+                "categoryId": "62c82f32d4471a00132d8757",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Universitas Ciputra",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-08T17:00:00.000Z",
+                    "id": "665eba8d8a3b91001284d12a",
+                    "sector": "Perguruan Tinggi",
+                    "logoUrl": "https://cdn.sejutacita.id/665eb9d907cff6001352856c/JobPortalCompanyLogo/05db3155-6f9d-4030-8cd0-b86a8bc5b94e.jpg",
+                    "slug": "universitas-ciputra-surabaya",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Analytical Thinking",
+                        "id": "627e719585ee4e001622d95b"
+                    },
+                    {
+                        "name": "Microsoft Visio",
+                        "id": "6340554628c4ce001363a2a8"
+                    },
+                    {
+                        "name": "Ms. Excel",
+                        "id": "64bf779b626093001245e774"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Universitas Ciputra",
+                    "id": "66c7f44d5469ce00125a30cd",
+                    "email": "jobs@ciputra.ac.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-09T03:48:02.040Z",
+                "updatedAt": "2024-09-10T10:21:06.388Z",
+                "updatedAtByEmployer": "2024-09-09T23:54:05.041Z",
+                "latestUpdatedAt": "2024-09-09T03:48:02.037Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-06T02:45:01.664Z"
+            },
+            {
+                "id": "66fcfc7e8230dd00128b746f",
+                "slug": "automotive-quality-assurance-analyst",
+                "role": "(Automotive) Quality Assurance Analyst",
+                "authorId": "66fcb41edcbfd50014c854e0",
+                "stats": {
+                    "viewCount": 183,
+                    "nonCuratedCount": 47
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-02T07:55:42.587Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "633438adad339a00128646c2"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "66fcbe0865d36d00125794ff",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "transport",
+                            "wellnessProgram",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "dentalInsurance",
+                            "periodLeave",
+                            "teamBuilding"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Asuransi Astra",
+                    "rank": "A",
+                    "trialStartedAt": "2024-10-01T17:00:00.000Z",
+                    "id": "66fcbe0865d36d00125794ff",
+                    "sector": "Insurance",
+                    "logoUrl": "https://cdn.sejutacita.id/66fcb41edcbfd50014c854e0/JobPortalCompanyLogo/61943ab3-a243-424c-a406-a87d1accb59b.jpeg",
+                    "slug": "asuransi-astra-1",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Machine Learning",
+                        "id": "633438adad339a00128646c2"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ivena Avelia Agatha",
+                    "id": "66fcbe0865d36d001257950a",
+                    "email": "iagatha@asuransiastra.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-02T07:55:42.598Z",
+                "updatedAt": "2024-10-03T11:17:59.317Z",
+                "updatedAtByEmployer": "2024-10-03T11:17:59.299Z",
+                "latestUpdatedAt": "2024-10-03T11:17:59.299Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T04:29:03.191Z"
+            },
+            {
+                "id": "66ab3c240354ba0012ad3fd7",
+                "slug": "software-quality-assurance-5",
+                "role": "Software Quality Assurance (Manual)",
+                "authorId": "663f880e60c3cf0013f2ef88",
+                "stats": {
+                    "viewCount": 6889,
+                    "nonCuratedCount": 1755
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-08-01T07:41:24.434Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ac8",
+                        "627f28bbfae3970013a46ae4",
+                        "633558e085f4b7001397d9b6",
+                        "62862528a39fae0012369b9f",
+                        "6226f6692d9a642279775ac7"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "663f887fbb12b20012b37bec",
+                "categoryId": "62c82f32d4471a00132d8757",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "bonusSystem",
+                            "dentalInsurance",
+                            "casualDressCode"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT Bank Digital BCA (BCA Digital)",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-12T17:00:00.000Z",
+                    "id": "663f887fbb12b20012b37bec",
+                    "sector": "Banking",
+                    "logoUrl": "https://cdn.sejutacita.id/64f53f68e988fd001333e0d8/JobPortalCompanyLogo/54a7cc1c-87e7-4e50-b7fc-87324ee25e74.jpg",
+                    "slug": "pt-bank-digital-bca-bca",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "Jira",
+                        "id": "627f28bbfae3970013a46ae4"
+                    },
+                    {
+                        "name": "Postman API",
+                        "id": "633558e085f4b7001397d9b6"
+                    },
+                    {
+                        "name": "Selenium",
+                        "id": "62862528a39fae0012369b9f"
+                    },
+                    {
+                        "name": "Software Development",
+                        "id": "6226f6692d9a642279775ac7"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Syalinda Citra",
+                    "id": "663f887fbb12b20012b37bf0",
+                    "email": "syalinda.citra@bcadigital.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-01T07:41:24.439Z",
+                "updatedAt": "2024-09-25T07:36:16.317Z",
+                "updatedAtByEmployer": "2024-09-25T07:35:57.686Z",
+                "latestUpdatedAt": "2024-08-01T07:41:24.436Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T11:39:22.006Z"
+            },
+            {
+                "id": "66dfac5de914ed00128a9f02",
+                "slug": "software-quality-assurance-6",
+                "role": "Software Quality Assurance",
+                "authorId": "655f32982470a300146fe73f",
+                "stats": {
+                    "viewCount": 2156,
+                    "nonCuratedCount": 461
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-10T02:18:05.411Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62862528a39fae0012369b9f",
+                        "627f28c485ee4e001622f548",
+                        "62ea99b4c3a74d0014acc73e",
+                        "62ba800be4bc450012a7d46e",
+                        "63fea46893bd760013149250"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Utara",
+                    "id": 160
+                },
+                "companyId": "62a85393115f840012905f9c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "transport",
+                            "freeMeals",
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT Gree Electric Appliances Indonesia",
+                    "rank": "A",
+                    "trialStartedAt": "2023-11-23T17:00:00.000Z",
+                    "id": "62a85393115f840012905f9c",
+                    "sector": "Electronics",
+                    "logoUrl": "https://cdn.sejutacita.id/62a850f42ebf290013dd8454/Others/63cb8523-50e2-4a58-9be0-1cc4013f9140.png",
+                    "slug": "pt-gree-electric-appliances-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Katalon Studio",
+                        "id": "627f28c485ee4e001622f548"
+                    },
+                    {
+                        "name": "Selenium",
+                        "id": "62862528a39fae0012369b9f"
+                    },
+                    {
+                        "name": "Github",
+                        "id": "62ba800be4bc450012a7d46e"
+                    },
+                    {
+                        "name": "Postman API Testing",
+                        "id": "62ea99b4c3a74d0014acc73e"
+                    },
+                    {
+                        "name": "SQL Database",
+                        "id": "63fea46893bd760013149250"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rio Bong",
+                    "id": "655f32af3a5e550012c9867e",
+                    "email": "rio.bong@gree.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-10T02:18:05.427Z",
+                "updatedAt": "2024-09-10T10:26:21.438Z",
+                "updatedAtByEmployer": "2024-09-10T07:52:34.211Z",
+                "latestUpdatedAt": "2024-09-10T02:18:05.419Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:27:23.023Z"
+            },
+            {
+                "id": "62c817329a5d890013ef9ed1",
+                "slug": "it-lead-quality-assurance",
+                "role": "IT Lead Quality Assurance",
+                "authorId": "62c7fdd588c4df0015c9c985",
+                "stats": {
+                    "viewCount": 11550,
+                    "nonCuratedCount": 1039
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-07-08T11:38:26.134Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62942b4b1bf5160012372405",
+                        "628b9655a39fae001237e0f3",
+                        "62bc2066e8f1ff00129798bb",
+                        "62ba8009e8f1ff001297054c"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 158,
+                    "name": "Jakarta Selatan"
+                },
+                "companyId": "62c8001e9a5d890013ef99de",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62c7fdd588c4df0015c9c985/Others/7da69bff-7a0e-4e37-a7bb-3d6a2cf4b255.jpeg",
+                    "name": "Bank Sahabat Sampoerna",
+                    "sector": "Corporate Banking",
+                    "slug": "bank-sahabat-sampoerna",
+                    "rank": "A",
+                    "id": "62c8001e9a5d890013ef99de",
+                    "trialStartedAt": "2022-07-08T09:59:58.042Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Automation",
+                        "id": "62942b4b1bf5160012372405"
+                    },
+                    {
+                        "name": "Gitlab",
+                        "id": "62ba8009e8f1ff001297054c"
+                    },
+                    {
+                        "name": "CI/CD",
+                        "id": "62bc2066e8f1ff00129798bb"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "candra.irawan@banksampoerna.com",
+                    "name": "Candra Irawan",
+                    "id": "62c8001e9a5d890013ef99e1"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-08T11:38:26.141Z",
+                "updatedAt": "2024-09-10T10:21:33.216Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T13:47:02.392Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "669779935e36740012179ebf",
+                "slug": "it-quality-assurance-analyst",
+                "role": "IT Quality Assurance Analyst",
+                "authorId": "656e832cd4f8f00012e8d264",
+                "stats": {
+                    "viewCount": 3136,
+                    "nonCuratedCount": 636
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-17T07:58:11.120Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "628fbe24eae168001358c169",
+                        "6374add695712d00122acd72",
+                        "628fbe21a39fae001238ebf2",
+                        "630c6fb00b898e0013aacd24",
+                        "62d7cc31a6d88a001226bf5b"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "656e83c0e79a5b00127ee6c6",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "periodLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT TOYOTA ASTRA FINANCIAL SERVICES",
+                    "rank": "A",
+                    "trialStartedAt": "2023-12-05T02:47:20.355Z",
+                    "id": "656e83c0e79a5b00127ee6c6",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/656e832cd4f8f00012e8d264/JobPortalCompanyLogo/2ff7e5f4-e9cf-4d03-bd38-a227835b6614.jpg",
+                    "slug": "pt-toyota-astra-financial-services",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Kafka",
+                        "id": "628fbe21a39fae001238ebf2"
+                    },
+                    {
+                        "name": "Hadoop",
+                        "id": "628fbe24eae168001358c169"
+                    },
+                    {
+                        "name": "SQL Server",
+                        "id": "62d7cc31a6d88a001226bf5b"
+                    },
+                    {
+                        "name": "Pentaho",
+                        "id": "630c6fb00b898e0013aacd24"
+                    },
+                    {
+                        "name": "Spark",
+                        "id": "6374add695712d00122acd72"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "annisa sabarina",
+                    "id": "656e83c0e79a5b00127ee6ca",
+                    "email": "annisa.sabarina@taf.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-17T07:58:11.128Z",
+                "updatedAt": "2024-09-10T09:34:17.811Z",
+                "updatedAtByEmployer": "2024-08-12T08:41:55.397Z",
+                "latestUpdatedAt": "2024-07-17T07:58:11.123Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T07:47:42.773Z"
+            },
+            {
+                "id": "66f10e76ec419b00138e27e6",
+                "slug": "quality-assurance-qa-manager-5",
+                "role": "Quality Assurance (QA) Manager",
+                "authorId": "66f0c696a9977f0013ddeb11",
+                "stats": {
+                    "viewCount": 5496,
+                    "nonCuratedCount": 218
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-23T06:45:10.874Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "66f0cb4d8f5b0200122d79f0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT Eka Bogainti",
+                    "rank": "B",
+                    "trialStartedAt": "2024-09-22T17:00:00.000Z",
+                    "id": "66f0cb4d8f5b0200122d79f0",
+                    "sector": "Food And Beverage",
+                    "logoUrl": "https://cdn.sejutacita.id/66f0c696a9977f0013ddeb11/JobPortalCompanyLogo/0b594e5f-68ca-4575-9b3d-deeeca93f80d.png",
+                    "slug": "pt-eka-boga-inti",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Evi Barus",
+                    "id": "66f0cb4d8f5b0200122d7a03",
+                    "email": "evi.barus@hokben.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-23T06:45:10.882Z",
+                "updatedAt": "2024-09-27T02:12:56.792Z",
+                "updatedAtByEmployer": "2024-09-26T07:44:33.717Z",
+                "latestUpdatedAt": "2024-09-23T06:45:10.878Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T10:32:34.256Z"
+            },
+            {
+                "id": "662a0c4cabae7a00124a72ed",
+                "slug": "quality-assurance-engineer-1",
+                "role": "Quality Assurance Engineer",
+                "authorId": "64813df21d22aa00137cab89",
+                "stats": {
+                    "viewCount": 2503,
+                    "nonCuratedCount": 690
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-04-25T07:54:52.177Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dhia Rizky",
+                    "id": "64813e3e7f701100122da9dc",
+                    "email": "dhia.ananda@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-04-25T07:54:52.185Z",
+                "updatedAt": "2024-09-10T10:24:53.841Z",
+                "updatedAtByEmployer": "2024-04-25T07:54:52.177Z",
+                "latestUpdatedAt": "2024-04-25T07:54:52.181Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T13:13:15.430Z"
+            },
+            {
+                "id": "65a635a07b9714001213f01a",
+                "slug": "quality-assurance-qa-tester-7",
+                "role": "Quality Assurance (Tester Automation)",
+                "authorId": "65095467e988fd0013391eb2",
+                "stats": {
+                    "viewCount": 9197,
+                    "nonCuratedCount": 1426
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-01-16T07:52:00.589Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "627f28c485ee4e001622f548",
+                        "62862528a39fae0012369b9f",
+                        "630a2de5fefb8d0014b36947",
+                        "6286252237689f0013d55663",
+                        "628625310ce00d0012c46075"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "6509572df4f49c001259751a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "professionalDevelopment",
+                            "dentalInsurance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Public Listed Company",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "rank": "B",
+                    "trialStartedAt": "2023-09-21T06:25:35.508Z",
+                    "id": "6509572df4f49c001259751a",
+                    "sector": "Information Tecnology",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/98f7f49a-ee12-4b2f-8984-b2134f33cc87.png",
+                    "slug": "pt-metrodata-electronics-tbk",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Katalon Studio",
+                        "id": "627f28c485ee4e001622f548"
+                    },
+                    {
+                        "name": "Appium",
+                        "id": "6286252237689f0013d55663"
+                    },
+                    {
+                        "name": "Selenium",
+                        "id": "62862528a39fae0012369b9f"
+                    },
+                    {
+                        "name": "Cucumber",
+                        "id": "628625310ce00d0012c46075"
+                    },
+                    {
+                        "name": "Jmeter",
+                        "id": "630a2de5fefb8d0014b36947"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "id": "6509572df4f49c001259751e",
+                    "email": "adella.lay@mii.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-16T07:52:00.604Z",
+                "updatedAt": "2024-09-10T10:12:29.311Z",
+                "updatedAtByEmployer": "2024-08-02T01:27:24.544Z",
+                "latestUpdatedAt": "2024-08-01T01:22:40.539Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:44:04.275Z"
+            },
+            {
+                "id": "668e4a0e6f8552001286852e",
+                "slug": "quality-assurance-automation-1",
+                "role": "Quality Assurance Automation",
+                "authorId": "650a545fe988fd001339500d",
+                "stats": {
+                    "viewCount": 3853,
+                    "nonCuratedCount": 434
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-10T08:45:02.022Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 8500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775aa7",
+                        "668e49adccfdfe001379fa62",
+                        "627f28c485ee4e001622f548",
+                        "63437c0b961a69001261beb0",
+                        "62cbfc4db9f25e001305ab21"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64d30b235b85cb00127de30e",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "-"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Mandiri International Technology",
+                    "rank": "B",
+                    "trialStartedAt": "2023-08-09T03:42:40.822Z",
+                    "id": "64d30b235b85cb00127de30e",
+                    "sector": "IT Consulting & Services Company",
+                    "logoUrl": "https://cdn.sejutacita.id/64d309f6f62e1600139e0362/JobPortalCompanyLogo/d375e21f-cb66-4ab9-a0ae-06cccee7a36f.png",
+                    "slug": "pt-mandiri-international-technology",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "Katalon Studio",
+                        "id": "627f28c485ee4e001622f548"
+                    },
+                    {
+                        "name": "VB.Net",
+                        "id": "62cbfc4db9f25e001305ab21"
+                    },
+                    {
+                        "name": "UIPath",
+                        "id": "63437c0b961a69001261beb0"
+                    },
+                    {
+                        "name": "Automation Script",
+                        "id": "668e49adccfdfe001379fa62"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Karina Chaerunisa",
+                    "id": "650a549d4a2c8b0012a5bcff",
+                    "email": "karina.chaerunisa@mitech.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-10T08:45:02.031Z",
+                "updatedAt": "2024-09-10T08:27:38.794Z",
+                "updatedAtByEmployer": "2024-09-05T10:05:50.785Z",
+                "latestUpdatedAt": "2024-07-10T08:45:02.027Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 2,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:58:25.904Z"
+            },
+            {
+                "id": "66b318e89eb0a90011137684",
+                "slug": "quality-assurance-supervisor",
+                "role": "Quality Assurance Supervisor",
+                "authorId": "66455cee07cff600134b8eaa",
+                "stats": {
+                    "viewCount": 4569,
+                    "nonCuratedCount": 111
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-07T06:49:12.882Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Karawang Regency",
+                    "id": 170
+                },
+                "companyId": "6466d409f2900d0012ad1c7d",
+                "categoryId": "6567386a2c68190012508d9d",
+                "categorySlug": "health-and-science",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "periodLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Kalbe Nutritionals (PT Sanghiang Perkasa)",
+                    "rank": "B",
+                    "trialStartedAt": "2023-05-19T02:30:07.879Z",
+                    "id": "6466d409f2900d0012ad1c7d",
+                    "sector": "Food And Beverage Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63983cf268e6b200152ce01f/JobPortalCompanyLogo/a3c10481-d776-4ff5-9b1a-976a4cde92a8.png",
+                    "slug": "kalbe-nutritionals-pt-sanghiang-perkasa",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Robby Faryansyah",
+                    "id": "66455d205ddd230012d15b95",
+                    "email": "robby.faryansyah@kalbenutritionals.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-07T06:49:12.895Z",
+                "updatedAt": "2024-09-10T08:30:41.989Z",
+                "updatedAtByEmployer": "2024-08-27T01:25:36.018Z",
+                "latestUpdatedAt": "2024-08-07T06:49:12.889Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:30:32.687Z"
+            },
+            {
+                "id": "65a499bd0ff2960011e30d0c",
+                "slug": "quality-assurance-5",
+                "role": "Quality Assurance",
+                "authorId": "64408fe447397f0013ec68c0",
+                "stats": {
+                    "viewCount": 8891,
+                    "nonCuratedCount": 75
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-01-15T02:34:37.519Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 7000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "63c3c415650c1f0012f09169",
+                        "6226f6692d9a642279775abc",
+                        "62dd42e32aa8890012be326e",
+                        "62b89d6ee8f1ff0012967a5b",
+                        "62de70a9707b920013f8b490"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "62579aff111f9e001337c14a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "teamBuilding",
+                            "companyOutings",
+                            "maternityLeave",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "Remote working opportunity"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": "Self-funded",
+                        "fundingAmount": null
+                    },
+                    "name": "Jakmall.com",
+                    "rank": "B",
+                    "trialStartedAt": "2023-04-19T07:01:30.632Z",
+                    "id": "62579aff111f9e001337c14a",
+                    "sector": "Information Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/6257995459bce60014f74cd0/Others/351341ac-17ca-4d19-88ae-27af96f6aaf4.png",
+                    "slug": "jakmallcom",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Quality Assurance",
+                        "id": "6226f6692d9a642279775abc"
+                    },
+                    {
+                        "name": "Creative Problem Solving",
+                        "id": "62b89d6ee8f1ff0012967a5b"
+                    },
+                    {
+                        "name": "QA Testing",
+                        "id": "62dd42e32aa8890012be326e"
+                    },
+                    {
+                        "name": "Attention To Detail",
+                        "id": "62de70a9707b920013f8b490"
+                    },
+                    {
+                        "name": "Test Cases",
+                        "id": "63c3c415650c1f0012f09169"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Grace Stella",
+                    "id": "644090ee466ba8001279b053",
+                    "email": "grace.stella@jakmall.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-15T02:34:37.530Z",
+                "updatedAt": "2024-09-10T10:12:21.585Z",
+                "updatedAtByEmployer": "2024-09-10T07:59:13.955Z",
+                "latestUpdatedAt": "2024-05-20T10:20:52.825Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T07:57:29.722Z"
+            },
+            {
+                "id": "66f10ef6eeb95600121c2984",
+                "slug": "quality-assurance-aduitor-packaging",
+                "role": "Quality Assurance Auditor Packaging",
+                "authorId": "66f0e5c2a9977f0013ddfb1e",
+                "stats": {
+                    "viewCount": 410,
+                    "nonCuratedCount": 214
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-23T06:47:18.302Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "66f0cb4d8f5b0200122d79f0",
+                "categoryId": "65673827e7adcf001210f96e",
+                "categorySlug": "admin-and-ops",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT Eka Bogainti",
+                    "rank": "B",
+                    "trialStartedAt": "2024-09-22T17:00:00.000Z",
+                    "id": "66f0cb4d8f5b0200122d79f0",
+                    "sector": "Food And Beverage",
+                    "logoUrl": "https://cdn.sejutacita.id/66f0c696a9977f0013ddeb11/JobPortalCompanyLogo/0b594e5f-68ca-4575-9b3d-deeeca93f80d.png",
+                    "slug": "pt-eka-boga-inti",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Albertus Krisna Adhika P",
+                    "id": "66f0e5faec419b0013876a4c",
+                    "email": "albertus.prabowo@hokben.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-23T06:47:18.311Z",
+                "updatedAt": "2024-09-23T06:58:31.329Z",
+                "updatedAtByEmployer": "2024-09-23T06:47:18.302Z",
+                "latestUpdatedAt": "2024-09-23T06:47:18.307Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 7,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T10:32:34.256Z"
+            },
+            {
+                "id": "668e4a906f8552001286a13c",
+                "slug": "quality-assurance-qa-tester-11",
+                "role": "Quality Assurance (QA) Tester",
+                "authorId": "650a545fe988fd001339500d",
+                "stats": {
+                    "viewCount": 4875,
+                    "nonCuratedCount": 1411
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-10T08:47:12.894Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 8500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "642543f84fb3eb001246c7b9",
+                        "627f28bbfae3970013a46ae4",
+                        "62997dc862a37400158a2847",
+                        "633bfce6d87c1100129ca293"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64d30b235b85cb00127de30e",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "-"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Mandiri International Technology",
+                    "rank": "B",
+                    "trialStartedAt": "2023-08-09T03:42:40.822Z",
+                    "id": "64d30b235b85cb00127de30e",
+                    "sector": "IT Consulting & Services Company",
+                    "logoUrl": "https://cdn.sejutacita.id/64d309f6f62e1600139e0362/JobPortalCompanyLogo/d375e21f-cb66-4ab9-a0ae-06cccee7a36f.png",
+                    "slug": "pt-mandiri-international-technology",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Jira",
+                        "id": "627f28bbfae3970013a46ae4"
+                    },
+                    {
+                        "name": "SDLC",
+                        "id": "62997dc862a37400158a2847"
+                    },
+                    {
+                        "name": "Software Quality Assurance",
+                        "id": "633bfce6d87c1100129ca293"
+                    },
+                    {
+                        "name": "Ms. Office",
+                        "id": "642543f84fb3eb001246c7b9"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Karina Chaerunisa",
+                    "id": "650a549d4a2c8b0012a5bcff",
+                    "email": "karina.chaerunisa@mitech.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-10T08:47:12.903Z",
+                "updatedAt": "2024-09-10T10:13:42.414Z",
+                "updatedAtByEmployer": "2024-09-04T04:34:03.004Z",
+                "latestUpdatedAt": "2024-07-10T08:47:12.899Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:58:25.904Z"
+            },
+            {
+                "id": "66fcb6856fcad30012eb6582",
+                "slug": "software-quality-assurance-7",
+                "role": "Software Quality Assurance",
+                "authorId": "6285a5bd3256d9001338c004",
+                "stats": {
+                    "viewCount": 850,
+                    "nonCuratedCount": 116
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-02T02:57:09.533Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 6000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62d7b7004e079000125cbc4e",
+                        "6226f6692d9a642279775ac8",
+                        "629da55862a37400158b8616",
+                        "630bf4228ac286001132ddc3",
+                        "6295bf2d62a374001588e864"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "629da0001bf516001239e732",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ],
+                        "fundingStage": "Unknown",
+                        "fundingAmount": null
+                    },
+                    "name": "Mitramas Infosys Global",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-12T17:00:00.000Z",
+                    "id": "629da0001bf516001239e732",
+                    "sector": "Information Technology / IT",
+                    "logoUrl": "https://cdn.sejutacita.id/6285a5bd3256d9001338c004/Others/a5394f93-190e-4de5-8528-a092541e2d20.png",
+                    "slug": "mitramas-infosys-global",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Test Case",
+                        "id": "62d7b7004e079000125cbc4e"
+                    },
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "VMWare",
+                        "id": "629da55862a37400158b8616"
+                    },
+                    {
+                        "name": "Unit Testing",
+                        "id": "630bf4228ac286001132ddc3"
+                    },
+                    {
+                        "name": "User Acceptance Test",
+                        "id": "6295bf2d62a374001588e864"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Mitramas Infosys Global",
+                    "id": "629da0001bf516001239e735",
+                    "email": "recruitment@mitrasolusi.group"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-02T02:57:09.538Z",
+                "updatedAt": "2024-10-02T04:29:17.948Z",
+                "updatedAtByEmployer": "2024-10-02T02:57:09.532Z",
+                "latestUpdatedAt": "2024-10-02T02:57:09.535Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T23:01:18.705Z"
+            },
+            {
+                "id": "6464bb2d1d5ef80012c3a162",
+                "slug": "senior-quality-assurance-engineer",
+                "role": "Senior Quality Assurance Engineer",
+                "authorId": "63a401d9cba906001374ebf6",
+                "stats": {
+                    "viewCount": 9021,
+                    "nonCuratedCount": 827
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-05-17T11:31:57.205Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        0,
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 158,
+                    "name": "Jakarta Selatan"
+                },
+                "companyId": "63a40440e8b31500131f92ee",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": "seriesB",
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "competitiveSalary",
+                            "periodLeave",
+                            "freeMeals",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "childCareAssistance",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "professionalDevelopment",
+                            "recreationalArea",
+                            "vacationTime",
+                            "wellnessProgram",
+                            "selfDevelopmentAllowance",
+                            "internationalExposure"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "workFromAnywhere",
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/63a401d9cba906001374ebf6/JobPortalCompanyLogo/43562358-8119-4403-b1d0-fe2b8d51cdcb.png",
+                    "rank": "C",
+                    "name": "JULO",
+                    "sector": "Financial Technology",
+                    "slug": "julo",
+                    "id": "63a40440e8b31500131f92ee",
+                    "trialStartedAt": "2023-05-15T11:22:28.569Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "email": "recruitment@julofinance.com",
+                    "name": "Recruitment Julo",
+                    "id": "63a40441e8b31500131f92f2"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-05-17T11:31:57.213Z",
+                "updatedAt": "2024-09-10T07:48:41.363Z",
+                "updatedAtByEmployer": "2024-04-29T04:18:10.880Z",
+                "latestUpdatedAt": "2023-05-17T11:31:57.209Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-08-02T06:41:35.841Z"
+            },
+            {
+                "id": "62d78a601309ba001269fffd",
+                "slug": "quality-assurance-qa-tester-3",
+                "role": "Quality Assurance (QA) Tester",
+                "authorId": "62c692b4cd7793001498c271",
+                "stats": {
+                    "viewCount": 16716,
+                    "nonCuratedCount": 1762
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2022-07-20T04:53:52.710Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 4000000,
+                    "end": 5000000
+                },
+                "candidatePreference": {
+                    "lastEducations": [
+                        0,
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62997dc862a37400158a2847",
+                        "62be6fd67e07610012e712f0"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 265,
+                    "name": "Surabaya"
+                },
+                "companyId": "62a0502862a37400158cc84f",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62a04f2b6477b00015427c0d/Others/b6d828de-d65e-4480-ade9-cbc363c68188.PNG",
+                    "name": "Maxxi Tani",
+                    "sector": "Farming",
+                    "slug": "maxxi-tani",
+                    "rank": "C",
+                    "id": "62a0502862a37400158cc84f",
+                    "trialStartedAt": "2022-06-08T07:30:48.266Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SDLC",
+                        "id": "62997dc862a37400158a2847"
+                    },
+                    {
+                        "name": "API Testing",
+                        "id": "62be6fd67e07610012e712f0"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Recruitment maxxi Tani",
+                    "email": "recruitment@maxxitani.id",
+                    "id": "62c693ca9a5d890013ef559c"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-20T04:53:52.801Z",
+                "updatedAt": "2024-09-10T06:32:11.602Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T06:42:34.614Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            }
+        ],
+        "totalDocs": 29,
+        "totalPages": 2,
+        "page": 1
+    },
+    "code": 200
+}

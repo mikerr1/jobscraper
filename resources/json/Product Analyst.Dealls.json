@@ -1,0 +1,215 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66e909ff41f893001272132e",
+                "slug": "product-analyst-1",
+                "role": "Product Analyst",
+                "authorId": "659b6ecf5c64780014fc70dc",
+                "stats": {
+                    "viewCount": 2191,
+                    "nonCuratedCount": 567
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-17T04:47:59.954Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775aa6",
+                        "63e4c87ca40e670013b99f51",
+                        "6226f6692d9a642279775a87",
+                        "6226f6692d9a642279775ab6"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "659b6fba5e0e29001241c783",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "medicalLeave",
+                            "transport",
+                            "maternityLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "Astra Financial",
+                    "rank": "A",
+                    "trialStartedAt": "2024-01-08T04:16:27.167Z",
+                    "id": "659b6fba5e0e29001241c783",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/659b6ecf5c64780014fc70dc/JobPortalCompanyLogo/070f67df-af52-4ee1-b252-d586e0eb6ba0.jpg",
+                    "slug": "astra-financial",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Interpersonal skills",
+                        "id": "6226f6692d9a642279775aa6"
+                    },
+                    {
+                        "name": "Good Communication",
+                        "id": "63e4c87ca40e670013b99f51"
+                    },
+                    {
+                        "name": "Critical thinking",
+                        "id": "6226f6692d9a642279775a87"
+                    },
+                    {
+                        "name": "Product Management",
+                        "id": "6226f6692d9a642279775ab6"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Audrey Budiman",
+                    "id": "659b6fba5e0e29001241c787",
+                    "email": "audrey.budiman@astrafinancial.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-17T04:47:59.962Z",
+                "updatedAt": "2024-09-17T06:59:30.497Z",
+                "updatedAtByEmployer": "2024-09-17T04:47:59.953Z",
+                "latestUpdatedAt": "2024-09-17T04:47:59.958Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:41:29.591Z"
+            },
+            {
+                "id": "66f22ecbb1c55700128933b3",
+                "slug": "it-product-analyst-1",
+                "role": "IT Product Analyst",
+                "authorId": "6660188507cff6001352fa20",
+                "stats": {
+                    "viewCount": 1820,
+                    "nonCuratedCount": 4
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-24T03:15:23.241Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "63c17977650c1f0012eef069",
+                        "662f438d58cec800110fe060",
+                        "6226f6692d9a642279775aa6"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Product Delivery",
+                        "id": "63c17977650c1f0012eef069"
+                    },
+                    {
+                        "name": "Technical Leadership",
+                        "id": "662f438d58cec800110fe060"
+                    },
+                    {
+                        "name": "Interpersonal skills",
+                        "id": "6226f6692d9a642279775aa6"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Katherina Mandey",
+                    "id": "666018d4edb7be0012af7809",
+                    "email": "katherina.mandey@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-24T03:15:23.250Z",
+                "updatedAt": "2024-09-26T08:39:08.322Z",
+                "updatedAtByEmployer": "2024-09-26T08:39:07.243Z",
+                "latestUpdatedAt": "2024-09-24T03:15:23.244Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T13:13:15.430Z"
+            }
+        ],
+        "totalDocs": 2,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

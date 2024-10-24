@@ -1,0 +1,394 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66b045d1e2c4ae001264305d",
+                "slug": "it-business-process-analyst",
+                "role": "IT Business Process Analyst",
+                "authorId": "656e832cd4f8f00012e8d264",
+                "stats": {
+                    "viewCount": 4797,
+                    "nonCuratedCount": 1216
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-05T03:24:01.447Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "656e83c0e79a5b00127ee6c6",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "periodLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT TOYOTA ASTRA FINANCIAL SERVICES",
+                    "rank": "A",
+                    "trialStartedAt": "2023-12-05T02:47:20.355Z",
+                    "id": "656e83c0e79a5b00127ee6c6",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/656e832cd4f8f00012e8d264/JobPortalCompanyLogo/2ff7e5f4-e9cf-4d03-bd38-a227835b6614.jpg",
+                    "slug": "pt-toyota-astra-financial-services",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "annisa sabarina",
+                    "id": "656e83c0e79a5b00127ee6ca",
+                    "email": "annisa.sabarina@taf.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-05T03:24:01.453Z",
+                "updatedAt": "2024-09-10T09:45:04.189Z",
+                "updatedAtByEmployer": "2024-09-10T08:03:33.127Z",
+                "latestUpdatedAt": "2024-08-05T03:24:01.451Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T07:47:42.773Z"
+            },
+            {
+                "id": "650d521d6cdd240012cb7b5c",
+                "slug": "it-business-analyst-4",
+                "role": "IT Business Analyst",
+                "authorId": "650a545fe988fd001339500d",
+                "stats": {
+                    "viewCount": 5694,
+                    "nonCuratedCount": 449
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-09-22T08:36:45.033Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "627f28bbfae3970013a46ae4",
+                        "62997dc862a37400158a2847",
+                        "627a6f239fbcad00126268be",
+                        "62fbc2c43ce3b50013c0ea48"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64d30b235b85cb00127de30e",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "-"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Mandiri International Technology",
+                    "rank": "B",
+                    "trialStartedAt": "2023-08-09T03:42:40.822Z",
+                    "id": "64d30b235b85cb00127de30e",
+                    "sector": "IT Consulting & Services Company",
+                    "logoUrl": "https://cdn.sejutacita.id/64d309f6f62e1600139e0362/JobPortalCompanyLogo/d375e21f-cb66-4ab9-a0ae-06cccee7a36f.png",
+                    "slug": "pt-mandiri-international-technology",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Agile Methodology",
+                        "id": "627a6f239fbcad00126268be"
+                    },
+                    {
+                        "name": "Jira",
+                        "id": "627f28bbfae3970013a46ae4"
+                    },
+                    {
+                        "name": "SDLC",
+                        "id": "62997dc862a37400158a2847"
+                    },
+                    {
+                        "name": "Banking And Financial Services",
+                        "id": "62fbc2c43ce3b50013c0ea48"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Karina Chaerunisa",
+                    "id": "650a549d4a2c8b0012a5bcff",
+                    "email": "karina.chaerunisa@mitech.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-09-22T08:36:45.040Z",
+                "updatedAt": "2024-09-10T09:52:57.788Z",
+                "updatedAtByEmployer": "2024-09-05T09:57:13.975Z",
+                "latestUpdatedAt": "2024-09-04T02:23:29.432Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:58:25.904Z"
+            },
+            {
+                "id": "62da70cf1e4de500123f2016",
+                "slug": "senior-it-business-analyst",
+                "role": "Senior IT Business Analyst",
+                "authorId": "62d927e67fcb320015dcd841",
+                "stats": {
+                    "viewCount": 9784,
+                    "nonCuratedCount": 539
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-07-22T09:50:40.369Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "6277b03e9fbcad001261e66c",
+                        "62d7cc31a6d88a001226bf5b",
+                        "62ccfe25b9f25e0013061655",
+                        "627e37024c47b500126c6dd8"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 159,
+                    "name": "Jakarta Timur"
+                },
+                "companyId": "62d9294f27d5740012e8c527",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "transport",
+                            "periodLeave",
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62d927e67fcb320015dcd841/Others/09e5aa72-d531-439a-87a0-43e823dfa27b.jpeg",
+                    "rank": "B",
+                    "name": "Puninar Logistics",
+                    "sector": "Transport & Logistics",
+                    "slug": "puninar-logistics",
+                    "id": "62d9294f27d5740012e8c527",
+                    "trialStartedAt": "2022-07-21T10:24:15.836Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "MySQL",
+                        "id": "6277b03e9fbcad001261e66c"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "id": "627e37024c47b500126c6dd8"
+                    },
+                    {
+                        "name": "Oracle",
+                        "id": "62ccfe25b9f25e0013061655"
+                    },
+                    {
+                        "name": "SQL Server",
+                        "id": "62d7cc31a6d88a001226bf5b"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "arizky.cahya@puninar.com",
+                    "name": "Arizky Dwi Cahya",
+                    "id": "62d9294f27d5740012e8c52a"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-22T09:41:35.543Z",
+                "updatedAt": "2024-09-10T09:15:29.612Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T13:26:48.951Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "666a7c7cb9210b0012e99744",
+                "slug": "it-business-analyst-10",
+                "role": "IT Business Analyst",
+                "authorId": "66446813c547c500131fd962",
+                "stats": {
+                    "viewCount": 2205,
+                    "nonCuratedCount": 300
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-06-13T04:58:36.024Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "64d1fa6c14ccb200128aeb48",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "freeMeals",
+                            "teamBuilding",
+                            "companyOutings",
+                            "maternityLeave",
+                            "recreationalArea",
+                            "vacationTime",
+                            "Medical Allowance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "Triputra Visi Energi (TRIVE)",
+                    "rank": "C",
+                    "trialStartedAt": "2023-09-26T17:00:00.000Z",
+                    "id": "64d1fa6c14ccb200128aeb48",
+                    "sector": "Oil And Gas",
+                    "logoUrl": "https://cdn.sejutacita.id/64d1f92df62e1600139dbe0d/JobPortalCompanyLogo/04e98987-eccc-4d59-94ac-6b001347e622.png",
+                    "slug": "better-tomorrow-at-trive",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dimitrie Grace Natalia Basana",
+                    "id": "6645826bbb0ba50012c55d1e",
+                    "email": "dimitrie.grace@triputraenergi.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-06-13T04:58:36.033Z",
+                "updatedAt": "2024-10-03T08:07:26.773Z",
+                "updatedAtByEmployer": "2024-10-03T08:07:25.152Z",
+                "latestUpdatedAt": "2024-06-13T04:58:36.028Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T11:20:48.197Z"
+            }
+        ],
+        "totalDocs": 4,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

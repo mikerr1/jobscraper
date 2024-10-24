@@ -1,0 +1,175 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66f3827031797f0012f080bc",
+                "slug": "it-operational-support",
+                "role": "IT Operational Support",
+                "authorId": "64f836f6f62e160013a638ad",
+                "stats": {
+                    "viewCount": 726,
+                    "nonCuratedCount": 231
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-25T03:24:32.767Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "648a8db74ec24e00126f04f1",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Wings Group Indonesia (Sayap Mas Utama)",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-03T17:00:00.000Z",
+                    "id": "648a8db74ec24e00126f04f1",
+                    "sector": "Consumer Goods",
+                    "slug": "wings-group-indonesia-sayap-mas-utama",
+                    "logoUrl": "https://cdn.sejutacita.id/648a8ce01d22aa00137e8ef0/JobPortalCompanyLogo/dbe4846e-ea8b-46a9-9c85-cf1bfaf2c3c9.jfif",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Vania Djuhadi",
+                    "id": "64f83723c433290012796ff3",
+                    "email": "vania.djuhadi@wingscorp.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-25T03:24:32.778Z",
+                "updatedAt": "2024-09-25T03:52:41.643Z",
+                "updatedAtByEmployer": "2024-09-25T03:24:32.767Z",
+                "latestUpdatedAt": "2024-09-25T03:24:32.773Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T10:26:07.005Z"
+            },
+            {
+                "id": "65d603894e984000121db723",
+                "slug": "it-operator-data",
+                "role": "IT Data Operator",
+                "authorId": "64f7ee28f62e160013a61493",
+                "stats": {
+                    "viewCount": 1183,
+                    "nonCuratedCount": 252
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-20T10:02:24.806Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "64f8696c5537520012d1f3c8",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Bringin Inti Teknologi",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-14T17:00:00.000Z",
+                    "id": "64f8696c5537520012d1f3c8",
+                    "sector": "Technology and Software Solutions",
+                    "logoUrl": "https://cdn.sejutacita.id/64f7ee28f62e160013a61493/JobPortalCompanyLogo/dc1d6841-59ad-4a97-8f09-5264a2476bc4.png",
+                    "slug": "bringin-inti-teknologi",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dimas Maulana",
+                    "id": "64f8696c5537520012d1f3d1",
+                    "email": "dimas.maulana@bitcorp.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-02-21T14:07:05.016Z",
+                "updatedAt": "2024-09-17T04:26:41.923Z",
+                "updatedAtByEmployer": "2024-09-17T04:26:41.922Z",
+                "latestUpdatedAt": "2024-02-21T14:07:05.013Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-03T08:53:03.308Z"
+            }
+        ],
+        "totalDocs": 2,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

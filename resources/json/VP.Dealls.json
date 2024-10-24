@@ -1,0 +1,116 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "664412cd9019220012c59e9c",
+                "slug": "vp-of-technology",
+                "role": "VP of Technology",
+                "authorId": "654c63e4958a180013124f88",
+                "stats": {
+                    "viewCount": 3231,
+                    "nonCuratedCount": 320
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-15T01:41:33.400Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 50000000,
+                    "end": 60000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62b18ac63c43ca0012da151a",
+                        "6305e2cb620f400012877fa7",
+                        "6303ca8217decd0012b73aee",
+                        "62e0b11257e9f300122ff63a"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "654c64e6ce415c00112110ed",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "Akar Inti Enterprise",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-15T08:46:03.140Z",
+                    "id": "654c64e6ce415c00112110ed",
+                    "sector": "Information Technology & Services",
+                    "logoUrl": "https://cdn.sejutacita.id/654c63e4958a180013124f88/JobPortalCompanyLogo/8bce083e-2f64-4b1f-b699-3613a9edf267.jpeg",
+                    "slug": "akar-inti-enterprise",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Information Technology",
+                        "id": "62b18ac63c43ca0012da151a"
+                    },
+                    {
+                        "name": "Team Leadership",
+                        "id": "62e0b11257e9f300122ff63a"
+                    },
+                    {
+                        "name": "Cyber Security",
+                        "id": "6303ca8217decd0012b73aee"
+                    },
+                    {
+                        "name": "Information Security",
+                        "id": "6305e2cb620f400012877fa7"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Afifah Noor Khairani",
+                    "id": "654c64e7ce415c00112110fc",
+                    "email": "afifah@aienterprise.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-15T01:41:33.408Z",
+                "updatedAt": "2024-09-10T10:05:56.029Z",
+                "updatedAtByEmployer": "2024-08-26T09:30:12.411Z",
+                "latestUpdatedAt": "2024-05-15T01:41:33.405Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-04T09:11:26.866Z"
+            }
+        ],
+        "totalDocs": 1,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

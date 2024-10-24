@@ -1,0 +1,193 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "64d5bea82712050013da0dad",
+                "slug": "business-intelligence-bi-spesialist",
+                "role": "BUSINESS INTELLIGENCE (BI) SPESIALIST",
+                "authorId": "64d4bc97f62e1600139e7e78",
+                "stats": {
+                    "viewCount": 13372,
+                    "nonCuratedCount": 1518
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-08-11T04:52:56.547Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "628c88cfa39fae0012381fd1",
+                        "63ce89bd50819d0014485545",
+                        "62da2828707b920013f6a401"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 159,
+                    "name": "Jakarta Timur"
+                },
+                "companyId": "64d4bdb490d4fc00121e462c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/64d4bc97f62e1600139e7e78/JobPortalCompanyLogo/6b3fc771-53aa-4c10-8c17-c05f8f6a97af.jpg",
+                    "rank": "A",
+                    "name": "PT Fastrata Buana (Kapal Api Group)",
+                    "sector": "Food And Beverage Services",
+                    "slug": "pt-fastrata-buana-kapal-api-group",
+                    "id": "64d4bdb490d4fc00121e462c",
+                    "trialStartedAt": "2023-08-10T17:00:00.000Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "ETL",
+                        "id": "628c88cfa39fae0012381fd1"
+                    },
+                    {
+                        "name": "Microsoft Power BI",
+                        "id": "62da2828707b920013f6a401"
+                    },
+                    {
+                        "name": "Tableau",
+                        "id": "63ce89bd50819d0014485545"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "recruitment@fastratabuana.co.id",
+                    "name": "Eka",
+                    "id": "64d4bdb490d4fc00121e4630"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-08-11T04:52:56.556Z",
+                "updatedAt": "2024-09-10T10:22:50.522Z",
+                "updatedAtByEmployer": "2023-11-29T01:26:38.267Z",
+                "latestUpdatedAt": "2023-11-29T01:26:38.267Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "66262c0af1411d0011d1b8d0",
+                "slug": "business-intelligence-specialist",
+                "role": "Business Intelligence Specialist",
+                "authorId": "648a8ce01d22aa00137e8ef0",
+                "stats": {
+                    "viewCount": 22522,
+                    "nonCuratedCount": 2421
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-04-22T09:21:14.451Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "648a8db74ec24e00126f04f1",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Wings Group Indonesia (Sayap Mas Utama)",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-03T17:00:00.000Z",
+                    "id": "648a8db74ec24e00126f04f1",
+                    "sector": "Consumer Goods",
+                    "logoUrl": "https://cdn.sejutacita.id/648a8ce01d22aa00137e8ef0/JobPortalCompanyLogo/dbe4846e-ea8b-46a9-9c85-cf1bfaf2c3c9.jfif",
+                    "slug": "wings-group-indonesia-sayap-mas-utama",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "jessica monica",
+                    "id": "648a8db74ec24e00126f04f5",
+                    "email": "jessica.monica@wingscorp.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-04-22T09:21:14.463Z",
+                "updatedAt": "2024-09-10T10:23:06.773Z",
+                "updatedAtByEmployer": "2024-09-10T02:39:30.438Z",
+                "latestUpdatedAt": "2024-04-22T09:21:14.458Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-05T10:26:07.005Z"
+            }
+        ],
+        "totalDocs": 2,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66cbce64636b7000122a1cac",
+                "slug": "senior-project-manager-data-center",
+                "role": "Senior Project Manager Data Center",
+                "authorId": "64f7ee28f62e160013a61493",
+                "stats": {
+                    "viewCount": 570,
+                    "nonCuratedCount": 35
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-26T00:37:56.249Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "64f8696c5537520012d1f3c8",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Bringin Inti Teknologi",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-14T17:00:00.000Z",
+                    "id": "64f8696c5537520012d1f3c8",
+                    "sector": "Technology and Software Solutions",
+                    "logoUrl": "https://cdn.sejutacita.id/64f7ee28f62e160013a61493/JobPortalCompanyLogo/dc1d6841-59ad-4a97-8f09-5264a2476bc4.png",
+                    "slug": "bringin-inti-teknologi",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dimas Maulana",
+                    "id": "64f8696c5537520012d1f3d1",
+                    "email": "dimas.maulana@bitcorp.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-26T00:37:56.257Z",
+                "updatedAt": "2024-09-10T05:11:57.286Z",
+                "updatedAtByEmployer": "2024-09-04T08:01:10.466Z",
+                "latestUpdatedAt": "2024-08-26T00:37:56.254Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-03T08:53:03.308Z"
+            }
+        ],
+        "totalDocs": 1,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

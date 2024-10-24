@@ -1,0 +1,67 @@
+{
+    "data": [],
+    "title": "AVP Information & Communication Technology, Banking & Financial Services Jobs",
+    "totalCount": 0,
+    "totalPages": 1,
+    "paginationParameters": {
+        "seekSelectAllPages": true,
+        "hadPremiumListings": false
+    },
+    "info": {
+        "timeTaken": 19,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3618200715143767603",
+    "sortMode": [
+        {
+            "isActive": true,
+            "name": "Relevance",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Date",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "6e19806e-3278-4641-a5fa-19374403df53",
+        "token": "0~6e19806e-3278-4641-a5fa-19374403df53",
+        "keywords": "AVP",
+        "sortMode": "RELEVANCE",
+        "createdSince": "1727532000es",
+        "categories": [
+            "6281",
+            "1203"
+        ],
+        "pageSize": 100,
+        "pageNumber": 1,
+        "totalJobCount": 0,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "0",
+            "mordor:result_count_vec": "0",
+            "mordor:rt": "13",
+            "mordor_vs:retrieved_count": "0",
+            "mordor:count_vec": "0",
+            "mordor__flights": "mordor_510",
+            "mordor:count_rst": "0",
+            "mordor:count_ir": "0",
+            "mordor:result_count_ir": "0",
+            "chalice-search-api:solId": "f331e076-8fa6-4f9a-9fcb-278ae4a761ef"
+        }
+    },
+    "facets": {},
+    "joraCrossLink": {
+        "canCrossLink": false
+    },
+    "searchParams": {
+        "classification": "6281,1203",
+        "daterange": "7",
+        "keywords": "AVP",
+        "pagesize": "100",
+        "sitekey": "ID-Main",
+        "solid": "f331e076-8fa6-4f9a-9fcb-278ae4a761ef"
+    }
+}
