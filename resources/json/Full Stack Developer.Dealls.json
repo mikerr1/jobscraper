@@ -1,0 +1,728 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "62c80b8661880b00137c421b",
+                "slug": "full-stack-developer",
+                "role": "Full Stack Developer",
+                "authorId": "62c7fdd588c4df0015c9c985",
+                "stats": {
+                    "viewCount": 26363,
+                    "nonCuratedCount": 2294
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-07-08T10:48:38.503Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        0,
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62a99033ece94c00122224c8",
+                        "62b00b8bf9aaf2001213c854",
+                        "626b62f18cca210012db695f",
+                        "62c8020461880b00137c3f1f",
+                        "6277b02b9fbcad001261e65c",
+                        "628c70d6babeec001370df86"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 158,
+                    "name": "Jakarta Selatan"
+                },
+                "companyId": "62c8001e9a5d890013ef99de",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62c7fdd588c4df0015c9c985/Others/7da69bff-7a0e-4e37-a7bb-3d6a2cf4b255.jpeg",
+                    "name": "Bank Sahabat Sampoerna",
+                    "sector": "Corporate Banking",
+                    "slug": "bank-sahabat-sampoerna",
+                    "rank": "A",
+                    "id": "62c8001e9a5d890013ef99de",
+                    "trialStartedAt": "2022-07-08T09:59:58.042Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Phyton",
+                        "id": "626b62f18cca210012db695f"
+                    },
+                    {
+                        "name": "Google Cloud Platform",
+                        "id": "628c70d6babeec001370df86"
+                    },
+                    {
+                        "name": "Django",
+                        "id": "62a99033ece94c00122224c8"
+                    },
+                    {
+                        "name": "Camunda",
+                        "id": "62c8020461880b00137c3f1f"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "candra.irawan@banksampoerna.com",
+                    "name": "Candra Irawan",
+                    "id": "62c8001e9a5d890013ef99e1"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-08T10:48:38.511Z",
+                "updatedAt": "2024-09-10T10:01:40.598Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T13:46:22.200Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "670e62a870173a00120d6544",
+                "slug": "full-stack-developer-46",
+                "role": "Full Stack Developer",
+                "authorId": "670e58c33d00be0013106c4d",
+                "stats": {
+                    "viewCount": 764,
+                    "nonCuratedCount": 8
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-15T12:40:08.339Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6350b16cf71f900012806bcb",
+                        "6350b1589a558b0014b6b24f",
+                        "63495a87806ec30012aa2c01",
+                        "633eacdcce1ee0001497dc5a",
+                        "647d4ae12cc15200122b9d06"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        0
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang Selatan",
+                    "id": 273
+                },
+                "companyId": "670e59d2557af600122eae73",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Engowl Studio",
+                    "rank": "C",
+                    "trialStartedAt": "2024-10-15T12:02:33.915Z",
+                    "id": "670e59d2557af600122eae73",
+                    "sector": "Full Stack Developer",
+                    "logoUrl": "https://cdn.sejutacita.id/670e58c33d00be0013106c4d/JobPortalCompanyLogo/9f63af0b-9a96-4503-921d-e723dff2d200.png",
+                    "slug": "engowl-studio",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Fullstack Developer",
+                        "id": "6350b16cf71f900012806bcb"
+                    },
+                    {
+                        "name": "Frontend Developer",
+                        "id": "6350b1589a558b0014b6b24f"
+                    },
+                    {
+                        "name": "Backend Developer",
+                        "id": "63495a87806ec30012aa2c01"
+                    },
+                    {
+                        "name": "REST API",
+                        "id": "633eacdcce1ee0001497dc5a"
+                    },
+                    {
+                        "name": "NoSQL",
+                        "id": "647d4ae12cc15200122b9d06"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Engowl Studio Admin",
+                    "id": "670e59d2557af600122eae77",
+                    "email": "admin@engowl.studio"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-15T12:40:08.345Z",
+                "updatedAt": "2024-10-16T00:57:21.216Z",
+                "updatedAtByEmployer": "2024-10-15T12:40:08.339Z",
+                "latestUpdatedAt": "2024-10-15T12:40:08.342Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:24:21.949Z"
+            },
+            {
+                "id": "65d80f0fc277bf00122efd7d",
+                "slug": "full-stack-developer-22",
+                "role": "Full Stack Developer",
+                "authorId": "650bbc59e988fd001339a52d",
+                "stats": {
+                    "viewCount": 2798,
+                    "nonCuratedCount": 2
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-02-23T03:20:47.356Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rina Chairunnisa",
+                    "id": "650bbc9af4f49c00127a02f4",
+                    "email": "rina.chairunnisa@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-02-23T03:20:47.363Z",
+                "updatedAt": "2024-09-10T06:59:58.672Z",
+                "updatedAtByEmployer": "2024-09-10T03:47:06.464Z",
+                "latestUpdatedAt": "2024-02-23T03:20:47.359Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "62da533a9721a20013577f04",
+                "slug": "full-stack-web-developer",
+                "role": "Full-stack Web Developer",
+                "authorId": "62da50567fcb320015dcfff3",
+                "stats": {
+                    "viewCount": 9736,
+                    "nonCuratedCount": 519
+                },
+                "employmentTypes": [
+                    "fullTime",
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-07-22T07:35:22.257Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 8000000
+                },
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "628db36da39fae0012387043",
+                        "6285ccf4a39fae001236786b",
+                        "62753513c25e6c001489214d",
+                        "6298b0a61bf516001238598d",
+                        "6277b03e9fbcad001261e66c",
+                        "62b00b8bf9aaf2001213c854"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 273,
+                    "name": "Tangerang Selatan"
+                },
+                "companyId": "62da516d77556000129d576d",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62da50567fcb320015dcfff3/Others/0d735550-fc31-47e9-84f0-6742c7f104b6.jpg",
+                    "rank": "C",
+                    "name": "Harnods",
+                    "sector": "Product Design",
+                    "slug": "harnods",
+                    "id": "62da516d77556000129d576d",
+                    "trialStartedAt": "2022-07-22T07:27:41.008Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "ReactJS",
+                        "id": "62753513c25e6c001489214d"
+                    },
+                    {
+                        "name": "MySQL",
+                        "id": "6277b03e9fbcad001261e66c"
+                    },
+                    {
+                        "name": "Nodejs",
+                        "id": "6285ccf4a39fae001236786b"
+                    },
+                    {
+                        "name": "Ruby On Rails",
+                        "id": "628db36da39fae0012387043"
+                    },
+                    {
+                        "name": "VueJs",
+                        "id": "6298b0a61bf516001238598d"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "ds@harnods.com",
+                    "name": "Dirman Suharno",
+                    "id": "62da516d77556000129d5770"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-22T07:35:22.264Z",
+                "updatedAt": "2024-09-10T10:20:42.253Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T14:27:04.524Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "66fb6771a3b2e400127dcfd5",
+                "slug": "full-stack-developer-44",
+                "role": "Full Stack Developer",
+                "authorId": "656988ac958a1800131adc6e",
+                "stats": {
+                    "viewCount": 1470,
+                    "nonCuratedCount": 78
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-01T03:07:29.233Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "622b0e91be545565867248cc",
+                        "633eacdcce1ee0001497dc5a",
+                        "62db37162aa8890012bd4bbb",
+                        "6226f6692d9a642279775abb",
+                        "6285ccf4a39fae001236786b"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "656989461e6e3a0012db9f2d",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "CFACTORY.CO",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-30T17:00:00.000Z",
+                    "id": "656989461e6e3a0012db9f2d",
+                    "sector": "Advertising Services",
+                    "logoUrl": "https://cdn.sejutacita.id/656988ac958a1800131adc6e/JobPortalCompanyLogo/8b00a4de-6efc-43e5-8d82-0a627e147d05.jpeg",
+                    "slug": "cfactoryco",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Artificial Intelligence",
+                        "id": "622b0e91be545565867248cc"
+                    },
+                    {
+                        "name": "REST API",
+                        "id": "633eacdcce1ee0001497dc5a"
+                    },
+                    {
+                        "name": "NLP",
+                        "id": "62db37162aa8890012bd4bbb"
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Nodejs",
+                        "id": "6285ccf4a39fae001236786b"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Lintang Pratama",
+                    "id": "656989471e6e3a0012db9f31",
+                    "email": "hrd@cfactory.co"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T03:07:29.244Z",
+                "updatedAt": "2024-10-01T06:00:11.996Z",
+                "updatedAtByEmployer": "2024-10-01T03:07:29.233Z",
+                "latestUpdatedAt": "2024-10-01T03:07:29.240Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:42:11.336Z"
+            },
+            {
+                "id": "63a9676eb7d52f001389dbfb",
+                "slug": "full-stack-developer-5",
+                "role": "Full Stack Developer",
+                "authorId": "63a9639ccba9060013752619",
+                "stats": {
+                    "viewCount": 13947,
+                    "nonCuratedCount": 1685
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-12-26T09:20:46.462Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5300000,
+                    "end": 15000000
+                },
+                "candidatePreference": {
+                    "lastEducations": [
+                        0,
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62f66101e35eed00122e091d",
+                        "631073c851c6b2001375d91d"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 157,
+                    "name": "Jakarta Pusat"
+                },
+                "companyId": "63a9651db7d52f001389d9a9",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "freeMeals",
+                            "casualDressCode",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "professionalDevelopment",
+                            "teamBuilding"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/63a9639ccba9060013752619/JobPortalCompanyLogo/bc3ebe19-27dc-49e2-b52e-9039c5c4d553.jpeg",
+                    "rank": "C",
+                    "name": "Ayovest",
+                    "sector": "Finance Technology,",
+                    "slug": "ayovest",
+                    "id": "63a9651db7d52f001389d9a9",
+                    "trialStartedAt": "2022-12-26T09:11:04.379Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "email": "andika.setiadi@ayovest.id",
+                    "name": "Andika",
+                    "id": "63a9651db7d52f001389d9ad"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-12-26T09:20:46.526Z",
+                "updatedAt": "2024-09-10T09:44:48.046Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T07:57:59.500Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "65f952cae5a136001245d61a",
+                "slug": "full-stack-developer-29",
+                "role": "Sr. Full Stack Developer (Tech Lead of Maintainer)",
+                "authorId": "654455f1958a180013108a85",
+                "stats": {
+                    "viewCount": 4596,
+                    "nonCuratedCount": 193
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-03-21T05:45:09.247Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        7,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775aa7",
+                        "633eacdcce1ee0001497dc5a",
+                        "62c43217e8f1ff0012996517",
+                        "6226f6692d9a642279775ad0"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 157,
+                    "name": "Jakarta Pusat"
+                },
+                "companyId": "65445745528d2d00120508a5",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": "others",
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/654455f1958a180013108a85/JobPortalCompanyLogo/9a45e396-3033-405f-86a2-3bbe7bb6be5b.jpg",
+                    "rank": "C",
+                    "name": "Digisign.id",
+                    "sector": "Information Technology & Services",
+                    "slug": "digisignid",
+                    "id": "65445745528d2d00120508a5",
+                    "trialStartedAt": "2023-11-03T04:37:07.650Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "Troubleshooting",
+                        "id": "6226f6692d9a642279775ad0"
+                    },
+                    {
+                        "name": "Full Stack Web Development",
+                        "id": "62c43217e8f1ff0012996517"
+                    },
+                    {
+                        "name": "REST API",
+                        "id": "633eacdcce1ee0001497dc5a"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "ervyana@digi-id.id",
+                    "name": "Ervyana Nasruddin",
+                    "id": "65445745528d2d00120508a9"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-03-19T08:54:34.914Z",
+                "updatedAt": "2024-09-10T06:31:26.324Z",
+                "updatedAtByEmployer": "2024-03-21T05:50:58.588Z",
+                "latestUpdatedAt": "2024-03-19T08:54:34.910Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 3,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-07-24T02:59:34.208Z"
+            }
+        ],
+        "totalDocs": 7,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

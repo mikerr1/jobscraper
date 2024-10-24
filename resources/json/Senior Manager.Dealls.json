@@ -1,0 +1,850 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "6645c2bb752c5f00129928f2",
+                "slug": "auto-finance-sales-policy-senior",
+                "role": "Auto Finance Sales Policy (Senior Specialist - Manager)",
+                "authorId": "65252933c4ff84001311011a",
+                "stats": {
+                    "viewCount": 5378,
+                    "nonCuratedCount": 26
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-17T10:01:29.156Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6645c1e8c1196e0012710f31",
+                        "66472a9b0ccd820012c2a893",
+                        "6549bbf784cf790013f3dd84",
+                        "62c6447e38af2c0014ae33d0"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Presentation Skill",
+                        "id": "62c6447e38af2c0014ae33d0"
+                    },
+                    {
+                        "name": "Auto Finance",
+                        "id": "6549bbf784cf790013f3dd84"
+                    },
+                    {
+                        "name": "Sales Policy",
+                        "id": "6645c1e8c1196e0012710f31"
+                    },
+                    {
+                        "name": "SOP Creation",
+                        "id": "66472a9b0ccd820012c2a893"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Samuel",
+                    "id": "65252a76e68fd20012e7a94e",
+                    "email": "samuel@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-16T08:24:27.185Z",
+                "updatedAt": "2024-09-01T13:59:40.577Z",
+                "updatedAtByEmployer": "2024-06-07T08:53:59.765Z",
+                "latestUpdatedAt": "2024-05-16T08:24:27.181Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "6715cb9e7273ab00123a9629",
+                "slug": "senior-it-infrastructure-manager",
+                "role": "Senior IT Infrastructure Manager",
+                "authorId": "654c63e4958a180013124f88",
+                "stats": {
+                    "viewCount": 874,
+                    "nonCuratedCount": 12
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-21T03:33:50.336Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 35000000,
+                    "end": 45000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62d9139e707b920013f5d64b",
+                        "6298645962a37400158992c9",
+                        "62989f0662a374001589c674",
+                        "622b0e91be545565867248d4",
+                        "645c6a319b9f7200117c6286"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "654c64e6ce415c00112110ed",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "Akar Inti Enterprise",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-15T08:46:03.140Z",
+                    "id": "654c64e6ce415c00112110ed",
+                    "sector": "Information Technology & Services",
+                    "logoUrl": "https://cdn.sejutacita.id/654c63e4958a180013124f88/JobPortalCompanyLogo/8bce083e-2f64-4b1f-b699-3613a9edf267.jpeg",
+                    "slug": "akar-inti-enterprise",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Virtualization",
+                        "id": "62d9139e707b920013f5d64b"
+                    },
+                    {
+                        "name": "IT Infrastructure",
+                        "id": "6298645962a37400158992c9"
+                    },
+                    {
+                        "name": "Network Engineering",
+                        "id": "62989f0662a374001589c674"
+                    },
+                    {
+                        "name": "Cloud Computing",
+                        "id": "622b0e91be545565867248d4"
+                    },
+                    {
+                        "name": "Storage",
+                        "id": "645c6a319b9f7200117c6286"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Afifah Noor Khairani",
+                    "id": "654c64e7ce415c00112110fc",
+                    "email": "afifah@aienterprise.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-21T03:33:50.349Z",
+                "updatedAt": "2024-10-21T03:34:31.714Z",
+                "updatedAtByEmployer": "2024-10-21T03:33:50.335Z",
+                "latestUpdatedAt": "2024-10-21T03:33:50.341Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:41:29.655Z"
+            },
+            {
+                "id": "66d9668e57365a00123b76e4",
+                "slug": "senior-lead-category-manager",
+                "role": "Senior Lead Category Manager",
+                "authorId": "6347987c82722200133d4625",
+                "stats": {
+                    "viewCount": 1481,
+                    "nonCuratedCount": 99
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-09-05T08:06:38.163Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "646353e604e6450012c75b5c",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "transport",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "ASTRO",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-13T10:00:35.276Z",
+                    "id": "646353e604e6450012c75b5c",
+                    "sector": "Online Groceries",
+                    "logoUrl": "https://cdn.sejutacita.id/6347987c82722200133d4625/JobPortalCompanyLogo/902dfd98-c9f5-4cce-b748-c92c470241ac.jpg",
+                    "slug": "astro",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Bima Adiputra Pratama",
+                    "id": "65a8c97c7b7e6800115eed32",
+                    "email": "bima.pratama@astronauts.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-05T08:06:38.169Z",
+                "updatedAt": "2024-09-10T10:17:01.334Z",
+                "updatedAtByEmployer": "2024-09-05T08:06:38.163Z",
+                "latestUpdatedAt": "2024-09-05T08:06:38.166Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 7,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:44:36.215Z"
+            },
+            {
+                "id": "6705f1604818cd0013c2eb57",
+                "slug": "senior-product-manager-consumer-experience",
+                "role": "Senior Product Manager - Consumer Experience",
+                "authorId": "66335bf1de17860014773d15",
+                "stats": {
+                    "viewCount": 261,
+                    "nonCuratedCount": 107
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-09T02:58:40.376Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "62c406d3c9c89e0013533ca4",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave",
+                            "Internet Allowance",
+                            "Workstation Subsidy"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": "seriesB",
+                        "fundingAmount": 0
+                    },
+                    "name": "Flip",
+                    "rank": "A",
+                    "trialStartedAt": "2022-07-05T09:39:31.263Z",
+                    "id": "62c406d3c9c89e0013533ca4",
+                    "sector": "Financial Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/62c405a1a871b90013659af9/Others/9b4b1955-bc84-4940-b03d-0bfc6dd30ea2.png",
+                    "slug": "flip",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Wulan Mayastika",
+                    "id": "66335c8f551b530013746639",
+                    "email": "wulan@flip.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-09T02:58:40.382Z",
+                "updatedAt": "2024-10-10T02:46:39.823Z",
+                "updatedAtByEmployer": "2024-10-09T02:58:40.376Z",
+                "latestUpdatedAt": "2024-10-09T02:58:40.379Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-21T05:06:02.190Z"
+            },
+            {
+                "id": "66cbce64636b7000122a1cac",
+                "slug": "senior-project-manager-data-center",
+                "role": "Senior Project Manager Data Center",
+                "authorId": "64f7ee28f62e160013a61493",
+                "stats": {
+                    "viewCount": 685,
+                    "nonCuratedCount": 50
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-26T00:37:56.249Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "64f8696c5537520012d1f3c8",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Bringin Inti Teknologi",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-14T17:00:00.000Z",
+                    "id": "64f8696c5537520012d1f3c8",
+                    "sector": "Technology and Software Solutions",
+                    "logoUrl": "https://cdn.sejutacita.id/64f7ee28f62e160013a61493/JobPortalCompanyLogo/dc1d6841-59ad-4a97-8f09-5264a2476bc4.png",
+                    "slug": "bringin-inti-teknologi",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dimas Maulana",
+                    "id": "64f8696c5537520012d1f3d1",
+                    "email": "dimas.maulana@bitcorp.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-26T00:37:56.257Z",
+                "updatedAt": "2024-09-10T05:11:57.286Z",
+                "updatedAtByEmployer": "2024-09-04T08:01:10.466Z",
+                "latestUpdatedAt": "2024-08-26T00:37:56.254Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 7,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T06:27:31.660Z"
+            },
+            {
+                "id": "6662b0916e876400123c1c06",
+                "slug": "auto-finance-operation-manager",
+                "role": "Operations Senior Manager - Manager (Automotive Finance/Leasing)",
+                "authorId": "65252933c4ff84001311011a",
+                "stats": {
+                    "viewCount": 13198,
+                    "nonCuratedCount": 113
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-06-07T08:59:06.813Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6355f019e9a38f001258a6d2",
+                        "62c05b01e8f1ff001298b0b2",
+                        "64095a66fa95ba001344742c"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630cff8c9c338f0012831274",
+                "categorySlug": "finance-and-accounting",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Team Work",
+                        "id": "62c05b01e8f1ff001298b0b2"
+                    },
+                    {
+                        "name": "Interpersonal Communication",
+                        "id": "6355f019e9a38f001258a6d2"
+                    },
+                    {
+                        "name": "Operations Management",
+                        "id": "64095a66fa95ba001344742c"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Samuel",
+                    "id": "65252a76e68fd20012e7a94e",
+                    "email": "samuel@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-06-07T07:02:41.805Z",
+                "updatedAt": "2024-09-10T01:09:45.625Z",
+                "updatedAtByEmployer": "2024-07-04T10:20:05.056Z",
+                "latestUpdatedAt": "2024-06-07T07:02:41.799Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "64be4e7b5a08da0012b7d15a",
+                "slug": "compliance-senior-associatemanager",
+                "role": "Compliance (Senior Associate/Manager)",
+                "authorId": "64ba3cd643ee310013b57610",
+                "stats": {
+                    "viewCount": 4879,
+                    "nonCuratedCount": 213
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2023-07-24T10:32:38.092Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 49180,
+                    "name": "Jakarta"
+                },
+                "companyId": "62bc0d86e8f1ff0012978c19",
+                "categoryId": "630cff8c9c338f0012831274",
+                "categorySlug": "finance-and-accounting",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/6360884d82722200133ec57b/JobPortalCompanyLogo/fecf8787-39f8-4264-9410-bfc23622fcf5.png",
+                    "name": "Cermati.com",
+                    "sector": "Insurance, Banking, Multifinance, Telco, Fintech",
+                    "slug": "cermaticom",
+                    "rank": "B",
+                    "id": "62bc0d86e8f1ff0012978c19",
+                    "trialStartedAt": "2022-06-29T08:29:58.848Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Maria Samantha",
+                    "email": "maria.simandjuntak@cermati.com",
+                    "id": "64ba3e192ebe450012da1e60"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-07-24T10:12:11.298Z",
+                "updatedAt": "2024-09-10T06:31:01.187Z",
+                "updatedAtByEmployer": "2023-11-24T10:08:40.559Z",
+                "latestUpdatedAt": "2023-07-24T10:12:11.293Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 3,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "660f75eb900db90013bad9a1",
+                "slug": "senior-brand-manager-1",
+                "role": "Senior Brand Manager",
+                "authorId": "65f3ab5f9e50c300135cfc06",
+                "stats": {
+                    "viewCount": 8721,
+                    "nonCuratedCount": 286
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-04-05T03:54:19.909Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62d630124a8dd2001226b682",
+                        "6278f45a9198210014870c4a"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 272,
+                    "name": "Tangerang"
+                },
+                "companyId": "65cb1d81c4ba040012ea4594",
+                "categoryId": "630cfecf51c6b2001373136d",
+                "categorySlug": "marketing-and-social-media",
+                "company": {
+                    "insight": {
+                        "fundingStage": "Others",
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "companyOutings",
+                            "employeeDiscounts",
+                            "teamBuilding",
+                            "wellnessProgram",
+                            "casualDressCode"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/65cb1c6d1370c4001319800c/JobPortalCompanyLogo/e138c117-e7f0-4e90-a70f-46aed45dd7b7.jpg",
+                    "rank": "C",
+                    "name": "mGanik Group - PT Mganik Grup Mitra Indonesia",
+                    "sector": "Pharmaceutical and Healthcare",
+                    "slug": "mganikgroup",
+                    "id": "65cb1d81c4ba040012ea4594",
+                    "trialStartedAt": "2024-02-12T17:00:00.000Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Campaign Management",
+                        "id": "6278f45a9198210014870c4a"
+                    },
+                    {
+                        "name": "Strategic Marketing",
+                        "id": "62d630124a8dd2001226b682"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "mGanik Career",
+                    "email": "career@mganik.com",
+                    "id": "65f3ababbce20e0012cab4f7"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-04-05T03:54:19.914Z",
+                "updatedAt": "2024-09-10T10:22:50.621Z",
+                "updatedAtByEmployer": "2024-04-30T15:31:01.331Z",
+                "latestUpdatedAt": "2024-04-05T03:54:19.912Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "66fcaeb61ff0bf0012263645",
+                "slug": "senior-product-manager-9",
+                "role": "Senior Product Manager",
+                "authorId": "66e955813158950013a871f0",
+                "stats": {
+                    "viewCount": 1242,
+                    "nonCuratedCount": 54
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-02T02:23:50.151Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "66724320d5254b0012fbb724",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "dentalInsurance",
+                            "teamBuilding",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "AlloFresh",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-18T17:00:00.000Z",
+                    "id": "66724320d5254b0012fbb724",
+                    "sector": "E-commerce and Online Retail",
+                    "logoUrl": "https://cdn.sejutacita.id/6672412b653c1b00128cfbe1/JobPortalCompanyLogo/85f2f430-f561-4303-a9e5-ada44fcaa42c.jfif",
+                    "slug": "allofresh",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Nurul Rochmah Azizah",
+                    "id": "66e955955f302e00128e6b91",
+                    "email": "nurul.rochmah@allofresh.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-02T02:23:50.158Z",
+                "updatedAt": "2024-10-02T02:36:22.126Z",
+                "updatedAtByEmployer": "2024-10-02T02:23:50.150Z",
+                "latestUpdatedAt": "2024-10-02T02:23:50.153Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T08:39:09.590Z"
+            }
+        ],
+        "totalDocs": 9,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

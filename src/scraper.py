@@ -65,7 +65,7 @@ search_requests = []
 for site in sites:
 
     print(site["name"])
-    if site["name"] == "Jobstreet":
+    if site["name"] == "Dealls":
         continue
 
     # prepare url and payload base on each search keyword

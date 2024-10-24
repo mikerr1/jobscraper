@@ -1,0 +1,1650 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "670e330b70173a00120772f0",
+                "slug": "compliance-manager-fintech",
+                "role": "Compliance Manager (FinTech)",
+                "authorId": "658e5afcb672bc001332fe52",
+                "stats": {
+                    "viewCount": 2645,
+                    "nonCuratedCount": 95
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-15T09:16:59.546Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 12000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "630705d9d5bb3700125c9ab6",
+                        "629db1941bf516001239f2b4",
+                        "62d90ce9d6ecf700138c4de7",
+                        "63b79d626a55240012183ad5",
+                        "63468855bbacc600147bdcb0"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang",
+                    "id": 272
+                },
+                "companyId": "65373d1b207a1600123417e8",
+                "categoryId": "630cff8c9c338f0012831274",
+                "categorySlug": "finance-and-accounting",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "YUKK Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-11-11T17:00:00.000Z",
+                    "id": "65373d1b207a1600123417e8",
+                    "sector": "Technology, Information, Internet",
+                    "logoUrl": "https://cdn.sejutacita.id/65373c9a2470a3001462279e/JobPortalCompanyLogo/5ebda4f3-edec-482f-b099-bca66b2f485e.jpeg",
+                    "slug": "yukk-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Regulatory Compliance",
+                        "id": "630705d9d5bb3700125c9ab6"
+                    },
+                    {
+                        "name": "Legal Compliance",
+                        "id": "629db1941bf516001239f2b4"
+                    },
+                    {
+                        "name": "Compliance",
+                        "id": "62d90ce9d6ecf700138c4de7"
+                    },
+                    {
+                        "name": "SOP",
+                        "id": "63b79d626a55240012183ad5"
+                    },
+                    {
+                        "name": "Regulatory Affairs",
+                        "id": "63468855bbacc600147bdcb0"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "HR Team",
+                    "id": "65c9f44bc4ba040012d65995",
+                    "email": "hrteam@yukk.me"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-15T09:16:59.552Z",
+                "updatedAt": "2024-10-23T02:12:26.155Z",
+                "updatedAtByEmployer": "2024-10-15T09:16:59.546Z",
+                "latestUpdatedAt": "2024-10-15T09:16:59.549Z",
+                "urgentlyNeeded": true,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:29:12.883Z"
+            },
+            {
+                "id": "67189574cff74e001367824d",
+                "slug": "e-commerce-stock-management-tegal",
+                "role": "E Commerce Stock Management (Tegal Placement)",
+                "authorId": "67106d3ad3a15a001298ae3f",
+                "stats": {
+                    "viewCount": 35,
+                    "nonCuratedCount": 22
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-23T06:19:32.497Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tegal",
+                    "id": 222
+                },
+                "companyId": "6552ea3796a98b00126e431c",
+                "categoryId": "65673827e7adcf001210f96e",
+                "categorySlug": "admin-and-ops",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "ParagonCorp",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-23T17:00:00.000Z",
+                    "id": "6552ea3796a98b00126e431c",
+                    "sector": "Consumer Goods",
+                    "logoUrl": "https://cdn.sejutacita.id/6552e9872470a300146bbd23/JobPortalCompanyLogo/a8cbcd85-c0dd-4805-adc6-3b624a453316.jpeg",
+                    "slug": "paragoncorp",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Aditya Imansyah Ismawan",
+                    "id": "67106d70b3534700121db269",
+                    "email": "aditya.iismawan@paracorpgroup.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T06:19:32.504Z",
+                "updatedAt": "2024-10-23T07:11:23.803Z",
+                "updatedAtByEmployer": "2024-10-23T06:19:32.497Z",
+                "latestUpdatedAt": "2024-10-23T06:19:32.502Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T01:02:24.716Z"
+            },
+            {
+                "id": "67188721cff74e001364f62f",
+                "slug": "finance-controller-manager",
+                "role": "Finance Controller Manager",
+                "authorId": "653f1ad32470a3001466b709",
+                "stats": {
+                    "viewCount": 251,
+                    "nonCuratedCount": 23
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-23T05:18:25.276Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "633c4810165b8b0011ca77eb",
+                        "627b3be80aad8e00136c889c",
+                        "62fdc30e4d2db70012bde812",
+                        "62fe05e61e10ce0014a7cd19"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "653f1b97c11bf50012dd9adc",
+                "categoryId": "630cff8c9c338f0012831274",
+                "categorySlug": "finance-and-accounting",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Trans Retail Indonesia",
+                    "rank": "A",
+                    "trialStartedAt": "2023-11-02T07:54:35.523Z",
+                    "id": "653f1b97c11bf50012dd9adc",
+                    "sector": "Retail",
+                    "logoUrl": "https://cdn.sejutacita.id/653f1ad32470a3001466b709/JobPortalCompanyLogo/84d42a39-8761-4ade-ac4e-fb5167f8ebc9.jpeg",
+                    "slug": "pt-trans-retail-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Budgeting",
+                        "id": "633c4810165b8b0011ca77eb"
+                    },
+                    {
+                        "name": "Reporting",
+                        "id": "627b3be80aad8e00136c889c"
+                    },
+                    {
+                        "name": "Finance Operations",
+                        "id": "62fdc30e4d2db70012bde812"
+                    },
+                    {
+                        "name": "Finance Management",
+                        "id": "62fe05e61e10ce0014a7cd19"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Windy Savira",
+                    "id": "653f1b97c11bf50012dd9aef",
+                    "email": "recruitment@transretail.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T05:18:25.284Z",
+                "updatedAt": "2024-10-23T07:03:32.359Z",
+                "updatedAtByEmployer": "2024-10-23T05:18:25.275Z",
+                "latestUpdatedAt": "2024-10-23T05:18:25.281Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": true,
+                "lastActivelyHiringAt": "2024-10-23T07:07:53.863Z"
+            },
+            {
+                "id": "6718cc8b26d59f00123c51d3",
+                "slug": "online-channel-jr-manager",
+                "role": "Online Channel Jr Manager",
+                "authorId": "6510f4d1f62e160013ac10dd",
+                "stats": {
+                    "viewCount": 169,
+                    "nonCuratedCount": 9
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-23T10:14:35.142Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Bogor",
+                    "id": 182
+                },
+                "companyId": "6510f5646cdd240012ec6b82",
+                "categoryId": "630cfecf51c6b2001373136d",
+                "categorySlug": "marketing-and-social-media",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave",
+                            "medicalLeave",
+                            "freeLunch",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "companyOutings",
+                            "dentalInsurance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Agrinesia Raya",
+                    "rank": "C",
+                    "trialStartedAt": "2024-07-28T17:00:00.000Z",
+                    "id": "6510f5646cdd240012ec6b82",
+                    "sector": "Consumer Goods",
+                    "logoUrl": "https://cdn.sejutacita.id/6510f4d1f62e160013ac10dd/JobPortalCompanyLogo/6da079cf-64b6-43c8-96a2-b4e0d47a19fd.jpg",
+                    "slug": "pt-agrinesia-raya",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "ruth felensia",
+                    "id": "6510f5646cdd240012ec6b86",
+                    "email": "ruth.felensia@agrinesia.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T10:14:35.155Z",
+                "updatedAt": "2024-10-23T10:49:22.050Z",
+                "updatedAtByEmployer": "2024-10-23T10:14:35.142Z",
+                "latestUpdatedAt": "2024-10-23T10:14:35.149Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": true,
+                "lastActivelyHiringAt": "2024-10-23T10:25:37.881Z"
+            },
+            {
+                "id": "671870497f104500126914b4",
+                "slug": "sales-manager-produk-cat",
+                "role": "Sales Manager Produk Cat",
+                "authorId": "670cfa2c3d00be0013103543",
+                "stats": {
+                    "viewCount": 63,
+                    "nonCuratedCount": 4
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-23T03:40:57.758Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Banten",
+                    "id": 49182
+                },
+                "companyId": "670cfaa070173a0012d8a406",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT TDS Paint",
+                    "rank": "C",
+                    "trialStartedAt": "2024-10-23T03:39:41.347Z",
+                    "id": "670cfaa070173a0012d8a406",
+                    "sector": "Home Improvement Retail",
+                    "slug": "pt-tds-paint",
+                    "logoUrl": "https://cdn.sejutacita.id/670cfa2c3d00be0013103543/JobPortalCompanyLogo/db12d17c-d7d1-47be-94b2-6fdfffcd0119.png",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT TDS Paint",
+                    "id": "670cfaa070173a0012d8a40a",
+                    "email": "hr@dealls-tdspaint.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T03:40:57.763Z",
+                "updatedAt": "2024-10-23T04:40:26.024Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2024-10-23T03:40:57.760Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": true,
+                "lastActivelyHiringAt": "2024-10-23T03:44:38.001Z"
+            },
+            {
+                "id": "6717270509f666001212a43a",
+                "slug": "market-manager-samarinda",
+                "role": "Market Manager - Samarinda",
+                "authorId": "6452121fbcd1810013e75ca6",
+                "stats": {
+                    "viewCount": 114,
+                    "nonCuratedCount": 19
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "remote",
+                "publishedAt": "2024-10-22T04:16:05.593Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": null,
+                "city": null,
+                "companyId": "64521355c6c7f30012865ad0",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "internationalExposure",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "employeeDiscounts",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "professionalDevelopment",
+                            "wellnessProgram"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "flexible",
+                            "hybrid",
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "RedDoorz",
+                    "rank": "A",
+                    "trialStartedAt": "2023-05-03T07:56:04.194Z",
+                    "id": "64521355c6c7f30012865ad0",
+                    "sector": "Hospitality",
+                    "logoUrl": "https://cdn.sejutacita.id/6452121fbcd1810013e75ca6/JobPortalCompanyLogo/4d6ed60f-8ed4-41aa-883c-32eeaa25e2d0.jpeg",
+                    "slug": "reddoorz",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Recruitment Team",
+                    "id": "64521355c6c7f30012865ad4",
+                    "email": "recruitment@reddoorz.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-22T04:16:05.597Z",
+                "updatedAt": "2024-10-22T04:23:24.334Z",
+                "updatedAtByEmployer": "2024-10-22T04:16:05.592Z",
+                "latestUpdatedAt": "2024-10-22T04:16:05.595Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:30:45.514Z"
+            },
+            {
+                "id": "671865089d4cfb00121e1d3d",
+                "slug": "it-project-manager-26",
+                "role": "IT Project Manager",
+                "authorId": "62bc1ac0a871b900136517a4",
+                "stats": {
+                    "viewCount": 366,
+                    "nonCuratedCount": 27
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-23T02:52:56.248Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 6000000,
+                    "end": 7500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Surabaya",
+                    "id": 265
+                },
+                "companyId": "62bc1cd5e8f1ff0012979630",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "Counseling and Meditation Program"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Riliv ",
+                    "rank": "B",
+                    "trialStartedAt": "2024-10-21T17:00:00.000Z",
+                    "id": "62bc1cd5e8f1ff0012979630",
+                    "sector": "Mental Health",
+                    "logoUrl": "https://cdn.sejutacita.id/62bc1ac0a871b900136517a4/Others/28284851-d82e-479e-8e54-8e57353923eb.png",
+                    "slug": "riliv",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Nendyana Fantia Aryanti",
+                    "id": "62bc1cd5e8f1ff0012979633",
+                    "email": "career@riliv.co"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T02:52:56.253Z",
+                "updatedAt": "2024-10-23T04:40:00.372Z",
+                "updatedAtByEmployer": "2024-10-23T02:52:56.247Z",
+                "latestUpdatedAt": "2024-10-23T02:52:56.251Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T14:22:01.212Z"
+            },
+            {
+                "id": "67172ac4749d230012243686",
+                "slug": "deputy-branch-manager-pati-jend",
+                "role": "Deputy Branch Manager - Pati - Jend. Sudirman",
+                "authorId": "6644612bc547c500131fd638",
+                "stats": {
+                    "viewCount": 287,
+                    "nonCuratedCount": 9
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-22T04:32:04.786Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Pati Regency",
+                    "id": 204
+                },
+                "companyId": "62f0e90434f5f10012213683",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment",
+                            "casualDressCode",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": 55000000
+                    },
+                    "name": "Ruangguru",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-15T17:00:00.000Z",
+                    "id": "62f0e90434f5f10012213683",
+                    "sector": "Technology Education",
+                    "logoUrl": "https://cdn.sejutacita.id/62f0e62e4a4d4c0014b98743/Others/6f60533a-e9f3-4b81-9ad0-7f0995a3c09a.png",
+                    "slug": "ruangguru",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ruangguru",
+                    "id": "664463af9019220012d7fa32",
+                    "email": "laila.chandra@ruangguru.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-22T04:32:04.792Z",
+                "updatedAt": "2024-10-22T05:40:12.460Z",
+                "updatedAtByEmployer": "2024-10-22T04:32:04.786Z",
+                "latestUpdatedAt": "2024-10-22T04:32:04.790Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:55:28.697Z"
+            },
+            {
+                "id": "67186523cff74e00135e8c13",
+                "slug": "business-development-manager-jakarta",
+                "role": "Business Development Manager (Jakarta)",
+                "authorId": "66b04af2c4368e001369768d",
+                "stats": {
+                    "viewCount": 315,
+                    "nonCuratedCount": 22
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-23T02:53:23.783Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab0",
+                        "6226f6692d9a642279775aab",
+                        "622b0e91be54556586724903",
+                        "628fa4aea39fae001238e340",
+                        "62dae6f12aa8890012bd38a8"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "666286329a44b10012935894",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "companyOutings",
+                            "teamBuilding",
+                            "gymMembership",
+                            "paidSickDays",
+                            "vacationTime",
+                            "wellnessProgram",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Mondooli",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-07T04:02:07.160Z",
+                    "id": "666286329a44b10012935894",
+                    "sector": "Banking & Finance",
+                    "logoUrl": "https://cdn.sejutacita.id/666284ce6eca6a001350c185/JobPortalCompanyLogo/fd2033e5-8530-4660-9dd2-f351c5bdb4f6.png",
+                    "slug": "mondooli",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Negotiation",
+                        "id": "6226f6692d9a642279775ab0"
+                    },
+                    {
+                        "name": "Leadership",
+                        "id": "6226f6692d9a642279775aab"
+                    },
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "Procurement",
+                        "id": "628fa4aea39fae001238e340"
+                    },
+                    {
+                        "name": "Purchasing",
+                        "id": "62dae6f12aa8890012bd38a8"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "I Made Arta Kurniawan",
+                    "id": "66b04b4864a32e00138d4691",
+                    "email": "arta.kurniawan@mondooli.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T02:53:23.797Z",
+                "updatedAt": "2024-10-23T04:43:07.641Z",
+                "updatedAtByEmployer": "2024-10-23T02:53:23.782Z",
+                "latestUpdatedAt": "2024-10-23T02:53:23.791Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T01:02:23.890Z"
+            },
+            {
+                "id": "67185ea19d4cfb00121ccb1e",
+                "slug": "product-manager-82",
+                "role": "Product Manager",
+                "authorId": "64d1fcdce988fd00132c8232",
+                "stats": {
+                    "viewCount": 522,
+                    "nonCuratedCount": 39
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-23T02:25:37.030Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab6",
+                        "63d79fb5d2486400148c3a13",
+                        "6329fcbb58e72f00134e74f3",
+                        "67185d98cff74e00135d02f3",
+                        "62b89d6ee8f1ff0012967a5b"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "64d1fd8514ccb200128b40a4",
+                "categoryId": "630cfc029c338f0012830fb7",
+                "categorySlug": "data-and-product-management",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "medicalLeave",
+                            "competitiveSalary"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "Reku",
+                    "rank": "B",
+                    "trialStartedAt": "2024-10-21T17:00:00.000Z",
+                    "id": "64d1fd8514ccb200128b40a4",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/64d1fcdce988fd00132c8232/JobPortalCompanyLogo/13dafcda-d381-472d-bd81-660154e4c7b6.jpeg",
+                    "slug": "reku",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Product Management",
+                        "id": "6226f6692d9a642279775ab6"
+                    },
+                    {
+                        "name": "Data Analytics",
+                        "id": "63d79fb5d2486400148c3a13"
+                    },
+                    {
+                        "name": "Cryptocurrency",
+                        "id": "6329fcbb58e72f00134e74f3"
+                    },
+                    {
+                        "name": "Stock Markets",
+                        "id": "67185d98cff74e00135d02f3"
+                    },
+                    {
+                        "name": "Creative Problem Solving",
+                        "id": "62b89d6ee8f1ff0012967a5b"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rian Rosyadi",
+                    "id": "64d1fd8514ccb200128b40a8",
+                    "email": "rianrosyadi@reku.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T02:25:37.037Z",
+                "updatedAt": "2024-10-23T02:40:16.311Z",
+                "updatedAtByEmployer": "2024-10-23T02:25:37.029Z",
+                "latestUpdatedAt": "2024-10-23T02:25:37.034Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T02:27:15.161Z"
+            },
+            {
+                "id": "6695fe298ef03a00126c2f5c",
+                "slug": "junior-brand-manager",
+                "role": "Junior Brand Manager",
+                "authorId": "64bdf6c2abe1820013416975",
+                "stats": {
+                    "viewCount": 4986,
+                    "nonCuratedCount": 14
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-16T04:59:21.377Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "62b40a25677fed001256ee14",
+                "categoryId": "630cfecf51c6b2001373136d",
+                "categorySlug": "marketing-and-social-media",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT. CS2 POLA SEHAT",
+                    "rank": "A",
+                    "trialStartedAt": "2022-06-23T06:37:25.234Z",
+                    "id": "62b40a25677fed001256ee14",
+                    "sector": "Multinational Consulting / FMCG",
+                    "logoUrl": "https://cdn.sejutacita.id/6360884d82722200133ec57b/JobPortalCompanyLogo/32c09b1e-5d64-48af-a147-39d15f3589d0.png",
+                    "slug": "pt-cs2-pola-sehat",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT CS2 Pola Sehat ",
+                    "id": "64bdf73035ed4a0012e4050c",
+                    "email": "theo.philus@ot.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-16T04:59:21.390Z",
+                "updatedAt": "2024-10-23T09:09:10.755Z",
+                "updatedAtByEmployer": "2024-10-23T09:09:10.744Z",
+                "latestUpdatedAt": "2024-10-23T09:09:10.744Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:09:55.282Z"
+            },
+            {
+                "id": "6718520950c7b200124a2c81",
+                "slug": "quality-management-officer",
+                "role": "Quality Management Officer",
+                "authorId": "66023ae7f584a30013cce26c",
+                "stats": {
+                    "viewCount": 156,
+                    "nonCuratedCount": 116
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-23T01:31:53.290Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Utara",
+                    "id": 160
+                },
+                "companyId": "646353e604e6450012c75b5c",
+                "categoryId": "65673827e7adcf001210f96e",
+                "categorySlug": "admin-and-ops",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "transport",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "employeeDiscounts",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "ASTRO",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-13T10:00:35.276Z",
+                    "id": "646353e604e6450012c75b5c",
+                    "sector": "Online Groceries",
+                    "slug": "astro",
+                    "logoUrl": "https://cdn.sejutacita.id/6347987c82722200133d4625/JobPortalCompanyLogo/902dfd98-c9f5-4cce-b748-c92c470241ac.jpg",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Wina Salsabila",
+                    "id": "66023b15d445900013455ba4",
+                    "email": "f-wina.salsabila@astronauts.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T01:31:53.299Z",
+                "updatedAt": "2024-10-23T04:44:19.673Z",
+                "updatedAtByEmployer": "2024-10-23T01:31:53.290Z",
+                "latestUpdatedAt": "2024-10-23T01:31:53.295Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:44:36.215Z"
+            },
+            {
+                "id": "6706131606e0dd001241bb8e",
+                "slug": "branch-manager-english-academy-sidoarjo",
+                "role": "Branch Manager English Academy - Sidoarjo",
+                "authorId": "6644612bc547c500131fd638",
+                "stats": {
+                    "viewCount": 138,
+                    "nonCuratedCount": 17
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-09T05:22:30.234Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Sidoarjo Regency",
+                    "id": 251
+                },
+                "companyId": "62f0e90434f5f10012213683",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment",
+                            "casualDressCode",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": 55000000
+                    },
+                    "name": "Ruangguru",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-15T17:00:00.000Z",
+                    "id": "62f0e90434f5f10012213683",
+                    "sector": "Technology Education",
+                    "logoUrl": "https://cdn.sejutacita.id/62f0e62e4a4d4c0014b98743/Others/6f60533a-e9f3-4b81-9ad0-7f0995a3c09a.png",
+                    "slug": "ruangguru",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ruangguru",
+                    "id": "664463af9019220012d7fa32",
+                    "email": "laila.chandra@ruangguru.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-09T05:22:30.241Z",
+                "updatedAt": "2024-10-09T06:33:33.584Z",
+                "updatedAtByEmployer": "2024-10-09T05:22:30.234Z",
+                "latestUpdatedAt": "2024-10-09T05:22:30.238Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:55:28.697Z"
+            },
+            {
+                "id": "66fe60b692e12400124c9d38",
+                "slug": "branch-manager-english-academy-sukabumi",
+                "role": "Branch Manager English Academy - Sukabumi - Sudirman",
+                "authorId": "6644612bc547c500131fd638",
+                "stats": {
+                    "viewCount": 2205,
+                    "nonCuratedCount": 11
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-03T09:15:34.703Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Sukabumi",
+                    "id": 186
+                },
+                "companyId": "62f0e90434f5f10012213683",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment",
+                            "casualDressCode",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": 55000000
+                    },
+                    "name": "Ruangguru",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-15T17:00:00.000Z",
+                    "id": "62f0e90434f5f10012213683",
+                    "sector": "Technology Education",
+                    "logoUrl": "https://cdn.sejutacita.id/62f0e62e4a4d4c0014b98743/Others/6f60533a-e9f3-4b81-9ad0-7f0995a3c09a.png",
+                    "slug": "ruangguru",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ruangguru",
+                    "id": "664463af9019220012d7fa32",
+                    "email": "laila.chandra@ruangguru.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-03T09:15:34.717Z",
+                "updatedAt": "2024-10-03T09:40:58.028Z",
+                "updatedAtByEmployer": "2024-10-03T09:15:34.702Z",
+                "latestUpdatedAt": "2024-10-03T09:15:34.707Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:55:28.697Z"
+            },
+            {
+                "id": "66f14c6beeb956001226fe07",
+                "slug": "branch-manager-sangatta-yos-sudarso",
+                "role": "Branch Manager - Sangatta - Yos Sudarso",
+                "authorId": "6644612bc547c500131fd638",
+                "stats": {
+                    "viewCount": 277,
+                    "nonCuratedCount": 2
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-23T11:09:31.375Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Kutai Timur Regency",
+                    "id": 359
+                },
+                "companyId": "62f0e90434f5f10012213683",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment",
+                            "casualDressCode",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": 55000000
+                    },
+                    "name": "Ruangguru",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-15T17:00:00.000Z",
+                    "id": "62f0e90434f5f10012213683",
+                    "sector": "Technology Education",
+                    "logoUrl": "https://cdn.sejutacita.id/62f0e62e4a4d4c0014b98743/Others/6f60533a-e9f3-4b81-9ad0-7f0995a3c09a.png",
+                    "slug": "ruangguru",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ruangguru",
+                    "id": "664463af9019220012d7fa32",
+                    "email": "laila.chandra@ruangguru.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-23T11:09:31.383Z",
+                "updatedAt": "2024-09-24T03:37:10.352Z",
+                "updatedAtByEmployer": "2024-09-23T11:09:31.374Z",
+                "latestUpdatedAt": "2024-09-23T11:09:31.380Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:55:28.697Z"
+            },
+            {
+                "id": "66eaa4c9c1c83b00120f5bd6",
+                "slug": "branch-manager-bireuen-kota-juang",
+                "role": "Branch Manager Bireuen - Kota Juang",
+                "authorId": "6644612bc547c500131fd638",
+                "stats": {
+                    "viewCount": 1224,
+                    "nonCuratedCount": 3
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-18T10:00:41.005Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Bireuen Regency",
+                    "id": 13
+                },
+                "companyId": "62f0e90434f5f10012213683",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment",
+                            "casualDressCode",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": 55000000
+                    },
+                    "name": "Ruangguru",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-15T17:00:00.000Z",
+                    "id": "62f0e90434f5f10012213683",
+                    "sector": "Technology Education",
+                    "logoUrl": "https://cdn.sejutacita.id/62f0e62e4a4d4c0014b98743/Others/6f60533a-e9f3-4b81-9ad0-7f0995a3c09a.png",
+                    "slug": "ruangguru",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ruangguru",
+                    "id": "664463af9019220012d7fa32",
+                    "email": "laila.chandra@ruangguru.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-18T10:00:41.014Z",
+                "updatedAt": "2024-09-23T11:16:00.074Z",
+                "updatedAtByEmployer": "2024-09-23T11:15:59.649Z",
+                "latestUpdatedAt": "2024-09-18T10:00:41.010Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:55:28.697Z"
+            },
+            {
+                "id": "6706135706e0dd001241c167",
+                "slug": "branch-manager-english-academy-gresik",
+                "role": "Branch Manager English Academy - Gresik",
+                "authorId": "6644612bc547c500131fd638",
+                "stats": {
+                    "viewCount": 144,
+                    "nonCuratedCount": 6
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-09T05:23:35.348Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Gresik Regency",
+                    "id": 233
+                },
+                "companyId": "62f0e90434f5f10012213683",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "professionalDevelopment",
+                            "casualDressCode",
+                            "dentalInsurance",
+                            "medicalLeave",
+                            "employeeDiscounts"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": 55000000
+                    },
+                    "name": "Ruangguru",
+                    "rank": "A",
+                    "trialStartedAt": "2024-05-15T17:00:00.000Z",
+                    "id": "62f0e90434f5f10012213683",
+                    "sector": "Technology Education",
+                    "logoUrl": "https://cdn.sejutacita.id/62f0e62e4a4d4c0014b98743/Others/6f60533a-e9f3-4b81-9ad0-7f0995a3c09a.png",
+                    "slug": "ruangguru",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ruangguru",
+                    "id": "664463af9019220012d7fa32",
+                    "email": "laila.chandra@ruangguru.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-09T05:23:35.354Z",
+                "updatedAt": "2024-10-09T06:33:22.482Z",
+                "updatedAtByEmployer": "2024-10-09T05:23:35.348Z",
+                "latestUpdatedAt": "2024-10-09T05:23:35.351Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:55:28.697Z"
+            },
+            {
+                "id": "670df1a63e00e9001219506b",
+                "slug": "branch-sales-manager-samarinda",
+                "role": "BRANCH SALES MANAGER (SAMARINDA)",
+                "authorId": "657fd81c0a4322001487e2cb",
+                "stats": {
+                    "viewCount": 146,
+                    "nonCuratedCount": 7
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-15T04:37:58.608Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Makassar",
+                    "id": 420
+                },
+                "companyId": "657fd89c5fe67b0011fef7cf",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Others",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Bank KB Bukopin Tbk",
+                    "rank": "A",
+                    "trialStartedAt": "2023-12-26T17:00:00.000Z",
+                    "id": "657fd89c5fe67b0011fef7cf",
+                    "sector": "Banking",
+                    "logoUrl": "https://cdn.sejutacita.id/657fd81c0a4322001487e2cb/JobPortalCompanyLogo/00803468-634a-464c-8654-3a6ff501ad47.jpeg",
+                    "slug": "pt-bank-kb-bukopin-tbk",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Renova Lydia",
+                    "id": "657fd89d5fe67b0011fef7d8",
+                    "email": "renova.lydia@kbbukopin.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-15T04:37:58.612Z",
+                "updatedAt": "2024-10-15T06:21:55.574Z",
+                "updatedAtByEmployer": "2024-10-15T04:37:58.607Z",
+                "latestUpdatedAt": "2024-10-15T04:37:58.610Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:45:50.012Z"
+            }
+        ],
+        "totalDocs": 406,
+        "totalPages": 23,
+        "page": 1
+    },
+    "code": 200
+}

@@ -1,0 +1,1414 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "62589246",
+                "description": "PT. TALENTA TEKNOLOGI SUKSES GEMILANG"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "a36df64b-a740-4f3a-8cf1-7d84dc8182f7.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/a36df64b-a740-4f3a-8cf1-7d84dc8182f7.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/a36df64b-a740-4f3a-8cf1-7d84dc8182f7.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "2d ago",
+            "location": "Jakarta",
+            "locationId": 2030500,
+            "locationWhereValue": "Jakarta",
+            "id": 79630287,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-21T02:49:44Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-business-analyst",
+            "salary": "Rp\u00a07.000.000 \u2013 Rp\u00a010.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79630287",
+                "section": "MAIN",
+                "sectionRank": 1,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Identification and analysis of business requirements",
+            "title": "IT Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMSIKfQ==",
+            "workType": "Contract/Temp",
+            "workArrangements": {
+                "data": []
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "61073431",
+                "description": "PT OBS SOLUSI TEKNOLOGI INDONESIA"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "0f91abe0-9367-4481-9777-1c7587bc2bf1.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/0f91abe0-9367-4481-9777-1c7587bc2bf1.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/0f91abe0-9367-4481-9777-1c7587bc2bf1.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [
+                "Competitive salary",
+                "Positive work environment",
+                "Multinational working experience"
+            ],
+            "classification": {
+                "id": "1203",
+                "description": "Banking & Financial Services"
+            },
+            "companyName": "Obs Technology Solutions Indonesia",
+            "companyProfileStructuredDataId": 427879,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "1d ago",
+            "location": "Jakarta",
+            "locationId": 2030500,
+            "locationWhereValue": "Jakarta",
+            "id": 79677799,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-22T08:12:30Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-business-analyst",
+            "salary": "Rp\u00a08,000,000 \u2013 Rp\u00a010,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79677799",
+                "section": "MAIN",
+                "sectionRank": 2,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6175",
+                "description": "Analysis & Reporting"
+            },
+            "teaser": "Job Descriptions:As the IT Business Analyst, you will work in team for banking/corporate treasury projects. You will be performing SDLC from the...",
+            "title": "IT Business Analyst \u2013 Treasury Banking/Financial Services",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMiIKfQ==",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "61034900",
+                "description": "PT INTAN PARIWARA GROUP"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "1b684fa4-a544-4171-87aa-8277a14350a6.2",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/1b684fa4-a544-4171-87aa-8277a14350a6.2/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/1b684fa4-a544-4171-87aa-8277a14350a6.2/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "PT Intan Pariwara",
+            "companyProfileStructuredDataId": 664966,
+            "displayType": "standard",
+            "listingDateDisplay": "6d ago",
+            "location": "Klaten",
+            "locationId": 2030806,
+            "locationWhereValue": "Klaten Central Java",
+            "id": 79576743,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "Klaten, Central Java",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Klaten Central Java"
+                    },
+                    {
+                        "contextualName": "Central Java"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-17T09:09:34Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-business-analyst",
+            "salary": "Rp\u00a07.000.000 \u2013 Rp\u00a010.000.000 per month",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79576743",
+                "section": "MAIN",
+                "sectionRank": 3,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "IT Business Analyst, IT Business Process, IT PMO",
+            "title": "IT Business Analyst Senior Staff",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMyIKfQ==",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": []
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60937571",
+                "description": "PT Sharing Vision Indonesia"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "a6eacbab-0d44-4c3f-a246-a446502d6282.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/a6eacbab-0d44-4c3f-a246-a446502d6282.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/a6eacbab-0d44-4c3f-a246-a446502d6282.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [
+                "Nilai plus Python data analytics",
+                "Nilai plus Tableau",
+                "Nilai plus UI/UX"
+            ],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Sharing Vision Indonesia",
+            "companyProfileStructuredDataId": 519681,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "18h ago",
+            "location": "Central Jakarta",
+            "locationId": 2030502,
+            "locationWhereValue": "Central Jakarta Jakarta",
+            "id": 79702562,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Central Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Central Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-23T06:52:26Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "business-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79702562",
+                "section": "MAIN",
+                "sectionRank": 4,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Kami sedang mencari seorang Business Analyst yang siap dengan tantangan baru dan berkontribusi dalam pengembangan solusi yang berdampak.",
+            "title": "Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfNCIKfQ==",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60535926",
+                "description": "Hand International Pte. Ltd."
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "3ebb308c-253b-403e-99bf-6a14f71dfb65.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/3ebb308c-253b-403e-99bf-6a14f71dfb65.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/3ebb308c-253b-403e-99bf-6a14f71dfb65.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Hand International",
+            "companyProfileStructuredDataId": 662905,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "6d ago",
+            "location": "Central Jakarta",
+            "locationId": 2030502,
+            "locationWhereValue": "Central Jakarta Jakarta",
+            "id": 79573168,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Central Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Central Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-17T06:36:47Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-business-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79573168",
+                "section": "MAIN",
+                "sectionRank": 5,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Understand and analyze business processes with existing IT system processes and do monitoring, maintenance and improvements",
+            "title": "IT Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfNSIKfQ==",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": []
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60942794",
+                "description": "PT. Inti Talenta Teknologi"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "18048b4f-8926-41d2-a1b3-1f95e1fc7e22.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/18048b4f-8926-41d2-a1b3-1f95e1fc7e22.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/18048b4f-8926-41d2-a1b3-1f95e1fc7e22.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Inti Talenta Teknologi",
+            "companyProfileStructuredDataId": 666309,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "1d ago",
+            "location": "South Jakarta",
+            "locationId": 2030503,
+            "locationWhereValue": "South Jakarta Jakarta",
+            "id": 79679497,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "South Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "South Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-22T09:22:28Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "business-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79679497",
+                "section": "MAIN",
+                "sectionRank": 6,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "We are looking for an experienced EPICOR Business Analyst to optimize the client's business processes and improve system functionality.",
+            "title": "EPICOR Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfNiIKfQ==",
+            "workType": "Contract/Temp",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "61132409",
+                "description": "PT Salva Teknologi Digital"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "48fad50d-c7c2-4071-a551-ffc0581e7607.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/48fad50d-c7c2-4071-a551-ffc0581e7607.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/48fad50d-c7c2-4071-a551-ffc0581e7607.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [
+                "Hybrid Work Regulation",
+                "Laptop Facility"
+            ],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "6d ago",
+            "location": "Central Jakarta",
+            "locationId": 2030502,
+            "locationWhereValue": "Central Jakarta Jakarta",
+            "id": 79579006,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Central Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Central Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-17T10:17:01Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-business-analyst",
+            "salary": "Rp\u00a09.000.000 \u2013 Rp\u00a013.000.000 per month",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79579006",
+                "section": "MAIN",
+                "sectionRank": 7,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "IT Business Analyst for Insurance Company",
+            "title": "IT Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfNyIKfQ==",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hybrid"
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ],
+                "displayText": "On-site, Hybrid"
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Amanah Corp."
+            },
+            "automaticInclusion": true,
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "listingDateDisplay": "1d ago",
+            "location": "Depok",
+            "locationId": 2030711,
+            "locationWhereValue": "Depok West Java",
+            "id": 79702358,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "Depok, West Java",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Depok West Java"
+                    },
+                    {
+                        "contextualName": "West Java"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-22T02:56:48Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-systems-analyst",
+            "salary": "",
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79702358",
+                "section": "MAIN",
+                "sectionRank": 8,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Expiring soon"
+                },
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Be an early applicant"
+                }
+            ],
+            "teaser": "Scope of work: As a System Analyst you are required to perform the role well, such as understanding business requirements, defining the scope of th...",
+            "title": "IT System Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfOCIKfQ==",
+            "workType": "Contract/Temp",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60462292",
+                "description": "PT Jasa Kelola Asia"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "75e8b650-24c0-49e6-a715-ae58d061b90d.2",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/75e8b650-24c0-49e6-a715-ae58d061b90d.2/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/75e8b650-24c0-49e6-a715-ae58d061b90d.2/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Jasa Kelola Asia",
+            "companyProfileStructuredDataId": 433937,
+            "displayType": "standard",
+            "listingDateDisplay": "6d ago",
+            "location": "Jakarta",
+            "locationId": 2030500,
+            "locationWhereValue": "Jakarta",
+            "id": 79570367,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-17T05:29:19Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "business-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79570367",
+                "section": "MAIN",
+                "sectionRank": 9,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Having Experience in Life Insurance Industry (Mandatory)\nHaving Analytical Skills, Quality Assurance Testing, Lifeasia, SQL Query",
+            "title": "Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfOSIKfQ==",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60887317",
+                "description": "PT Wahana Ottomitra Multiartha (WOM Finance), Tbk"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "ddd24ef1-fd5c-4f40-a852-a58454711097.2",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/ddd24ef1-fd5c-4f40-a852-a58454711097.2/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/ddd24ef1-fd5c-4f40-a852-a58454711097.2/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "WOM Finance",
+            "companyProfileStructuredDataId": 428951,
+            "displayType": "standard",
+            "listingDateDisplay": "20h ago",
+            "location": "North Jakarta",
+            "locationId": 2030505,
+            "locationWhereValue": "North Jakarta Jakarta",
+            "id": 79699465,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "North Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "North Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-23T05:03:11Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-systems-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79699465",
+                "section": "MAIN",
+                "sectionRank": 10,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Making Changes in the Concept / Development of Core or Non-Core Systems Conducting a business needs analysis and recommendations to System Change",
+            "title": "IT System Analyst (BA)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTAiCn0=",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "PT Minula Inti Sejahtera"
+            },
+            "automaticInclusion": true,
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "listingDateDisplay": "2d ago",
+            "location": "Bogor",
+            "locationId": 2030703,
+            "locationWhereValue": "Bogor West Java",
+            "id": 79672165,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "Bogor, West Java",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Bogor West Java"
+                    },
+                    {
+                        "contextualName": "West Java"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-21T05:11:28Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "business-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79672165",
+                "section": "MAIN",
+                "sectionRank": 11,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Be an early applicant"
+                }
+            ],
+            "teaser": "Mengumpulkan dan menganalisis kebutuhan bisnis dari pemangku kepentingan. - Mengidentifikasi dan mendefinisikan masalah yang perlu dipecahkan. - Me...",
+            "title": "Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTEiCn0=",
+            "workType": "Contract/Temp",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60912674",
+                "description": "PT Electronic Data Interchange Indonesia (Member of Pelindo)"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "99d08b41-0993-4c37-acc1-6dccbb7ae12f.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/99d08b41-0993-4c37-acc1-6dccbb7ae12f.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/99d08b41-0993-4c37-acc1-6dccbb7ae12f.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Electronic Data Interchange Indonesia",
+            "companyProfileStructuredDataId": 414587,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "2d ago",
+            "location": "Jakarta",
+            "locationId": 2030500,
+            "locationWhereValue": "Jakarta",
+            "id": 79641852,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-21T08:55:58Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "systems-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "business"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79641852",
+                "section": "MAIN",
+                "sectionRank": 12,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "System Analyst",
+            "title": "System Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTIiCn0=",
+            "workType": "Contract/Temp",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "60247336",
+                "description": "SUN LIFE INDONESIA"
+            },
+            "automaticInclusion": true,
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Sun Life",
+            "companyProfileStructuredDataId": 393763,
+            "displayType": "standard",
+            "listingDateDisplay": "6d ago",
+            "location": "Jakarta",
+            "locationId": 2030500,
+            "locationWhereValue": "Jakarta",
+            "id": 79577576,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-17T03:00:00Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "business-systems-analyst",
+            "salary": "",
+            "searchInsights": {
+                "unmatchedKeywords": [
+                    "technical"
+                ]
+            },
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79577576",
+                "section": "MAIN",
+                "sectionRank": 13,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Facilitates change management by working with various business areas to address issues and potential impact and/or benefits of the changes in the p...",
+            "title": "Business System Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTMiCn0=",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Private Advertiser"
+            },
+            "automaticInclusion": false,
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Private Advertiser",
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "listingDateDisplay": "2d ago",
+            "location": "South Tangerang",
+            "locationId": 24665,
+            "locationWhereValue": "South Tangerang Banten",
+            "id": 79630420,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "South Tangerang, Banten",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "South Tangerang Banten"
+                    },
+                    {
+                        "contextualName": "Banten"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-21T02:53:06Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "information-technology-systems-analyst",
+            "salary": "Rp\u00a013.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79630420",
+                "section": "MAIN",
+                "sectionRank": 14,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "0"
+                }
+            },
+            "subClassification": {
+                "id": "6283",
+                "description": "Business/Systems Analysts"
+            },
+            "teaser": "Join us to gain unique experience in providing innovative solutions for payment/transaction industry.",
+            "title": "IT System Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTQiCn0=",
+            "workType": "Contract/Temp",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": true
+        },
+        {
+            "advertiser": {
+                "id": "60462520",
+                "description": "PT Dipo Star Finance"
+            },
+            "automaticInclusion": false,
+            "branding": {
+                "id": "3588129a-bb58-41b3-8fb6-d83d15abb698.1",
+                "assets": {
+                    "logo": {
+                        "strategies": {
+                            "jdpLogo": "https://bx-branding-gateway.cloud.seek.com.au/3588129a-bb58-41b3-8fb6-d83d15abb698.1/jdpLogo",
+                            "serpLogo": "https://bx-branding-gateway.cloud.seek.com.au/3588129a-bb58-41b3-8fb6-d83d15abb698.1/serpLogo"
+                        }
+                    }
+                }
+            },
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Dipo Star Finance",
+            "companyProfileStructuredDataId": 432037,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "listingDateDisplay": "5d ago",
+            "location": "Central Jakarta",
+            "locationId": 2030502,
+            "locationWhereValue": "Central Jakarta Jakarta",
+            "id": 79594300,
+            "isPremium": false,
+            "isStandOut": true,
+            "jobLocation": {
+                "label": "Central Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "Central Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-18T03:30:03Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "Data-Warehouse-Engineer",
+            "salary": "Rp\u00a014.000.000 \u2013 Rp\u00a017.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79594300",
+                "section": "MAIN",
+                "sectionRank": 15,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "1"
+                }
+            },
+            "subClassification": {
+                "id": "6286",
+                "description": "Database Development & Administration"
+            },
+            "tags": [
+                {
+                    "type": "URGENT",
+                    "label": "Urgently hiring"
+                }
+            ],
+            "teaser": "Job Description Design, build and maintain ETL pipelines for data analysis and production use Operate and optimize our data analysis system Combine...",
+            "title": "IT Data Warehouse Engineer Assistant Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTUiCn0=",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": false
+        },
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Private Advertiser"
+            },
+            "automaticInclusion": false,
+            "bulletPoints": [],
+            "classification": {
+                "id": "6281",
+                "description": "Information & Communication Technology"
+            },
+            "companyName": "Private Advertiser",
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "listingDateDisplay": "2d ago",
+            "location": "West Jakarta",
+            "locationId": 2030501,
+            "locationWhereValue": "West Jakarta Jakarta",
+            "id": 79628851,
+            "isPremium": false,
+            "isStandOut": false,
+            "jobLocation": {
+                "label": "West Jakarta, Jakarta",
+                "countryCode": "ID",
+                "seoHierarchy": [
+                    {
+                        "contextualName": "West Jakarta Jakarta"
+                    },
+                    {
+                        "contextualName": "Jakarta"
+                    }
+                ]
+            },
+            "listingDate": "2024-10-21T02:03:05Z",
+            "logo": {
+                "id": "",
+                "description": null
+            },
+            "roleId": "head-of-department",
+            "salary": "",
+            "solMetadata": {
+                "searchRequestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+                "jobId": "79628851",
+                "section": "MAIN",
+                "sectionRank": 16,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_514",
+                    "mordor__s": "1"
+                }
+            },
+            "subClassification": {
+                "id": "6298",
+                "description": "Team Leaders"
+            },
+            "teaser": "Mengkoordinasikan pekerjaan data engineer dan data scientist dan bertanggung jawab atas ketersediaan dan keamanan database perusahaan",
+            "title": "Database Section Head (IT)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ZDhhNWQ2Yi1jY2FkLTQyMWMtODBlZC0wNWMzNzhhMWQ4OTdfMTYiCn0=",
+            "workType": "Full time",
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "On-site"
+                        }
+                    }
+                ]
+            },
+            "isPrivateAdvertiser": true
+        }
+    ],
+    "title": "Technical Business Analyst Information & Communication Technology, Banking & Financial Services Jobs",
+    "totalCount": 16,
+    "totalPages": 1,
+    "paginationParameters": {
+        "seekSelectAllPages": true,
+        "hadPremiumListings": false
+    },
+    "info": {
+        "timeTaken": 10,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_514"
+    },
+    "userQueryId": "API4409090419053117283",
+    "sortMode": [
+        {
+            "isActive": true,
+            "name": "Relevance",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Date",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "2150ff8e-4462-4993-8c0f-2dc545483e05",
+        "token": "0~2150ff8e-4462-4993-8c0f-2dc545483e05",
+        "keywords": "Technical Business Analyst",
+        "sortMode": "RELEVANCE",
+        "createdSince": "1729083600es",
+        "categories": [
+            "6281",
+            "1203"
+        ],
+        "pageSize": 100,
+        "pageNumber": 1,
+        "totalJobCount": 16,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "14",
+            "mordor:result_count_vec": "0",
+            "mordor:rt": "3",
+            "mordor:count_vec": "0",
+            "mordor__flights": "mordor_514",
+            "mordor:count_rst": "14",
+            "mordor:count_ir": "2",
+            "mordor:result_count_ir": "2",
+            "chalice-search-api:solId": "62b5c588-e3fd-4427-ba6e-4e1203350f87"
+        }
+    },
+    "facets": {},
+    "joraCrossLink": {
+        "canCrossLink": false
+    },
+    "searchParams": {
+        "classification": "6281,1203",
+        "daterange": "7",
+        "keywords": "Technical Business Analyst",
+        "pagesize": "100",
+        "sitekey": "ID-Main",
+        "solid": "62b5c588-e3fd-4427-ba6e-4e1203350f87"
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "6641b83bbb12b20012f4d3d1",
+                "slug": "it-grc-governance-risk-and",
+                "role": "IT GRC (Governance, Risk, and Compliance) Officer",
+                "authorId": "64813df21d22aa00137cab89",
+                "stats": {
+                    "viewCount": 5268,
+                    "nonCuratedCount": 119
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-13T06:50:35.920Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dhia Rizky",
+                    "id": "64813e3e7f701100122da9dc",
+                    "email": "dhia.ananda@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-13T06:50:35.930Z",
+                "updatedAt": "2024-09-10T07:31:24.148Z",
+                "updatedAtByEmployer": "2024-06-06T08:27:02.188Z",
+                "latestUpdatedAt": "2024-05-13T06:50:35.926Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 6,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "650c12816cdd240012b9f2e2",
+                "slug": "it-governance-risk-and-compliance",
+                "role": "IT Governance",
+                "authorId": "650bbc59e988fd001339a52d",
+                "stats": {
+                    "viewCount": 2007,
+                    "nonCuratedCount": -31
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-09-21T09:53:05.033Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": null,
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rina Chairunnisa",
+                    "id": "650bbc9af4f49c00127a02f4",
+                    "email": "rina.chairunnisa@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-09-21T09:53:05.039Z",
+                "updatedAt": "2024-10-22T04:05:33.825Z",
+                "updatedAtByEmployer": "2024-10-22T04:05:25.362Z",
+                "latestUpdatedAt": "2024-10-09T03:04:58.429Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            }
+        ],
+        "totalDocs": 2,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

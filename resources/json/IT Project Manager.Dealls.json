@@ -1,0 +1,1106 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "671865089d4cfb00121e1d3d",
+                "slug": "it-project-manager-26",
+                "role": "IT Project Manager",
+                "authorId": "62bc1ac0a871b900136517a4",
+                "stats": {
+                    "viewCount": 366,
+                    "nonCuratedCount": 27
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-10-23T02:52:56.248Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 6000000,
+                    "end": 7500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Surabaya",
+                    "id": 265
+                },
+                "companyId": "62bc1cd5e8f1ff0012979630",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "Counseling and Meditation Program"
+                        ],
+                        "workingPolicies": [
+                            "workFromAnywhere",
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Riliv ",
+                    "rank": "B",
+                    "trialStartedAt": "2024-10-21T17:00:00.000Z",
+                    "id": "62bc1cd5e8f1ff0012979630",
+                    "sector": "Mental Health",
+                    "logoUrl": "https://cdn.sejutacita.id/62bc1ac0a871b900136517a4/Others/28284851-d82e-479e-8e54-8e57353923eb.png",
+                    "slug": "riliv",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Nendyana Fantia Aryanti",
+                    "id": "62bc1cd5e8f1ff0012979633",
+                    "email": "career@riliv.co"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-23T02:52:56.253Z",
+                "updatedAt": "2024-10-23T04:40:00.372Z",
+                "updatedAtByEmployer": "2024-10-23T02:52:56.247Z",
+                "latestUpdatedAt": "2024-10-23T02:52:56.251Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T14:22:01.212Z"
+            },
+            {
+                "id": "66e2976ff07a150012ee919b",
+                "slug": "it-project-management-lead-1",
+                "role": "IT Project Management Lead",
+                "authorId": "6660188507cff6001352fa20",
+                "stats": {
+                    "viewCount": 3738,
+                    "nonCuratedCount": 54
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-12T07:25:35.664Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62997dc862a37400158a2847",
+                        "627a6f239fbcad00126268be",
+                        "640824c7b97bbb00125e1213",
+                        "622b0e91be54556586724903",
+                        "63311f43dcb6240012d898fb"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SDLC",
+                        "id": "62997dc862a37400158a2847"
+                    },
+                    {
+                        "name": "Agile Methodology",
+                        "id": "627a6f239fbcad00126268be"
+                    },
+                    {
+                        "name": "Waterfall Methodology",
+                        "id": "640824c7b97bbb00125e1213"
+                    },
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "Financial Technology",
+                        "id": "63311f43dcb6240012d898fb"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Katherina Mandey",
+                    "id": "666018d4edb7be0012af7809",
+                    "email": "katherina.mandey@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-12T07:25:35.670Z",
+                "updatedAt": "2024-10-23T02:52:00.732Z",
+                "updatedAtByEmployer": "2024-10-23T02:52:00.714Z",
+                "latestUpdatedAt": "2024-10-23T02:52:00.714Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 7,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "62c67dc661880b00137bf097",
+                "slug": "it-project-manager",
+                "role": "IT Project Manager",
+                "authorId": "62c3fa608af85b0015548d50",
+                "stats": {
+                    "viewCount": 27174,
+                    "nonCuratedCount": 1826
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2022-07-07T06:31:34.885Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62c6447e38af2c0014ae33d0",
+                        "62989ad162a374001589c4d6",
+                        "62c552f0c9c89e0013537d3e",
+                        "62c662bc38af2c0014ae3e62",
+                        "6226f6692d9a642279775a75",
+                        "62bae6ee7e07610012e5e5c7"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 49180,
+                    "name": "Jakarta"
+                },
+                "companyId": "62c3f4327e07610012e8392e",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "periodLeave",
+                            "transport",
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62c3f268a871b90013659989/Others/8252dabc-afbe-44bf-98e0-298d1cb6a8a4.png",
+                    "name": "Mandiri AXA General Insurance",
+                    "sector": "Insurance",
+                    "slug": "mandiri-axa-general-insurance",
+                    "rank": "A",
+                    "id": "62c3f4327e07610012e8392e",
+                    "trialStartedAt": "2022-07-05T08:20:02.420Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "English Profieciency",
+                        "id": "62989ad162a374001589c4d6"
+                    },
+                    {
+                        "name": "Presentation Skill",
+                        "id": "62c6447e38af2c0014ae33d0"
+                    },
+                    {
+                        "name": "Problem Solving Skill",
+                        "id": "62c662bc38af2c0014ae3e62"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Annisa Wirda Malta",
+                    "email": "annisa.malta@axa-mandiri.co.id",
+                    "id": "62c3faabc9c89e00135336f1"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-07T06:31:34.895Z",
+                "updatedAt": "2024-09-10T10:21:17.136Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T13:27:15.796Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "6710b402c630050012bb21fb",
+                "slug": "it-project-manager-25",
+                "role": "IT Project Manager",
+                "authorId": "65729a972470a3001474c826",
+                "stats": {
+                    "viewCount": 1392,
+                    "nonCuratedCount": 75
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-17T06:51:46.878Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 10000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "622b0e91be54556586724903",
+                        "62d6dfa14a8dd20012273374",
+                        "62997dc862a37400158a2847",
+                        "6340554628c4ce001363a2a8",
+                        "627a6f239fbcad00126268be"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64d34345223f5100125e91cd",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "competitiveSalary",
+                            "teamBuilding",
+                            "selfDevelopmentAllowance",
+                            "maternityLeave",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Idpay Asia Jaya",
+                    "rank": "B",
+                    "trialStartedAt": "2023-12-10T17:00:00.000Z",
+                    "id": "64d34345223f5100125e91cd",
+                    "sector": "Information Technology / IT",
+                    "logoUrl": "https://cdn.sejutacita.id/64d33ee2f62e1600139e1867/JobPortalCompanyLogo/01a1310e-35b6-4445-a7da-cf5b9f53706e.jpg",
+                    "slug": "pt-idpay-asia-jaya",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "IT Project Management",
+                        "id": "62d6dfa14a8dd20012273374"
+                    },
+                    {
+                        "name": "SDLC",
+                        "id": "62997dc862a37400158a2847"
+                    },
+                    {
+                        "name": "Microsoft Visio",
+                        "id": "6340554628c4ce001363a2a8"
+                    },
+                    {
+                        "name": "Agile Methodology",
+                        "id": "627a6f239fbcad00126268be"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Herlin",
+                    "id": "65729aab9e491c00128f75d2",
+                    "email": "herlin@idpay.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-17T06:51:46.886Z",
+                "updatedAt": "2024-10-17T09:53:38.166Z",
+                "updatedAtByEmployer": "2024-10-17T09:53:37.994Z",
+                "latestUpdatedAt": "2024-10-17T06:51:46.883Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:31:11.779Z"
+            },
+            {
+                "id": "66fe4e334e22bf0011f4312c",
+                "slug": "it-project-manager-24",
+                "role": "IT Project Manager",
+                "authorId": "655f32982470a300146fe73f",
+                "stats": {
+                    "viewCount": 1853,
+                    "nonCuratedCount": 175
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-03T07:56:35.341Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "634cdbe9e0aaab0013b7a4fe",
+                        "6226f6692d9a642279775a96"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Utara",
+                    "id": 160
+                },
+                "companyId": "62a85393115f840012905f9c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "transport",
+                            "freeMeals",
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT Gree Electric Appliances Indonesia",
+                    "rank": "A",
+                    "trialStartedAt": "2023-11-23T17:00:00.000Z",
+                    "id": "62a85393115f840012905f9c",
+                    "sector": "Electronics",
+                    "logoUrl": "https://cdn.sejutacita.id/62a850f42ebf290013dd8454/Others/63cb8523-50e2-4a58-9be0-1cc4013f9140.png",
+                    "slug": "pt-gree-electric-appliances-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SAP ERP",
+                        "id": "634cdbe9e0aaab0013b7a4fe"
+                    },
+                    {
+                        "name": "Figma",
+                        "id": "6226f6692d9a642279775a96"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rio Bong",
+                    "id": "655f32af3a5e550012c9867e",
+                    "email": "rio.bong@gree.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-03T07:56:35.348Z",
+                "updatedAt": "2024-10-03T08:19:47.322Z",
+                "updatedAtByEmployer": "2024-10-03T07:56:35.340Z",
+                "latestUpdatedAt": "2024-10-03T07:56:35.344Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T08:10:54.953Z"
+            },
+            {
+                "id": "6642d6bd1ccfa600123d52e9",
+                "slug": "it-project-management-officer-1",
+                "role": "IT Project Management Officer",
+                "authorId": "650bbc59e988fd001339a52d",
+                "stats": {
+                    "viewCount": 2322,
+                    "nonCuratedCount": 15
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-14T03:13:01.363Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rina Chairunnisa",
+                    "id": "650bbc9af4f49c00127a02f4",
+                    "email": "rina.chairunnisa@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-14T03:13:01.370Z",
+                "updatedAt": "2024-09-10T08:53:28.849Z",
+                "updatedAtByEmployer": "2024-09-09T06:56:38.532Z",
+                "latestUpdatedAt": "2024-05-14T03:13:01.367Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "646b48b372f2dc0012554612",
+                "slug": "it-project-manager-7",
+                "role": "IT Project Manager",
+                "authorId": "6257995459bce60014f74cd0",
+                "stats": {
+                    "viewCount": 3321,
+                    "nonCuratedCount": 27
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-08-13T08:39:57.729Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 6000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "622b0e91be54556586724903",
+                        "6286f8f16356fb0012a1f7d7",
+                        "6226f6692d9a642279775a80"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "62579aff111f9e001337c14a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "teamBuilding",
+                            "companyOutings",
+                            "maternityLeave",
+                            "casualDressCode",
+                            "professionalDevelopment",
+                            "Remote working opportunity"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "workFromAnywhere"
+                        ],
+                        "fundingStage": "Self-funded",
+                        "fundingAmount": null
+                    },
+                    "name": "Jakmall.com",
+                    "rank": "B",
+                    "trialStartedAt": "2023-04-19T07:01:30.632Z",
+                    "id": "62579aff111f9e001337c14a",
+                    "sector": "Information Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/6257995459bce60014f74cd0/Others/351341ac-17ca-4d19-88ae-27af96f6aaf4.png",
+                    "slug": "jakmallcom",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "id": "6226f6692d9a642279775a80"
+                    },
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "Scrum",
+                        "id": "6286f8f16356fb0012a1f7d7"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "sarah chyntia pertiwi",
+                    "id": "62579aff111f9e001337c14d",
+                    "email": "sarah.pertiwi@jakmall.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-05-22T10:49:23.582Z",
+                "updatedAt": "2024-09-10T09:05:03.082Z",
+                "updatedAtByEmployer": "2024-09-09T09:12:55.718Z",
+                "latestUpdatedAt": "2023-05-22T10:49:23.572Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:08:29.286Z"
+            },
+            {
+                "id": "66260e15722e860012e7ac11",
+                "slug": "it-project-management-lead",
+                "role": "IT Project Management Lead",
+                "authorId": "64813df21d22aa00137cab89",
+                "stats": {
+                    "viewCount": 2655,
+                    "nonCuratedCount": 390
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-04-22T07:13:25.586Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Dhia Rizky",
+                    "id": "64813e3e7f701100122da9dc",
+                    "email": "dhia.ananda@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-04-22T07:13:25.596Z",
+                "updatedAt": "2024-09-10T08:53:28.843Z",
+                "updatedAtByEmployer": "2024-05-16T04:19:56.073Z",
+                "latestUpdatedAt": "2024-04-22T07:13:25.592Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "65f3c142e7ed5f0012b1bb6a",
+                "slug": "project-management-officer-1",
+                "role": "IT Project Management Officer",
+                "authorId": "65f2c1059e50c300135cddc4",
+                "stats": {
+                    "viewCount": 3426,
+                    "nonCuratedCount": 680
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-03-15T03:32:18.988Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "627f28bbfae3970013a46ae4",
+                        "62c6da902d53dd0014a4c7c1",
+                        "6286f8f16356fb0012a1f7d7",
+                        "65026bc4b3ea040012f31570",
+                        "6340cefc28c4ce001363d3c1"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "64d30b235b85cb00127de30e",
+                "categoryId": "62c82f32d4471a00132d8757",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "-"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Mandiri International Technology",
+                    "rank": "B",
+                    "trialStartedAt": "2023-08-09T03:42:40.822Z",
+                    "id": "64d30b235b85cb00127de30e",
+                    "sector": "IT Consulting & Services Company",
+                    "logoUrl": "https://cdn.sejutacita.id/64d309f6f62e1600139e0362/JobPortalCompanyLogo/d375e21f-cb66-4ab9-a0ae-06cccee7a36f.png",
+                    "slug": "pt-mandiri-international-technology",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Jira",
+                        "id": "627f28bbfae3970013a46ae4"
+                    },
+                    {
+                        "name": "Scrum",
+                        "id": "6286f8f16356fb0012a1f7d7"
+                    },
+                    {
+                        "name": "Trello",
+                        "id": "62c6da902d53dd0014a4c7c1"
+                    },
+                    {
+                        "name": "Google Suite",
+                        "id": "6340cefc28c4ce001363d3c1"
+                    },
+                    {
+                        "name": "BI Tools",
+                        "id": "65026bc4b3ea040012f31570"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Aqila Salwa Salsabila",
+                    "id": "65f2c1554d66430012841b30",
+                    "email": "aqila.salwa@mitech.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-03-15T03:32:18.994Z",
+                "updatedAt": "2024-09-10T10:07:16.728Z",
+                "updatedAtByEmployer": "2024-08-21T03:40:32.157Z",
+                "latestUpdatedAt": "2024-08-21T03:40:32.157Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:40:03.152Z"
+            },
+            {
+                "id": "64bf4bac18f58c0012690a00",
+                "slug": "it-project-manager-8",
+                "role": "IT Project Manager",
+                "authorId": "6294be9b2ebf290013dc783c",
+                "stats": {
+                    "viewCount": 7067,
+                    "nonCuratedCount": 459
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-07-25T04:12:28.422Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        6,
+                        5
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62aabcd1115f84001291938f",
+                        "65e80ddce348250012379927",
+                        "622b0e91be54556586724903",
+                        "63cd0f441111b200139e3e7f",
+                        "6331c84ddcb6240012d94742"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 49180,
+                    "name": "Jakarta"
+                },
+                "companyId": "63a2a4a5f5217500136f6247",
+                "categoryId": "62c82f32d4471a00132d8757",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "internationalExposure",
+                            "professionalDevelopment",
+                            "paidSickDays",
+                            "maternityLeave",
+                            "companyOutings",
+                            "teamBuilding"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/63983cf268e6b200152ce01f/JobPortalCompanyLogo/140e657c-c1bb-4d55-ade1-270028c68276.png",
+                    "rank": "C",
+                    "name": "PT Midas Daya Teknologi",
+                    "sector": "Technology",
+                    "slug": "pt-midas-daya-teknologi",
+                    "id": "63a2a4a5f5217500136f6247",
+                    "trialStartedAt": "2023-07-10T05:54:28.808Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Project Management",
+                        "id": "622b0e91be54556586724903"
+                    },
+                    {
+                        "name": "English Communication",
+                        "id": "62aabcd1115f84001291938f"
+                    },
+                    {
+                        "name": "BRD",
+                        "id": "6331c84ddcb6240012d94742"
+                    },
+                    {
+                        "name": "FSD",
+                        "id": "63cd0f441111b200139e3e7f"
+                    },
+                    {
+                        "name": "Core Banking",
+                        "id": "65e80ddce348250012379927"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Ismahani",
+                    "email": "careers@midasteknologi.com",
+                    "id": "63a2c94b9d15ff0012698015"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-07-25T04:12:28.431Z",
+                "updatedAt": "2024-09-10T07:56:04.940Z",
+                "updatedAtByEmployer": "2024-03-27T07:15:14.501Z",
+                "latestUpdatedAt": "2024-03-06T06:32:36.612Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-08-22T07:05:00.967Z"
+            },
+            {
+                "id": "66e92d58055b8c0012b61a57",
+                "slug": "it-project-management-officer-2",
+                "role": "IT Project Management Officer",
+                "authorId": "6321a145e0dab3001307c3fd",
+                "stats": {
+                    "viewCount": 1363,
+                    "nonCuratedCount": 441
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-17T07:18:48.633Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "64f8696c5537520012d1f3c8",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Bringin Inti Teknologi",
+                    "rank": "C",
+                    "trialStartedAt": "2023-11-14T17:00:00.000Z",
+                    "id": "64f8696c5537520012d1f3c8",
+                    "sector": "Technology and Software Solutions",
+                    "logoUrl": "https://cdn.sejutacita.id/64f7ee28f62e160013a61493/JobPortalCompanyLogo/dc1d6841-59ad-4a97-8f09-5264a2476bc4.png",
+                    "slug": "bringin-inti-teknologi",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT. Bringin Inti Teknologi",
+                    "id": "656573d12c68190012334349",
+                    "email": "recruitment@bitcorp.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-17T07:18:48.640Z",
+                "updatedAt": "2024-09-25T06:41:00.788Z",
+                "updatedAtByEmployer": "2024-09-25T06:40:58.026Z",
+                "latestUpdatedAt": "2024-09-17T07:18:48.637Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T06:27:31.660Z"
+            }
+        ],
+        "totalDocs": 11,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

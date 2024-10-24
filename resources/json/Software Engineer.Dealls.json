@@ -1,0 +1,1303 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "671088dab353470012240a1c",
+                "slug": "mobile-software-engineer",
+                "role": "Mobile Software Engineer",
+                "authorId": "670f7adfdcbfd50014cb5a35",
+                "stats": {
+                    "viewCount": 1285,
+                    "nonCuratedCount": 160
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "remote",
+                "publishedAt": "2024-10-17T03:47:38.293Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775aaa",
+                        "6299d9461bf516001238ed40",
+                        "6226f6692d9a642279775aca"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": null,
+                "city": null,
+                "companyId": "670f7ba976924f0011e701e3",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Quipper",
+                    "rank": "A",
+                    "trialStartedAt": "2024-10-16T17:00:00.000Z",
+                    "id": "670f7ba976924f0011e701e3",
+                    "sector": "Education and Online Learning",
+                    "logoUrl": "https://cdn.sejutacita.id/670f7adfdcbfd50014cb5a35/JobPortalCompanyLogo/7fe7a495-897b-45cb-912b-acb30c941ad7.jpg",
+                    "slug": "quipper",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Kotlin",
+                        "id": "6226f6692d9a642279775aaa"
+                    },
+                    {
+                        "name": "XCode",
+                        "id": "6299d9461bf516001238ed40"
+                    },
+                    {
+                        "name": "Swift (Programming Language)",
+                        "id": "6226f6692d9a642279775aca"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Nabiellah Yustikarini",
+                    "id": "670f7ba976924f0011e701e7",
+                    "email": "nabiellah.yustikarini@quipper.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-17T03:47:38.297Z",
+                "updatedAt": "2024-10-22T07:42:32.781Z",
+                "updatedAtByEmployer": "2024-10-22T07:42:31.746Z",
+                "latestUpdatedAt": "2024-10-17T03:47:38.295Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-22T10:02:15.407Z"
+            },
+            {
+                "id": "65a65132980c8c0012d7660b",
+                "slug": "back-end-software-engineer-2",
+                "role": "Back-End Software Engineer",
+                "authorId": "64f84190f62e160013a63c6a",
+                "stats": {
+                    "viewCount": 26363,
+                    "nonCuratedCount": 3258
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-01-16T09:49:38.615Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "63d4a73cf3b5d30015f4dca0",
+                        "633eacdcce1ee0001497dc5a",
+                        "6226f6692d9a642279775ac8",
+                        "632dfaaedcb6240012d748da",
+                        "6424f079a301e40012378170"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7,
+                        0
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "648a8db74ec24e00126f04f1",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Wings Group Indonesia (Sayap Mas Utama)",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-03T17:00:00.000Z",
+                    "id": "648a8db74ec24e00126f04f1",
+                    "sector": "Consumer Goods",
+                    "logoUrl": "https://cdn.sejutacita.id/648a8ce01d22aa00137e8ef0/JobPortalCompanyLogo/dbe4846e-ea8b-46a9-9c85-cf1bfaf2c3c9.jfif",
+                    "slug": "wings-group-indonesia-sayap-mas-utama",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "NestJS",
+                        "id": "632dfaaedcb6240012d748da"
+                    },
+                    {
+                        "name": "REST API",
+                        "id": "633eacdcce1ee0001497dc5a"
+                    },
+                    {
+                        "name": "Node Js",
+                        "id": "63d4a73cf3b5d30015f4dca0"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "id": "6424f079a301e40012378170"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Margareta Yashinta Thamim",
+                    "id": "64f841cdf3b57a00122f6732",
+                    "email": "margaretayashinta.thamim@wingscorp.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-16T09:49:38.625Z",
+                "updatedAt": "2024-09-10T10:23:17.909Z",
+                "updatedAtByEmployer": "2024-04-24T01:15:17.418Z",
+                "latestUpdatedAt": "2024-01-16T09:49:38.619Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T00:56:21.704Z"
+            },
+            {
+                "id": "65123a4a986a3a0012fab5b6",
+                "slug": "software-engineer-front-end-and",
+                "role": "Software Engineer (Front-End & Back-End)",
+                "authorId": "6491547f6afea70013088680",
+                "stats": {
+                    "viewCount": 16427,
+                    "nonCuratedCount": 2256
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-09-26T01:56:26.331Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "648a8db74ec24e00126f04f1",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Wings Group Indonesia (Sayap Mas Utama)",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-03T17:00:00.000Z",
+                    "id": "648a8db74ec24e00126f04f1",
+                    "sector": "Consumer Goods",
+                    "logoUrl": "https://cdn.sejutacita.id/648a8ce01d22aa00137e8ef0/JobPortalCompanyLogo/dbe4846e-ea8b-46a9-9c85-cf1bfaf2c3c9.jfif",
+                    "slug": "wings-group-indonesia-sayap-mas-utama",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Christine Marcellin Young",
+                    "id": "649154b5795ca800121501bc",
+                    "email": "christinemarcellin.young@wingscorp.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-09-26T01:56:26.354Z",
+                "updatedAt": "2024-09-10T10:23:17.909Z",
+                "updatedAtByEmployer": "2024-02-01T01:26:47.422Z",
+                "latestUpdatedAt": "2024-02-01T01:26:11.557Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T00:56:21.704Z"
+            },
+            {
+                "id": "66cc7882d39df300122dc924",
+                "slug": "net-software-engineer",
+                "role": ".Net Software Engineer",
+                "authorId": "66a86fefbb6b7c0013bb7d1d",
+                "stats": {
+                    "viewCount": 2673,
+                    "nonCuratedCount": 90
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-26T12:43:46.593Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62cbfc4db9f25e001305ab21",
+                        "6433f2ef35205500137ef98e",
+                        "62ccfe32c6b19f0014e041dd",
+                        "6226f6692d9a642279775a7d",
+                        "633eacdcce1ee0001497dc5a"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "66a70951c2b51f001223d8e1",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "paidSickDays"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Amalura Multi Dimensi",
+                    "rank": "C",
+                    "trialStartedAt": "2024-07-28T17:00:00.000Z",
+                    "id": "66a70951c2b51f001223d8e1",
+                    "sector": "IT Services And IT Consulting",
+                    "logoUrl": "https://cdn.sejutacita.id/66a708df438f440013d9681f/JobPortalCompanyLogo/69b3b659-2421-43cb-8a6f-1b678690953e.jpeg",
+                    "slug": "pt-amalura-multi-dimensi",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "C# (Programming Language)",
+                        "id": "6226f6692d9a642279775a7d"
+                    },
+                    {
+                        "name": "VB.Net",
+                        "id": "62cbfc4db9f25e001305ab21"
+                    },
+                    {
+                        "name": "Microsoft SQL Server",
+                        "id": "62ccfe32c6b19f0014e041dd"
+                    },
+                    {
+                        "name": "REST API",
+                        "id": "633eacdcce1ee0001497dc5a"
+                    },
+                    {
+                        "name": "ASP.NET",
+                        "id": "6433f2ef35205500137ef98e"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Agus Efendi",
+                    "id": "66a87014e2d1e400121a00b2",
+                    "email": "agus.efendi@amalura-md.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-26T12:43:46.609Z",
+                "updatedAt": "2024-09-10T10:23:43.351Z",
+                "updatedAtByEmployer": "2024-08-27T00:12:04.874Z",
+                "latestUpdatedAt": "2024-08-26T12:43:46.605Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 6,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T23:07:49.236Z"
+            },
+            {
+                "id": "659624cdf156e500121569e3",
+                "slug": "software-engineer-backend-20",
+                "role": "Software Engineer (Backend)",
+                "authorId": "65095467e988fd0013391eb2",
+                "stats": {
+                    "viewCount": 6645,
+                    "nonCuratedCount": 1544
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2024-01-04T03:23:57.337Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab1",
+                        "63d4a73cf3b5d30015f4dca0",
+                        "6277b0349fbcad001261e665"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "6509572df4f49c001259751a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "professionalDevelopment",
+                            "dentalInsurance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Public Listed Company",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "rank": "B",
+                    "trialStartedAt": "2023-09-21T06:25:35.508Z",
+                    "id": "6509572df4f49c001259751a",
+                    "sector": "Information Tecnology",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/98f7f49a-ee12-4b2f-8984-b2134f33cc87.png",
+                    "slug": "pt-metrodata-electronics-tbk",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "PHP",
+                        "id": "6226f6692d9a642279775ab1"
+                    },
+                    {
+                        "name": "Go Lang",
+                        "id": "6277b0349fbcad001261e665"
+                    },
+                    {
+                        "name": "Node Js",
+                        "id": "63d4a73cf3b5d30015f4dca0"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "id": "6509572df4f49c001259751e",
+                    "email": "adella.lay@mii.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-04T03:23:57.346Z",
+                "updatedAt": "2024-09-10T10:04:58.654Z",
+                "updatedAtByEmployer": "2024-01-12T07:26:13.485Z",
+                "latestUpdatedAt": "2024-01-04T03:23:57.341Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T01:02:12.535Z"
+            },
+            {
+                "id": "66cbf14b21d71300128a6bfd",
+                "slug": "software-engineer-backend-36",
+                "role": "Software Engineer (Backend)",
+                "authorId": "66bb0b87b809bd001431cce9",
+                "stats": {
+                    "viewCount": 1511,
+                    "nonCuratedCount": 383
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-26T03:06:51.755Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62f85b82723f40001290f7a1",
+                        "6226f6692d9a642279775ab1",
+                        "6424f079a301e40012378170",
+                        "626b62f18cca210012db695f",
+                        "627e36f54c47b500126c6dca"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Cikarang",
+                    "id": 49184
+                },
+                "companyId": "645071205a75be0012ab3f80",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Pasifik Satelit Nusantara",
+                    "rank": "B",
+                    "trialStartedAt": "2024-06-05T17:00:00.000Z",
+                    "id": "645071205a75be0012ab3f80",
+                    "sector": "Telecomunication",
+                    "logoUrl": "https://cdn.sejutacita.id/64506fdbbcd1810013e71c7c/JobPortalCompanyLogo/bf832a5d-933b-4fda-af2d-1849830a4032.jpeg",
+                    "slug": "pasifik-satelit-nusantara",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "PHP",
+                        "id": "6226f6692d9a642279775ab1"
+                    },
+                    {
+                        "name": "Phyton",
+                        "id": "626b62f18cca210012db695f"
+                    },
+                    {
+                        "name": "Laravel",
+                        "id": "627e36f54c47b500126c6dca"
+                    },
+                    {
+                        "name": "Database",
+                        "id": "62f85b82723f40001290f7a1"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "id": "6424f079a301e40012378170"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Eko Rizki Rhamdani",
+                    "id": "66bb0bec6f8b780012ef77b4",
+                    "email": "eko.rhamdani@psn.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-26T03:06:51.765Z",
+                "updatedAt": "2024-09-10T08:45:15.602Z",
+                "updatedAtByEmployer": "2024-09-09T10:14:12.407Z",
+                "latestUpdatedAt": "2024-08-26T03:06:51.760Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:39:06.151Z"
+            },
+            {
+                "id": "66fb7a3ad27eef0012dcf134",
+                "slug": "software-engineer-backend-39",
+                "role": "Software Engineer Backend",
+                "authorId": "66ea9a3fed90f500136fed38",
+                "stats": {
+                    "viewCount": 1005,
+                    "nonCuratedCount": 47
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-01T04:27:38.487Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 8500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "63495a87806ec30012aa2c01",
+                        "6226f6692d9a642279775abb",
+                        "6424f079a301e40012378170",
+                        "6277b03e9fbcad001261e66c",
+                        "627e37024c47b500126c6dd8"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang Selatan",
+                    "id": 273
+                },
+                "companyId": "66ea9bd96706540012a7c180",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "teamBuilding",
+                            "gymMembership",
+                            "maternityLeave",
+                            "vacationTime",
+                            "companyOutings",
+                            "freeMeals"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "SwiftMind Indonesia",
+                    "rank": "C",
+                    "trialStartedAt": "2024-09-23T17:00:00.000Z",
+                    "id": "66ea9bd96706540012a7c180",
+                    "sector": "Consulting and Human Resources",
+                    "logoUrl": "https://cdn.sejutacita.id/66ea9a3fed90f500136fed38/JobPortalCompanyLogo/74e6f360-d5a9-4063-852c-1969b2cb93ef.jpeg",
+                    "slug": "swiftmind-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Backend Developer",
+                        "id": "63495a87806ec30012aa2c01"
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "id": "6424f079a301e40012378170"
+                    },
+                    {
+                        "name": "MySQL",
+                        "id": "6277b03e9fbcad001261e66c"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "id": "627e37024c47b500126c6dd8"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Anindya Raihan Bhagaskara",
+                    "id": "66ea9bd96706540012a7c184",
+                    "email": "raihan@swiftmind.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T04:27:38.498Z",
+                "updatedAt": "2024-10-03T07:31:37.033Z",
+                "updatedAtByEmployer": "2024-10-03T07:31:36.603Z",
+                "latestUpdatedAt": "2024-10-01T04:27:38.493Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:47:54.510Z"
+            },
+            {
+                "id": "669624004e22a80012a317c2",
+                "slug": "junior-software-engineer-2",
+                "role": "Junior Software Engineer",
+                "authorId": "64c31ad643ee310013b78bc3",
+                "stats": {
+                    "viewCount": 3955,
+                    "nonCuratedCount": 9
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-16T07:40:48.640Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775aa7",
+                        "628db36da39fae0012387043",
+                        "6346e2b6d1eb19001247803e",
+                        "6300ff96723f400012981de1"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        4
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "6494fbb94808db0012e7f4de",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "periodLeave",
+                            "casualDressCode",
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "freeMeals",
+                            "teamBuilding",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Ukirama",
+                    "rank": "C",
+                    "trialStartedAt": "2023-06-23T01:56:36.091Z",
+                    "id": "6494fbb94808db0012e7f4de",
+                    "sector": "IT Services & IT Consulting",
+                    "logoUrl": "https://cdn.sejutacita.id/64c31ad643ee310013b78bc3/JobPortalCompanyLogo/926323ca-a0fa-4f42-b146-1b3eb9695fec.png",
+                    "slug": "ukirama",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "Ruby On Rails",
+                        "id": "628db36da39fae0012387043"
+                    },
+                    {
+                        "name": "Backend Development",
+                        "id": "6346e2b6d1eb19001247803e"
+                    },
+                    {
+                        "name": "Front End Development",
+                        "id": "6300ff96723f400012981de1"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Recruitment",
+                    "id": "64c31f4365e80f0012580d75",
+                    "email": "recruitment@ukirama.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-16T07:40:48.651Z",
+                "updatedAt": "2024-09-25T02:37:24.709Z",
+                "updatedAtByEmployer": "2024-09-25T02:37:24.702Z",
+                "latestUpdatedAt": "2024-09-25T02:37:24.702Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:44:39.351Z"
+            },
+            {
+                "id": "66fb7c2bb50eb20012d16b6f",
+                "slug": "software-engineer-16",
+                "role": "Software Engineer",
+                "authorId": "6285a5bd3256d9001338c004",
+                "stats": {
+                    "viewCount": 1142,
+                    "nonCuratedCount": 116
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-01T04:35:55.822Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 5000000,
+                    "end": 7000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775ab1",
+                        "6226f6692d9a642279775aa7",
+                        "6424f079a301e40012378170",
+                        "6226f6692d9a642279775ac0",
+                        "6226f6692d9a642279775ac8"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "629da0001bf516001239e732",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid"
+                        ],
+                        "fundingStage": "Unknown",
+                        "fundingAmount": null
+                    },
+                    "name": "Mitramas Infosys Global",
+                    "rank": "C",
+                    "trialStartedAt": "2024-06-12T17:00:00.000Z",
+                    "id": "629da0001bf516001239e732",
+                    "sector": "Information Technology / IT",
+                    "logoUrl": "https://cdn.sejutacita.id/6285a5bd3256d9001338c004/Others/a5394f93-190e-4de5-8528-a092541e2d20.png",
+                    "slug": "mitramas-infosys-global",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "PHP",
+                        "id": "6226f6692d9a642279775ab1"
+                    },
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "id": "6424f079a301e40012378170"
+                    },
+                    {
+                        "name": "React Native",
+                        "id": "6226f6692d9a642279775ac0"
+                    },
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Mitramas Infosys Global",
+                    "id": "629da0001bf516001239e735",
+                    "email": "recruitment@mitrasolusi.group"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T04:35:55.827Z",
+                "updatedAt": "2024-10-04T06:59:53.059Z",
+                "updatedAtByEmployer": "2024-10-04T06:59:51.421Z",
+                "latestUpdatedAt": "2024-10-01T04:35:55.824Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T09:53:53.264Z"
+            },
+            {
+                "id": "66a89746ebfcc00012173944",
+                "slug": "software-engineer-net-senior",
+                "role": "Software Engineer (.Net) - Senior",
+                "authorId": "66a86fefbb6b7c0013bb7d1d",
+                "stats": {
+                    "viewCount": 5011,
+                    "nonCuratedCount": 78
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-07-30T07:33:26.781Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6433f2ef35205500137ef98e",
+                        "62cbfc4db9f25e001305ab21",
+                        "62fe25656aaaee0014737a29",
+                        "6226f6692d9a642279775a9d",
+                        "62ccfe32c6b19f0014e041dd"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "66a70951c2b51f001223d8e1",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "paidSickDays"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Amalura Multi Dimensi",
+                    "rank": "C",
+                    "trialStartedAt": "2024-07-28T17:00:00.000Z",
+                    "id": "66a70951c2b51f001223d8e1",
+                    "sector": "IT Services And IT Consulting",
+                    "logoUrl": "https://cdn.sejutacita.id/66a708df438f440013d9681f/JobPortalCompanyLogo/69b3b659-2421-43cb-8a6f-1b678690953e.jpeg",
+                    "slug": "pt-amalura-multi-dimensi",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Flutter",
+                        "id": "6226f6692d9a642279775a9d"
+                    },
+                    {
+                        "name": "VB.Net",
+                        "id": "62cbfc4db9f25e001305ab21"
+                    },
+                    {
+                        "name": "Microsoft SQL Server",
+                        "id": "62ccfe32c6b19f0014e041dd"
+                    },
+                    {
+                        "name": "Microservices",
+                        "id": "62fe25656aaaee0014737a29"
+                    },
+                    {
+                        "name": "ASP.NET",
+                        "id": "6433f2ef35205500137ef98e"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Agus Efendi",
+                    "id": "66a87014e2d1e400121a00b2",
+                    "email": "agus.efendi@amalura-md.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-07-30T07:33:26.786Z",
+                "updatedAt": "2024-09-10T09:12:37.394Z",
+                "updatedAtByEmployer": "2024-09-04T03:01:36.925Z",
+                "latestUpdatedAt": "2024-07-30T07:33:26.784Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T23:07:49.236Z"
+            },
+            {
+                "id": "66fb81efb50eb20012d24590",
+                "slug": "software-engineer-frontend-3",
+                "role": "Software Engineer Frontend",
+                "authorId": "66ea9a3fed90f500136fed38",
+                "stats": {
+                    "viewCount": 1313,
+                    "nonCuratedCount": 121
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-01T05:00:31.079Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 8500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6350b1589a558b0014b6b24f",
+                        "6226f6692d9a642279775aa3",
+                        "6424f079a301e40012378170",
+                        "6298b0a61bf516001238598d",
+                        "62753513c25e6c001489214d"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang Selatan",
+                    "id": 273
+                },
+                "companyId": "66ea9bd96706540012a7c180",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "teamBuilding",
+                            "gymMembership",
+                            "maternityLeave",
+                            "vacationTime",
+                            "companyOutings",
+                            "freeMeals"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "SwiftMind Indonesia",
+                    "rank": "C",
+                    "trialStartedAt": "2024-09-23T17:00:00.000Z",
+                    "id": "66ea9bd96706540012a7c180",
+                    "sector": "Consulting and Human Resources",
+                    "logoUrl": "https://cdn.sejutacita.id/66ea9a3fed90f500136fed38/JobPortalCompanyLogo/74e6f360-d5a9-4063-852c-1969b2cb93ef.jpeg",
+                    "slug": "swiftmind-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Frontend Developer",
+                        "id": "6350b1589a558b0014b6b24f"
+                    },
+                    {
+                        "name": "HTML",
+                        "id": "6226f6692d9a642279775aa3"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "id": "6424f079a301e40012378170"
+                    },
+                    {
+                        "name": "VueJs",
+                        "id": "6298b0a61bf516001238598d"
+                    },
+                    {
+                        "name": "ReactJS",
+                        "id": "62753513c25e6c001489214d"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Anindya Raihan Bhagaskara",
+                    "id": "66ea9bd96706540012a7c184",
+                    "email": "raihan@swiftmind.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T05:00:31.088Z",
+                "updatedAt": "2024-10-03T07:28:41.782Z",
+                "updatedAtByEmployer": "2024-10-03T07:28:40.268Z",
+                "latestUpdatedAt": "2024-10-01T05:00:31.082Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:47:54.510Z"
+            },
+            {
+                "id": "637c4074888db700130433af",
+                "slug": "software-engineer-7",
+                "role": "Software Engineer",
+                "authorId": "637c277f7f270f00141a3d16",
+                "stats": {
+                    "viewCount": 7689,
+                    "nonCuratedCount": 561
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-11-22T03:22:28.891Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "6277b03e9fbcad001261e66c",
+                        "637c403604f9310012b54251",
+                        "6226f6692d9a642279775a88",
+                        "628c88dca39fae0012381fda",
+                        "627e36f54c47b500126c6dca"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 158,
+                    "name": "Jakarta Selatan"
+                },
+                "companyId": "637c3bbd95712d001231f961",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "teamBuilding",
+                            "selfDevelopmentAllowance",
+                            "companyOutings",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite",
+                            "hybrid",
+                            "flexible"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/637c277f7f270f00141a3d16/JobPortalCompanyLogo/18df5040-0e8c-4d05-95f5-3126d95157de.jpg",
+                    "rank": "none",
+                    "name": "HP Asset Management",
+                    "sector": "Financial Services",
+                    "slug": "hp-asset-management",
+                    "id": "637c3bbd95712d001231f961",
+                    "trialStartedAt": "2022-11-22T03:02:37.718Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "CSS",
+                        "id": "6226f6692d9a642279775a88"
+                    },
+                    {
+                        "name": "MySQL",
+                        "id": "6277b03e9fbcad001261e66c"
+                    },
+                    {
+                        "name": "Laravel",
+                        "id": "627e36f54c47b500126c6dca"
+                    },
+                    {
+                        "name": "Linux",
+                        "id": "628c88dca39fae0012381fda"
+                    },
+                    {
+                        "name": "HTTP",
+                        "id": "637c403604f9310012b54251"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "career@hpam.co.id",
+                    "name": "Henan Putihrai Asset Management",
+                    "id": "637c3bbe95712d001231f965"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-11-22T03:22:28.898Z",
+                "updatedAt": "2024-09-10T08:02:10.945Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T06:04:51.598Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            }
+        ],
+        "totalDocs": 12,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

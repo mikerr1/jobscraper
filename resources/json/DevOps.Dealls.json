@@ -1,0 +1,885 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66fbc38865d36d00123ce121",
+                "slug": "devops-engineer-46",
+                "role": "DevOps Engineer [Bayarind]",
+                "authorId": "65517eb32470a300146b6612",
+                "stats": {
+                    "viewCount": 349,
+                    "nonCuratedCount": 6
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-02T06:16:43.396Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "633bf09c02f85b00116ad1b6",
+                        "6226f6692d9a642279775abb",
+                        "62fdbbf9e396bc001346b67a"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "65517f3304fb190012068a5a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "periodLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "others",
+                        "fundingAmount": null
+                    },
+                    "name": "Sprint Asia",
+                    "rank": "C",
+                    "trialStartedAt": "2024-08-13T17:00:00.000Z",
+                    "id": "65517f3304fb190012068a5a",
+                    "sector": "IT Services And IT Consulting",
+                    "logoUrl": "https://cdn.sejutacita.id/65517eb32470a300146b6612/JobPortalCompanyLogo/8cfe06f8-b743-4690-8053-569fb6363177.jpg",
+                    "slug": "sprint-asia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "System Engineer",
+                        "id": "633bf09c02f85b00116ad1b6"
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Alibaba Cloud",
+                        "id": "62fdbbf9e396bc001346b67a"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "dian oksi",
+                    "id": "65517f3304fb190012068a62",
+                    "email": "dian.oksi@sprintasia.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-01T09:40:24.342Z",
+                "updatedAt": "2024-10-02T07:13:40.517Z",
+                "updatedAtByEmployer": "2024-10-02T06:16:43.396Z",
+                "latestUpdatedAt": "2024-10-01T09:40:24.334Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T08:24:41.577Z"
+            },
+            {
+                "id": "670e675470173a00120df5f4",
+                "slug": "devops-engineer-47",
+                "role": "DevOps Engineer",
+                "authorId": "66ea9a3fed90f500136fed38",
+                "stats": {
+                    "viewCount": 586,
+                    "nonCuratedCount": 5
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-15T13:00:04.082Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 7500000,
+                    "end": 9500000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775a8d",
+                        "6226f6692d9a642279775abb",
+                        "62f11bb334f5f10012216e14",
+                        "668cb16b834b9a0012f1c27d",
+                        "62ec7cef9f86fe00129a4aea"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang Selatan",
+                    "id": 273
+                },
+                "companyId": "66ea9bd96706540012a7c180",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "bonusSystem",
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "selfDevelopmentAllowance",
+                            "casualDressCode",
+                            "teamBuilding",
+                            "gymMembership",
+                            "maternityLeave",
+                            "vacationTime",
+                            "companyOutings",
+                            "freeMeals"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "SwiftMind Indonesia",
+                    "rank": "C",
+                    "trialStartedAt": "2024-09-23T17:00:00.000Z",
+                    "id": "66ea9bd96706540012a7c180",
+                    "sector": "Consulting and Human Resources",
+                    "logoUrl": "https://cdn.sejutacita.id/66ea9a3fed90f500136fed38/JobPortalCompanyLogo/74e6f360-d5a9-4063-852c-1969b2cb93ef.jpeg",
+                    "slug": "swiftmind-indonesia",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "DevOps",
+                        "id": "6226f6692d9a642279775a8d"
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "Bash",
+                        "id": "62f11bb334f5f10012216e14"
+                    },
+                    {
+                        "name": "Powershell",
+                        "id": "668cb16b834b9a0012f1c27d"
+                    },
+                    {
+                        "name": "Jenkins",
+                        "id": "62ec7cef9f86fe00129a4aea"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Anindya Raihan Bhagaskara",
+                    "id": "66ea9bd96706540012a7c184",
+                    "email": "raihan@swiftmind.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-15T13:00:04.090Z",
+                "updatedAt": "2024-10-16T01:40:29.205Z",
+                "updatedAtByEmployer": "2024-10-16T01:40:28.912Z",
+                "latestUpdatedAt": "2024-10-15T13:00:04.086Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:47:54.510Z"
+            },
+            {
+                "id": "62c815de61880b00137c439e",
+                "slug": "it-devops-officer",
+                "role": "IT Devops Officer",
+                "authorId": "62c7fdd588c4df0015c9c985",
+                "stats": {
+                    "viewCount": 12255,
+                    "nonCuratedCount": 645
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-07-08T11:32:46.139Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "6226f6692d9a642279775a8d",
+                        "62a326e162a37400158df2fa",
+                        "628b9740a39fae001237e1d1",
+                        "627ce4647e2ae00012281bc9",
+                        "628c70d6babeec001370df86",
+                        "62bc2066e8f1ff00129798bb"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 158,
+                    "name": "Jakarta Selatan"
+                },
+                "companyId": "62c8001e9a5d890013ef99de",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "other"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62c7fdd588c4df0015c9c985/Others/7da69bff-7a0e-4e37-a7bb-3d6a2cf4b255.jpeg",
+                    "name": "Bank Sahabat Sampoerna",
+                    "sector": "Corporate Banking",
+                    "slug": "bank-sahabat-sampoerna",
+                    "rank": "A",
+                    "id": "62c8001e9a5d890013ef99de",
+                    "trialStartedAt": "2022-07-08T09:59:58.042Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "DevOps",
+                        "id": "6226f6692d9a642279775a8d"
+                    },
+                    {
+                        "name": "Docker",
+                        "id": "628b9740a39fae001237e1d1"
+                    },
+                    {
+                        "name": "Google Cloud Platform",
+                        "id": "628c70d6babeec001370df86"
+                    },
+                    {
+                        "name": "Amazon Web Services (AWS)",
+                        "id": "62a326e162a37400158df2fa"
+                    },
+                    {
+                        "name": "CI/CD",
+                        "id": "62bc2066e8f1ff00129798bb"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "candra.irawan@banksampoerna.com",
+                    "name": "Candra Irawan",
+                    "id": "62c8001e9a5d890013ef99e1"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-08T11:32:46.185Z",
+                "updatedAt": "2024-09-10T10:04:42.411Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T12:10:11.106Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "6551e10b2c7853001200e77f",
+                "slug": "devops-lead",
+                "role": "DevOps Lead",
+                "authorId": "648a8ce01d22aa00137e8ef0",
+                "stats": {
+                    "viewCount": 9871,
+                    "nonCuratedCount": 337
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-11-13T08:40:43.822Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        7,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Timur",
+                    "id": 159
+                },
+                "companyId": "648a8db74ec24e00126f04f1",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "Wings Group Indonesia (Sayap Mas Utama)",
+                    "rank": "A",
+                    "trialStartedAt": "2023-08-03T17:00:00.000Z",
+                    "id": "648a8db74ec24e00126f04f1",
+                    "sector": "Consumer Goods",
+                    "logoUrl": "https://cdn.sejutacita.id/648a8ce01d22aa00137e8ef0/JobPortalCompanyLogo/dbe4846e-ea8b-46a9-9c85-cf1bfaf2c3c9.jfif",
+                    "slug": "wings-group-indonesia-sayap-mas-utama",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "jessica monica",
+                    "id": "648a8db74ec24e00126f04f5",
+                    "email": "jessica.monica@wingscorp.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-11-13T08:40:43.834Z",
+                "updatedAt": "2024-09-10T10:23:43.368Z",
+                "updatedAtByEmployer": "2024-06-06T07:49:06.370Z",
+                "latestUpdatedAt": "2024-02-01T01:37:34.686Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 3,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T00:56:21.704Z"
+            },
+            {
+                "id": "66b2ddb25b944500128043aa",
+                "slug": "openshift-engineer",
+                "role": "DevOps Engineer",
+                "authorId": "650a545fe988fd001339500d",
+                "stats": {
+                    "viewCount": 3475,
+                    "nonCuratedCount": 87
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-08-07T02:36:34.144Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 8000000,
+                    "end": 20000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62f524e3e35eed00122d10f1",
+                        "62914d20126a9e0013ba3405",
+                        "628b9740a39fae001237e1d1",
+                        "62a326e162a37400158df2fa",
+                        "66b2dd70e4c58f0012518613"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64d30b235b85cb00127de30e",
+                "categoryId": "62c82f32d4471a00132d8757",
+                "categorySlug": null,
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "-"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Mandiri International Technology",
+                    "rank": "B",
+                    "trialStartedAt": "2023-08-09T03:42:40.822Z",
+                    "id": "64d30b235b85cb00127de30e",
+                    "sector": "IT Consulting & Services Company",
+                    "logoUrl": "https://cdn.sejutacita.id/64d309f6f62e1600139e0362/JobPortalCompanyLogo/d375e21f-cb66-4ab9-a0ae-06cccee7a36f.png",
+                    "slug": "pt-mandiri-international-technology",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Docker",
+                        "id": "628b9740a39fae001237e1d1"
+                    },
+                    {
+                        "name": "Kubernetes",
+                        "id": "62914d20126a9e0013ba3405"
+                    },
+                    {
+                        "name": "Amazon Web Services (AWS)",
+                        "id": "62a326e162a37400158df2fa"
+                    },
+                    {
+                        "name": "Openshift",
+                        "id": "62f524e3e35eed00122d10f1"
+                    },
+                    {
+                        "name": "Openshift Administration",
+                        "id": "66b2dd70e4c58f0012518613"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Karina Chaerunisa",
+                    "id": "650a549d4a2c8b0012a5bcff",
+                    "email": "karina.chaerunisa@mitech.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-08-07T02:36:34.156Z",
+                "updatedAt": "2024-09-10T09:11:31.064Z",
+                "updatedAtByEmployer": "2024-09-02T03:10:30.411Z",
+                "latestUpdatedAt": "2024-08-07T02:36:34.152Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 6,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T07:40:03.152Z"
+            },
+            {
+                "id": "65261409748edb0012a8cb0b",
+                "slug": "devops-engineer-27",
+                "role": "DevOps Engineer",
+                "authorId": "650bbc59e988fd001339a52d",
+                "stats": {
+                    "viewCount": 1266,
+                    "nonCuratedCount": 6
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-10-11T03:18:33.764Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "647efac342a2b200124415a0",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "paidSickDays",
+                            "professionalDevelopment"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "-",
+                        "fundingAmount": null
+                    },
+                    "name": "Akulaku Indonesia",
+                    "rank": "B",
+                    "trialStartedAt": "2023-06-12T09:22:31.389Z",
+                    "id": "647efac342a2b200124415a0",
+                    "sector": "Financial Services",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/0d8d1f68-b858-45bb-84f8-f885b891ef63.png",
+                    "slug": "akulaku-indonesia",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Rina Chairunnisa",
+                    "id": "650bbc9af4f49c00127a02f4",
+                    "email": "rina.chairunnisa@akulaku.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-10-11T03:18:33.775Z",
+                "updatedAt": "2024-09-09T22:59:19.576Z",
+                "updatedAtByEmployer": "2024-09-09T06:07:08.174Z",
+                "latestUpdatedAt": "2023-10-11T03:18:33.769Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:59:43.902Z"
+            },
+            {
+                "id": "663363c87b6d6a00125658cb",
+                "slug": "devops-9",
+                "role": "Devops",
+                "authorId": "660135b69e50c300135f6e34",
+                "stats": {
+                    "viewCount": 2780,
+                    "nonCuratedCount": 41
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-02T09:58:32.396Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Tangerang Selatan",
+                    "id": 273
+                },
+                "companyId": "660134a1f80300001294c348",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "periodLeave",
+                            "teamBuilding",
+                            "casualDressCode",
+                            "companyOutings",
+                            "selfDevelopmentAllowance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "revenue",
+                        "fundingAmount": null
+                    },
+                    "name": "Sprout Digital Labs",
+                    "rank": "C",
+                    "trialStartedAt": "2024-03-24T17:00:00.000Z",
+                    "id": "660134a1f80300001294c348",
+                    "sector": "Digital Services and Technology",
+                    "logoUrl": "https://cdn.sejutacita.id/6295d9e9b9ddc5001383db0f/JobPortalCompanyLogo/84aef6fd-06d7-4e88-af58-c9848b66de62.png",
+                    "slug": "pt-tunas-digital-labs",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Klarissa Ardisa",
+                    "id": "66013622f8030000129507ea",
+                    "email": "klarissa.ardisa@sprout.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-02T09:58:32.403Z",
+                "updatedAt": "2024-09-10T09:28:32.998Z",
+                "updatedAtByEmployer": "2024-08-29T09:19:11.024Z",
+                "latestUpdatedAt": "2024-05-02T09:58:32.400Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T10:45:18.105Z"
+            },
+            {
+                "id": "62da3fe294c60b0012e0909b",
+                "slug": "devops-engineer-6",
+                "role": "DevOps Engineer",
+                "authorId": "62da3d5df6361b00155ff393",
+                "stats": {
+                    "viewCount": 6286,
+                    "nonCuratedCount": 240
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2022-07-22T06:12:50.548Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 273,
+                    "name": "Tangerang Selatan"
+                },
+                "companyId": "62da3e8094c60b0012e08fc2",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62da3d5df6361b00155ff393/Others/a239294d-cd9e-4b95-93e6-a0d210ca13ac.jpg",
+                    "rank": "C",
+                    "name": "Nawatech",
+                    "sector": "IT Services & IT Consulting",
+                    "slug": "nawatech",
+                    "id": "62da3e8094c60b0012e08fc2",
+                    "trialStartedAt": "2022-07-22T06:06:56.889Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "email": "career@nawatech.co",
+                    "name": "Nawatech",
+                    "id": "62da3e8094c60b0012e08fc5"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-07-22T06:12:50.629Z",
+                "updatedAt": "2024-09-10T09:28:33.163Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T12:11:25.797Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "6335643aacff9500129771f6",
+                "slug": "devops-1",
+                "role": "Devops",
+                "authorId": "633162bfa818920013dbb297",
+                "stats": {
+                    "viewCount": 6104,
+                    "nonCuratedCount": 207
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "hybrid",
+                "publishedAt": "2022-09-29T09:24:10.836Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "622b0e91be545565867248d4",
+                        "628c88dca39fae0012381fda",
+                        "62d9139e707b920013f5d64b",
+                        "62bc2066e8f1ff00129798bb"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 273,
+                    "name": "Tangerang Selatan"
+                },
+                "companyId": "62da3e8094c60b0012e08fc2",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave"
+                        ],
+                        "workingPolicies": [
+                            "hybrid"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/62da3d5df6361b00155ff393/Others/a239294d-cd9e-4b95-93e6-a0d210ca13ac.jpg",
+                    "rank": "C",
+                    "name": "Nawatech",
+                    "sector": "IT Services & IT Consulting",
+                    "slug": "nawatech",
+                    "id": "62da3e8094c60b0012e08fc2",
+                    "trialStartedAt": "2022-07-22T06:06:56.889Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Cloud Computing",
+                        "id": "622b0e91be545565867248d4"
+                    },
+                    {
+                        "name": "Linux",
+                        "id": "628c88dca39fae0012381fda"
+                    },
+                    {
+                        "name": "CI/CD",
+                        "id": "62bc2066e8f1ff00129798bb"
+                    },
+                    {
+                        "name": "Virtualization",
+                        "id": "62d9139e707b920013f5d64b"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Teressa Parsaulian",
+                    "email": "teressa.parsaulian@nawatech.co",
+                    "id": "63316315dcb6240012d8e138"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-09-29T09:24:10.852Z",
+                "updatedAt": "2024-09-10T07:57:03.957Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T12:31:48.388Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            }
+        ],
+        "totalDocs": 9,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

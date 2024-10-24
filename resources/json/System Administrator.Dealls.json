@@ -1,0 +1,326 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "658266d36d1e84001352998c",
+                "slug": "system-administrator-3",
+                "role": "System Administrator",
+                "authorId": "64d4bc97f62e1600139e7e78",
+                "stats": {
+                    "viewCount": 8776,
+                    "nonCuratedCount": 1097
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-12-20T04:00:19.504Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6,
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "628cba2c9f37b90012d16410",
+                        "634cb6dd1e4d8f0012b25459",
+                        "637729c993976d001370ea20",
+                        "63ddf3dbee6e05001376f433"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 159,
+                    "name": "Jakarta Timur"
+                },
+                "companyId": "64d4bdb490d4fc00121e462c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/64d4bc97f62e1600139e7e78/JobPortalCompanyLogo/6b3fc771-53aa-4c10-8c17-c05f8f6a97af.jpg",
+                    "rank": "A",
+                    "name": "PT Fastrata Buana (Kapal Api Group)",
+                    "sector": "Food And Beverage Services",
+                    "slug": "pt-fastrata-buana-kapal-api-group",
+                    "id": "64d4bdb490d4fc00121e462c",
+                    "trialStartedAt": "2023-08-10T17:00:00.000Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Linux System Administrator",
+                        "id": "628cba2c9f37b90012d16410"
+                    },
+                    {
+                        "name": "Windows Server",
+                        "id": "634cb6dd1e4d8f0012b25459"
+                    },
+                    {
+                        "name": "Network Security",
+                        "id": "637729c993976d001370ea20"
+                    },
+                    {
+                        "name": "Routing",
+                        "id": "63ddf3dbee6e05001376f433"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "recruitment@fastratabuana.co.id",
+                    "name": "Eka",
+                    "id": "64d4bdb490d4fc00121e4630"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-12-20T04:00:19.519Z",
+                "updatedAt": "2024-09-10T09:27:07.082Z",
+                "updatedAtByEmployer": "2023-12-22T03:49:21.090Z",
+                "latestUpdatedAt": "2023-12-20T04:00:19.513Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "6710868ab3534700122371d3",
+                "slug": "system-administrator-7",
+                "role": "System Administrator",
+                "authorId": "628dcf22be95ec00134cd50e",
+                "stats": {
+                    "viewCount": 600,
+                    "nonCuratedCount": 3
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-10-17T03:37:46.952Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62f11bb334f5f10012216e14",
+                        "628cba2c9f37b90012d16410",
+                        "6226f6692d9a642279775abb",
+                        "6226f6692d9a642279775ac8",
+                        "62c4320c7e07610012e84931"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Pusat",
+                    "id": 157
+                },
+                "companyId": "628dd049a39fae0012387bff",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "bonusSystem",
+                            "casualDressCode",
+                            "companyOutings"
+                        ],
+                        "workingPolicies": [
+                            "hybrid",
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "PT. Inovasi Anak Indonesia - PARKEE",
+                    "rank": "C",
+                    "trialStartedAt": "2022-05-25T06:44:25.529Z",
+                    "id": "628dd049a39fae0012387bff",
+                    "sector": "technology services",
+                    "logoUrl": "https://cdn.sejutacita.id/628dcf22be95ec00134cd50e/Others/87698c97-62a6-4457-8fa1-675b080a42fc.png",
+                    "slug": "pt-inovasi-anak-indonesia-parkee",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Bash",
+                        "id": "62f11bb334f5f10012216e14"
+                    },
+                    {
+                        "name": "Linux System Administrator",
+                        "id": "628cba2c9f37b90012d16410"
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "id": "6226f6692d9a642279775abb"
+                    },
+                    {
+                        "name": "SQL",
+                        "id": "6226f6692d9a642279775ac8"
+                    },
+                    {
+                        "name": "Ansible",
+                        "id": "62c4320c7e07610012e84931"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "wilson",
+                    "id": "628dd049a39fae0012387c02",
+                    "email": "wilson@parkee.app"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-10-17T03:37:46.962Z",
+                "updatedAt": "2024-10-17T04:22:00.480Z",
+                "updatedAtByEmployer": "2024-10-17T03:37:46.952Z",
+                "latestUpdatedAt": "2024-10-17T03:37:46.958Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:41:41.021Z"
+            },
+            {
+                "id": "659621eabc60790012070b94",
+                "slug": "system-administrator-4",
+                "role": "System Administrator",
+                "authorId": "652775f3a99aa00014db933c",
+                "stats": {
+                    "viewCount": 3666,
+                    "nonCuratedCount": 341
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-01-04T03:11:38.765Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5,
+                        6
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "628cba2c9f37b90012d16410",
+                        "628c88dca39fae0012381fda",
+                        "637aba6800ab7a0012a12b08"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 49180,
+                    "name": "Jakarta"
+                },
+                "companyId": "65266625e865da001210421c",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": "Others",
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/6526657bc4ff840013115c95/JobPortalCompanyLogo/7342ac75-b606-4493-bcfa-f2ab2224f0ec.jpeg",
+                    "rank": "B",
+                    "name": "PT Sisindokom Lintasbuana",
+                    "sector": "IT Services And IT Consulting",
+                    "slug": "pt-sisindokom-lintasbuana",
+                    "id": "65266625e865da001210421c",
+                    "trialStartedAt": "2023-10-21T17:00:00.000Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Linux",
+                        "id": "628c88dca39fae0012381fda"
+                    },
+                    {
+                        "name": "Linux System Administrator",
+                        "id": "628cba2c9f37b90012d16410"
+                    },
+                    {
+                        "name": "Oracle Database",
+                        "id": "637aba6800ab7a0012a12b08"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Sisindokom Lintasbuana",
+                    "email": "recruitment@sisindokom.com",
+                    "id": "65277615e39dfe0012fd6934"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-01-04T03:11:38.773Z",
+                "updatedAt": "2024-09-10T06:25:12.616Z",
+                "updatedAtByEmployer": "2024-04-02T04:25:36.808Z",
+                "latestUpdatedAt": "2024-04-02T04:25:36.808Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            }
+        ],
+        "totalDocs": 3,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

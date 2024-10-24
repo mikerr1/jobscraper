@@ -1,0 +1,375 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "66e151743a030a0011191b54",
+                "slug": "associate-application-support",
+                "role": "Associate Application Support",
+                "authorId": "64368dac5c41530013236a8d",
+                "stats": {
+                    "viewCount": 595,
+                    "nonCuratedCount": 10
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-09-11T08:14:44.300Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": {
+                    "start": 7500000,
+                    "end": 12000000
+                },
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "62fa00e671812f001376bafe",
+                        "6226f6692d9a642279775aa7",
+                        "64094f79fa95ba00134394c9",
+                        "6226f6692d9a642279775ab0",
+                        "627f28bbfae3970013a46ae4"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        0,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Selatan",
+                    "id": 158
+                },
+                "companyId": "64368e5dd41a27001230a866",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "periodLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ],
+                        "fundingStage": null,
+                        "fundingAmount": null
+                    },
+                    "name": "OpenWay",
+                    "rank": "A",
+                    "trialStartedAt": "2023-04-18T10:12:02.251Z",
+                    "id": "64368e5dd41a27001230a866",
+                    "sector": "Software Development",
+                    "logoUrl": "https://cdn.sejutacita.id/64368dac5c41530013236a8d/JobPortalCompanyLogo/82ddb4a7-1841-4ba8-9da1-98544860a966.jpeg",
+                    "slug": "openway",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "English Communication (Written & Verbal)",
+                        "id": "62fa00e671812f001376bafe"
+                    },
+                    {
+                        "name": "Java (Programming Language)",
+                        "id": "6226f6692d9a642279775aa7"
+                    },
+                    {
+                        "name": "Application Support",
+                        "id": "64094f79fa95ba00134394c9"
+                    },
+                    {
+                        "name": "Negotiation",
+                        "id": "6226f6692d9a642279775ab0"
+                    },
+                    {
+                        "name": "Jira",
+                        "id": "627f28bbfae3970013a46ae4"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Agata",
+                    "id": "64368e5dd41a27001230a86a",
+                    "email": "ashidayat@openwaygroup.com"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-09-11T08:14:44.313Z",
+                "updatedAt": "2024-10-14T10:16:51.261Z",
+                "updatedAtByEmployer": "2024-10-14T04:42:51.400Z",
+                "latestUpdatedAt": "2024-10-14T10:16:51.261Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-23T11:47:48.784Z"
+            },
+            {
+                "id": "6629733cabae7a0012393c9c",
+                "slug": "it-application-support-sap-fico",
+                "role": "IT Application Support - SAP FICO",
+                "authorId": "660b74959e50c30013611027",
+                "stats": {
+                    "viewCount": 8603,
+                    "nonCuratedCount": 1546
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-04-24T21:01:48.011Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        6,
+                        5
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": [
+                        "62b97776e4bc450012a79339"
+                    ]
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 156,
+                    "name": "Jakarta Barat"
+                },
+                "companyId": "660b781938e06e0012ed0a4d",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": "revenue",
+                        "fundingAmount": null,
+                        "benefits": [
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/64c8b017e988fd00132a7b77/JobPortalCompanyLogo/1da2d977-1ba5-475c-a57d-b5af206088ee.png",
+                    "rank": "A",
+                    "name": "Cimory Group",
+                    "sector": "Research, Data, Consulting, Finance, FMCG (Fast Moving Consumer Goods)",
+                    "slug": "cimory-group",
+                    "id": "660b781938e06e0012ed0a4d",
+                    "trialStartedAt": "2024-04-02T03:14:38.551Z",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "SAP HANA",
+                        "id": "62b97776e4bc450012a79339"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "email": "recruitment@cimory.com",
+                    "name": "Recruitment Cimory",
+                    "id": "660b781938e06e0012ed0a51"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-04-24T21:01:48.022Z",
+                "updatedAt": "2024-09-10T10:12:21.573Z",
+                "updatedAtByEmployer": "2024-04-24T21:01:48.010Z",
+                "latestUpdatedAt": "2024-04-24T21:01:48.018Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-07-15T04:46:15.122Z"
+            },
+            {
+                "id": "667b76a08581ea0011f44bb3",
+                "slug": "application-support-3",
+                "role": "Application Support",
+                "authorId": "65095467e988fd0013391eb2",
+                "stats": {
+                    "viewCount": 6568,
+                    "nonCuratedCount": 313
+                },
+                "employmentTypes": [
+                    "contract"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-06-26T02:02:08.359Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "6509572df4f49c001259751a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "professionalDevelopment",
+                            "dentalInsurance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Public Listed Company",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "rank": "B",
+                    "trialStartedAt": "2023-09-21T06:25:35.508Z",
+                    "id": "6509572df4f49c001259751a",
+                    "sector": "Information Tecnology",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/98f7f49a-ee12-4b2f-8984-b2134f33cc87.png",
+                    "slug": "pt-metrodata-electronics-tbk",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "id": "6509572df4f49c001259751e",
+                    "email": "adella.lay@mii.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-06-26T02:02:08.375Z",
+                "updatedAt": "2024-10-09T02:51:07.503Z",
+                "updatedAtByEmployer": "2024-10-09T02:51:07.065Z",
+                "latestUpdatedAt": "2024-06-26T02:02:08.369Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 4,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T01:02:12.535Z"
+            },
+            {
+                "id": "62a6d51b115f8400128faba0",
+                "slug": "it-application-support-supervisor-dynamics",
+                "role": "IT Application Support Supervisor (Dynamics 365)",
+                "authorId": "6299abfcb9ddc50013840e7c",
+                "stats": {
+                    "viewCount": 6453,
+                    "nonCuratedCount": 357
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2022-06-13T06:11:39.016Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        5
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 156,
+                    "name": "Jakarta Barat"
+                },
+                "companyId": "6299ad0b1bf516001238c998",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave"
+                        ],
+                        "workingPolicies": [
+                            "flexible"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/6299abfcb9ddc50013840e7c/Others/6abc6ba8-6bf8-4597-aef9-cfec61fcecff.png",
+                    "name": "IDS Medical Systems (idsMED)",
+                    "sector": "Medicine Healthcare & Wellbeing",
+                    "slug": "ids-medical-systems-idsmed",
+                    "rank": "B",
+                    "id": "6299ad0b1bf516001238c998",
+                    "trialStartedAt": "2022-06-03T06:41:15.199Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "email": "recruitmentjkt@idsmed.com",
+                    "name": "Tjan Herman",
+                    "id": "6299ad0b1bf516001238c99b"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2022-06-13T06:11:39.025Z",
+                "updatedAt": "2024-09-10T09:51:40.902Z",
+                "updatedAtByEmployer": null,
+                "latestUpdatedAt": "2023-03-08T13:42:35.523Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 1,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            }
+        ],
+        "totalDocs": 4,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}

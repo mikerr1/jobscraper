@@ -1,0 +1,67 @@
+{
+    "data": [],
+    "title": "SVP Information & Communication Technology, Banking & Financial Services Jobs",
+    "totalCount": 0,
+    "totalPages": 1,
+    "paginationParameters": {
+        "seekSelectAllPages": true,
+        "hadPremiumListings": false
+    },
+    "info": {
+        "timeTaken": 19,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3775543929407693414",
+    "sortMode": [
+        {
+            "isActive": true,
+            "name": "Relevance",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Date",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "5a70bee3-d3ee-4634-824e-2088a522ce71",
+        "token": "0~5a70bee3-d3ee-4634-824e-2088a522ce71",
+        "keywords": "SVP",
+        "sortMode": "RELEVANCE",
+        "createdSince": "1729083600es",
+        "categories": [
+            "6281",
+            "1203"
+        ],
+        "pageSize": 100,
+        "pageNumber": 1,
+        "totalJobCount": 0,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "0",
+            "mordor:result_count_vec": "0",
+            "mordor:rt": "12",
+            "mordor_vs:retrieved_count": "0",
+            "mordor:count_vec": "0",
+            "mordor__flights": "mordor_510",
+            "mordor:count_rst": "0",
+            "mordor:count_ir": "0",
+            "mordor:result_count_ir": "0",
+            "chalice-search-api:solId": "0cfff601-356c-463e-a4e5-3f1ae9df7739"
+        }
+    },
+    "facets": {},
+    "joraCrossLink": {
+        "canCrossLink": false
+    },
+    "searchParams": {
+        "classification": "6281,1203",
+        "daterange": "7",
+        "keywords": "SVP",
+        "pagesize": "100",
+        "sitekey": "ID-Main",
+        "solid": "0cfff601-356c-463e-a4e5-3f1ae9df7739"
+    }
+}

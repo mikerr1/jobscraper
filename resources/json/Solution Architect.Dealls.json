@@ -1,0 +1,356 @@
+{
+    "data": {
+        "docs": [
+            {
+                "id": "653760f74a1f0400125f6793",
+                "slug": "solution-architect-sap-application-architect",
+                "role": "Solution Architect-SAP (Application Architect-SAP)",
+                "authorId": "64a3e2ad1d22aa001382fd81",
+                "stats": {
+                    "viewCount": 3873,
+                    "nonCuratedCount": 92
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-10-24T06:15:19.517Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 157,
+                    "name": "Jakarta Pusat"
+                },
+                "companyId": "64992ddf3b964400129bf127",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/e06e0873-cfe0-4200-9e65-396b821b632f.png",
+                    "rank": "A",
+                    "name": "PT Jasa Teknologi Informasi",
+                    "sector": "IT Services And IT Consulting",
+                    "slug": "pt-jasa-teknologi-informasi",
+                    "id": "64992ddf3b964400129bf127",
+                    "trialStartedAt": "2023-07-27T09:11:29.489Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "Niken Kumalasari",
+                    "email": "niken.kumalasari@ibm.com",
+                    "id": "64a3e2eacb27a90012aac4e5"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-10-24T06:15:19.523Z",
+                "updatedAt": "2024-09-10T09:42:21.082Z",
+                "updatedAtByEmployer": "2024-01-03T07:26:19.719Z",
+                "latestUpdatedAt": "2023-10-24T06:15:19.520Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 8,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "6577e6dca101660012360c58",
+                "slug": "solution-architect-salesforce",
+                "role": "Solution Architect - Salesforce",
+                "authorId": "64992d0f6afea7001309e6a9",
+                "stats": {
+                    "viewCount": 4612,
+                    "nonCuratedCount": 100
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2023-12-12T04:51:40.131Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "lastEducations": [
+                        7
+                    ],
+                    "major": null,
+                    "university": null,
+                    "minimumGpa": null,
+                    "skillIds": []
+                },
+                "country": {
+                    "id": 102,
+                    "name": "Indonesia"
+                },
+                "city": {
+                    "id": 49180,
+                    "name": "Jakarta"
+                },
+                "companyId": "64992ddf3b964400129bf127",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "fundingStage": null,
+                        "fundingAmount": null,
+                        "benefits": [
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "bonusSystem"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ]
+                    },
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/e06e0873-cfe0-4200-9e65-396b821b632f.png",
+                    "rank": "A",
+                    "name": "PT Jasa Teknologi Informasi",
+                    "sector": "IT Services And IT Consulting",
+                    "slug": "pt-jasa-teknologi-informasi",
+                    "id": "64992ddf3b964400129bf127",
+                    "trialStartedAt": "2023-07-27T09:11:29.489Z",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "email": "vinny.leonita@ibm.com",
+                    "name": "Vinny Leonita",
+                    "id": "64992ddf3b964400129bf12b"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2023-12-12T04:51:40.137Z",
+                "updatedAt": "2024-09-10T09:42:21.633Z",
+                "updatedAtByEmployer": "2024-02-07T04:20:51.233Z",
+                "latestUpdatedAt": "2023-12-12T04:51:40.135Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 7,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": null
+            },
+            {
+                "id": "6639f597f0242500125c16dd",
+                "slug": "senior-solution-architect",
+                "role": "Senior Solution Architect",
+                "authorId": "62b42daeeb313c0013d40e59",
+                "stats": {
+                    "viewCount": 3682,
+                    "nonCuratedCount": 100
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-05-07T09:34:15.875Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [
+                        "6284a5ae49476f0015ec3ca0"
+                    ],
+                    "university": null,
+                    "lastEducations": [
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta",
+                    "id": 49180
+                },
+                "companyId": "62b43059f9aaf2001215523c",
+                "categoryId": "630cfd2551c6b2001373125e",
+                "categorySlug": "business-dev-and-sales",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "periodLeave",
+                            "medicalLeave",
+                            "competitiveSalary",
+                            "dentalInsurance",
+                            "bonusSystem",
+                            "gymMembership",
+                            "maternityLeave",
+                            "paidSickDays",
+                            "professionalDevelopment",
+                            "wellnessProgram",
+                            "Privy Sport Plus: Fun sport exercise programs (badminton, futsal, tamiya, basket, etc.)",
+                            "Privy Mind: PrivyMind: Free psychological consultation to keep your mental health on track. "
+                        ],
+                        "workingPolicies": [
+                            "flexible",
+                            "hybrid",
+                            "workFromAnywhere",
+                            "onSite"
+                        ],
+                        "fundingStage": "seriesC",
+                        "fundingAmount": null
+                    },
+                    "name": "Privy",
+                    "rank": "B",
+                    "trialStartedAt": "2022-06-23T09:20:25.394Z",
+                    "id": "62b43059f9aaf2001215523c",
+                    "sector": "SaaS",
+                    "logoUrl": "https://cdn.sejutacita.id/62b42daeeb313c0013d40e59/Others/b85e7953-5f98-4e0c-ae4a-fdd262cf8da9.jpeg",
+                    "slug": "privy",
+                    "verified": true
+                },
+                "skills": [
+                    {
+                        "name": "Mandarin",
+                        "id": "6284a5ae49476f0015ec3ca0"
+                    }
+                ],
+                "deletedAt": null,
+                "author": {
+                    "name": "Goldy Imlenia",
+                    "id": "62b43059f9aaf2001215523f",
+                    "email": "hiring@privy.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-05-07T09:34:15.884Z",
+                "updatedAt": "2024-09-10T09:51:05.966Z",
+                "updatedAtByEmployer": "2024-06-20T06:00:30.220Z",
+                "latestUpdatedAt": "2024-05-07T09:34:15.881Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 6,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-09-30T04:28:52.763Z"
+            },
+            {
+                "id": "6600fc91fdb29d0012c4b74f",
+                "slug": "it-solution-architect",
+                "role": "IT Solution Architect",
+                "authorId": "65095467e988fd0013391eb2",
+                "stats": {
+                    "viewCount": 2541,
+                    "nonCuratedCount": 170
+                },
+                "employmentTypes": [
+                    "fullTime"
+                ],
+                "workplaceType": "onSite",
+                "publishedAt": "2024-03-25T04:24:49.622Z",
+                "status": "active",
+                "salaryType": "paid",
+                "salaryRange": null,
+                "candidatePreference": {
+                    "minimumGpa": null,
+                    "major": null,
+                    "skillIds": [],
+                    "university": null,
+                    "lastEducations": [
+                        5,
+                        6
+                    ]
+                },
+                "country": {
+                    "name": "Indonesia",
+                    "id": 102
+                },
+                "city": {
+                    "name": "Jakarta Barat",
+                    "id": 156
+                },
+                "companyId": "6509572df4f49c001259751a",
+                "categoryId": "630d00dd51c6b200137314b0",
+                "categorySlug": "it-and-engineering",
+                "company": {
+                    "insight": {
+                        "benefits": [
+                            "competitiveSalary",
+                            "medicalLeave",
+                            "bonusSystem",
+                            "professionalDevelopment",
+                            "dentalInsurance"
+                        ],
+                        "workingPolicies": [
+                            "onSite"
+                        ],
+                        "fundingStage": "Public Listed Company",
+                        "fundingAmount": null
+                    },
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "rank": "B",
+                    "trialStartedAt": "2023-09-21T06:25:35.508Z",
+                    "id": "6509572df4f49c001259751a",
+                    "sector": "Information Tecnology",
+                    "logoUrl": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/98f7f49a-ee12-4b2f-8984-b2134f33cc87.png",
+                    "slug": "pt-metrodata-electronics-tbk",
+                    "verified": true
+                },
+                "skills": [],
+                "deletedAt": null,
+                "author": {
+                    "name": "PT Metrodata Electronics Tbk.",
+                    "id": "6509572df4f49c001259751e",
+                    "email": "adella.lay@mii.co.id"
+                },
+                "qCompanyRank": null,
+                "createdAt": "2024-03-25T04:24:49.634Z",
+                "updatedAt": "2024-09-10T09:42:21.063Z",
+                "updatedAtByEmployer": "2024-06-21T08:03:00.789Z",
+                "latestUpdatedAt": "2024-03-25T04:24:49.628Z",
+                "urgentlyNeeded": false,
+                "saved": false,
+                "applied": false,
+                "waitListed": false,
+                "applicantPrioritySlots": 5,
+                "higherSalary": null,
+                "eligibleToApply": true,
+                "thereAreStillFewApplicants": false,
+                "lastActivelyHiringAt": "2024-10-24T01:02:12.535Z"
+            }
+        ],
+        "totalDocs": 4,
+        "totalPages": 1,
+        "page": 1
+    },
+    "code": 200
+}
